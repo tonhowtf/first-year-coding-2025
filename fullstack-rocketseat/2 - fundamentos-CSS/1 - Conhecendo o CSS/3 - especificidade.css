@@ -1,0 +1,8 @@
+/* Especificidade
+  - Cada Seletor tem um peso
+  - Soma dos pesos faz uma declaração ser aplicada.
+
+  #id - 100
+  .class - 10
+  element - 1
+*/
