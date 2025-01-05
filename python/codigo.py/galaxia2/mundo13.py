@@ -64,8 +64,11 @@ dicionario_marvel = {'Filme': "Pantera negra", "Data estreia": "2018-02-15", 'Bi
 
 separador('Exercício 14')
 
-empresa_x = {'nome': 'Gato','cnpj': '23384615000164', 'codigo': 'gato3', 'ano de fundacao': "2018-02-15", 'Segmento de listagem': 'Novo Mercado', 'P/L': 30, 'ROE': 0.45}
+empresa_x = {'nome': 'Gato','cnpj': '23384615000164', 'codigo': 'gato3', 'ano de fundacao': "2018-02-15", 'segmento de listagem': 'Novo Mercado', 'P/L': 30, 'ROE': 0.45}
 
 separador('Exercício 15')
 
-print(f'Nome da empresa: {empresa_x.get('nome')}')
+print(f'Nome da empresa: {empresa_x.get('nome')},{empresa_x.get('codigo')}, {empresa_x.get('ano de fundacao')}, {empresa_x.get('segmento de listagem')}, {empresa_x.get('P/L')}, {empresa_x.get('ROE')}')
+
+compra = input('Você compraria ações da empresa X?')
+empresa_x.update({'compra': compra})
