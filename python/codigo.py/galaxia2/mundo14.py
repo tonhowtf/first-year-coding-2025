@@ -87,9 +87,17 @@ separador('exercicio 17')
 
 telefone = input("Digite seu telefone: ")   
 # padrao = r'[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}'
-padrao_telefone = r'\d{2}-\d{9}'
-regular = re.compile(padrao_telefone)
-regular.findall(telefone)
+#padrao_telefone = r'\d{2}-\d{9}'
 
-if re.fullmatch(regular, telefone):
-    print("Telefone válido")       
+
+padrao = r'^\(?[1-9]{2}\)? ?(?:[2-8]|9[1-9])[0-9]{3}-[0-9]{4}$'
+
+padrao_telefone = re.compile(padrao)
+
+telefone = str(input("Digite seu telefone: "))
+
+if re.fullmatch(padrao_telefone, telefone):
+    print("Telefone válido")
+else:
+    print("Telefone inválido")
+
