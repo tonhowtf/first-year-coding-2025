@@ -7,7 +7,7 @@ separador('criando uma condição')
 
 #banco de dados
 
-weg = {"ticker": "WEGE3", "Lucro": 1700.00, 'Segmento de listagem': "Novo mercado", 'ROE': 0.20}
+"""weg = {"ticker": "WEGE3", "Lucro": 1700.00, 'Segmento de listagem': "Novo mercado", 'ROE': 0.20}
 
 vale = {"ticker": "VALE3", "Lucro": 21700.00, 'Segmento de listagem': "Novo mercado", 'ROE': 0.19}
 
@@ -43,4 +43,32 @@ if empresa_escolhida == "tranqueira":
 
         escolha = False
     else:
-        pass
+        pass"""
+
+separador('exercício 18')
+
+codigo_de_negociacao = int(input("Digite o código de negociação: "))
+codigos = ['PN', 'ON', 'UNIT']
+
+if codigo_de_negociacao[-1] == 4:
+    print('PN')
+elif codigo_de_negociacao[-1] == 11:
+    print('UNIT')
+elif codigo_de_negociacao[-1] == 3:
+    print('ON')
+else: 
+    print('Código inválido')
+
+separador('exercício 19')  
+
+nome_da_empresa = str(input("Digite o nome da empresa: "))
+ROE = float(input("Digite o ROE da empresa: "))
+preco_lucro = float(input("Digite o preço/lucro da empresa: "))
+
+if ROE > 0.20 and preco_lucro > 10 and preco_lucro > 0:
+    print(f"{nome_da_empresa} é uma boa empresa para se investir")
+
+if ROE > 0.10 and preco_lucro <= 5 or preco_lucro < 0:
+    print(f"{nome_da_empresa} não é uma boa empresa para se investir")
+
+
