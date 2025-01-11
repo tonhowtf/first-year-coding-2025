@@ -1,4 +1,4 @@
-package TiposDeDados;
+package Condicoes;
 
 public class ifEElse {
     public static void main(String[] args) {

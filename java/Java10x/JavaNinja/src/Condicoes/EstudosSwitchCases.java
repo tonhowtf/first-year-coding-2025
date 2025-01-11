@@ -1,4 +1,4 @@
-package TiposDeDados;
+package Condicoes;
 
 import java.util.Scanner;
 
