@@ -23,8 +23,11 @@ public class Array {
         ninja[2] = "Hiruzen Sarutobi";
         ninja[3] = "Minato Namikaze";
         ninja[4] = "Tsunade senju";
-        ninja[5] = "Kakashi Hatake"
+        ninja[5] = "Kakashi Hatake";
 
+        for(int i = 0; i < 7 ; i++){
+            System.out.println(ninja[i]);
+        }
 
         int[] idade = new int[2];
 
