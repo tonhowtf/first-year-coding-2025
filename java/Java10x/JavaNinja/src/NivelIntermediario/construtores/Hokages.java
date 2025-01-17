@@ -6,8 +6,7 @@ public class Hokages {
     int idade;
     boolean vivoOuNao;
 
-    public Hokages(){
-
+    public Hokages() {
     }
 
     public void Hokages() {
@@ -18,5 +17,17 @@ public class Hokages {
         this.nome = nome;
 
     }
+
+    public Hokages(int idade){
+        this.idade = idade;
+    }
+
+    public Hokages(String nome, int idade, boolean vivoOuNao){
+        this.nome = nome;
+        this.idade = idade;
+        this.vivoOuNao = vivoOuNao;
+    }
+
+
 
 }
