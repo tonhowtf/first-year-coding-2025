@@ -2,7 +2,7 @@
 
 Welcome to **first-year-coding-2025**, a repository for my first year of coding. This is where I document lessons, notes, and projects as I learn.
 
-4000 + 25 + 500 + 25 + 1000 + 500 + 2000 + 8000
+4000 + 25 + 500 + 25 + 1000 + 500 + 2000 + 8000 + 1500
 
 ---
 
