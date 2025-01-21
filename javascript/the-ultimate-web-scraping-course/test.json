@@ -1,0 +1,3584 @@
+{
+  "props": {
+    "pageProps": {
+      "defaultReviewsLimit": 25,
+      "defaultReviewsOffset": 0,
+      "profile": {
+        "spid": "10416396",
+        "uuid": "cab076af-1c40-11ee-b010-12f6eb045c11",
+        "contactInfo": {
+          "emails": [
+            {
+              "type": "Primary",
+              "email": "sales@hoopsaustin.com"
+            }
+          ],
+          "phoneNumbers": [
+            {
+              "type": "Primary",
+              "phoneNumber": "5128886608"
+            }
+          ],
+          "website": "www.hoopsaustin.com/",
+          "address": {
+            "street1": "2900 W Anderson Ln",
+            "street2": "",
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA",
+            "postalCode": "78757"
+          }
+        },
+        "businessInfo": {
+          "legacyId": "10416396",
+          "primaryAddressId": 12369082,
+          "businessName": "Hoops Austin",
+          "businessDescription": "Hoops Austin serves central Texas including Austin, San Antonio, and surrounding areas. We offer complete turn-key solutions including delivery and installation of premium home basketball goals. The in-ground systems we offer are fully adjustable from approximately 5 feet and are backed by a Hoops lifetime warranty. If you’re looking for a durable professional playing basketball goal for your driveway or backyard game court we have the perfect solution for you.\n\nStarted by Eddie Oran, Hoops Austin has been providing the highest quality basketball goals since 2005. Eddie has long loved the game of basketball and his experience and passion for the game has helped Hoops Austin continue to grow and serve Central Texas.\n ",
+          "inBusinessSince": 2005,
+          "hoursInfo": {
+            "hoursInfoDetail": [],
+            "acceptsAppointments": true
+          },
+          "advertiser": false,
+          "onAngiSince": "2010-07-06",
+          "amenities": {
+            "ecoFriendlyAccreditations": false,
+            "emergencyServices": false,
+            "emergencyService": false,
+            "freeEstimates": false,
+            "warranties": false,
+            "warrantiesOffered": false,
+            "seniorDiscount": false,
+            "seniorDiscountValue": ""
+          },
+          "paymentOptions": [
+            "American Express",
+            "Check",
+            "Discover",
+            "MasterCard",
+            "PayPal",
+            "Visa"
+          ],
+          "licenses": [
+            {
+              "verifyLicense": false,
+              "categories": [],
+              "licenseStatus": "",
+              "licenseName": "",
+              "licenseNumber": "",
+              "licenseAuthority": "",
+              "expirationDate": "",
+              "state": "",
+              "trade": ""
+            }
+          ],
+          "insured": true,
+          "bonded": false,
+          "status": "Active",
+          "businessHighlights": []
+        },
+        "logoUrl": "https://media-content.angi.com/dc805dfa-125a-4be8-8483-759922849e43.jpg",
+        "images": [],
+        "awards": [],
+        "proShowcases": {
+          "showcases": [],
+          "totalShowcases": 0
+        },
+        "offers": [],
+        "servicesOffered": "Basketball goals & courts",
+        "noIndex": false,
+        "breadCrumbs": [
+          {
+            "text": "Angi",
+            "link": "https://www.angi.com/"
+          },
+          {
+            "text": "Local Reviews",
+            "link": "https://www.angi.com/companylist"
+          },
+          {
+            "text": "Basketball Goal Installers",
+            "link": "https://www.angi.com/companylist/basketball-goals.htm"
+          },
+          {
+            "text": "TX",
+            "link": "https://www.angi.com/companylist/us/tx"
+          },
+          {
+            "text": "Austin",
+            "link": "https://www.angi.com/companylist/austin/"
+          },
+          {
+            "text": "Austin Basketball Goal Installers",
+            "link": "https://www.angi.com/companylist/austin/basketball-goals.htm"
+          },
+          {
+            "text": "Hoops Austin",
+            "link": "https://www.angi.com/companylist/us/tx/austin/hoops-austin-reviews-4227305.htm"
+          }
+        ],
+        "slug": {
+          "canonical": "/companylist/us/tx/austin/hoops-austin-reviews-4227305.htm",
+          "aliases": []
+        },
+        "categoryProperties": [
+          {
+            "id": 27,
+            "name": "Basketball Goals",
+            "categoryOptIn": true,
+            "haTaskId": 40435,
+            "isSEOCity": true,
+            "metrics": {
+              "allTimeReviewCount": 3,
+              "allTimeGrade": "A",
+              "allTimeGpa": 4,
+              "starRating": 5
+            },
+            "conjugations": [
+              {
+                "conjugationType": "Singular",
+                "conjugationText": "basketball goal installer"
+              },
+              {
+                "conjugationType": "Singular Type",
+                "conjugationText": "installer"
+              },
+              {
+                "conjugationType": "Singular Alternate Name",
+                "conjugationText": "basketball hoop installation"
+              },
+              {
+                "conjugationType": "Plural",
+                "conjugationText": "basketball goal installers"
+              },
+              {
+                "conjugationType": "Plural Type",
+                "conjugationText": "basketball goal installer"
+              },
+              {
+                "conjugationType": "Plural Alternate Name",
+                "conjugationText": "basketball hoop installation"
+              },
+              {
+                "conjugationType": "Adjective",
+                "conjugationText": "basketball hoop installation"
+              },
+              {
+                "conjugationType": "Top Search",
+                "conjugationText": "basketball goals"
+              },
+              {
+                "conjugationType": "Url Stub",
+                "conjugationText": "basketball-goals"
+              },
+              {
+                "conjugationType": "Hide Link In Company Tree",
+                "conjugationText": "FALSE"
+              },
+              {
+                "conjugationType": "testing_sandbox",
+                "conjugationText": "B"
+              }
+            ]
+          },
+          {
+            "id": 703,
+            "name": "Decorative Concrete",
+            "categoryOptIn": true,
+            "haTaskId": 40196,
+            "isSEOCity": true,
+            "metrics": {
+              "allTimeReviewCount": 0,
+              "allTimeGrade": "NA",
+              "allTimeGpa": -1,
+              "starRating": 0
+            },
+            "conjugations": [
+              {
+                "conjugationType": "Singular",
+                "conjugationText": "stamped concrete contractor"
+              },
+              {
+                "conjugationType": "Singular Type",
+                "conjugationText": "contractor"
+              },
+              {
+                "conjugationType": "Singular Alternate Name",
+                "conjugationText": "decorative concrete contractor"
+              },
+              {
+                "conjugationType": "Plural",
+                "conjugationText": "stamped concrete contractors"
+              },
+              {
+                "conjugationType": "Plural Type",
+                "conjugationText": "stamped concrete contractor"
+              },
+              {
+                "conjugationType": "Plural Alternate Name",
+                "conjugationText": "stamped concrete contractors"
+              },
+              {
+                "conjugationType": "Adjective",
+                "conjugationText": "stamped concrete"
+              },
+              {
+                "conjugationType": "Top Search",
+                "conjugationText": "stamped concrete"
+              },
+              {
+                "conjugationType": "Url Stub",
+                "conjugationText": "concrete-stamped-decorative"
+              },
+              {
+                "conjugationType": "Hide Link In Company Tree",
+                "conjugationText": "FALSE"
+              },
+              {
+                "conjugationType": "testing_sandbox",
+                "conjugationText": "A"
+              }
+            ]
+          },
+          {
+            "id": 265,
+            "name": "Fitness - Equipment",
+            "categoryOptIn": true,
+            "isSEOCity": true,
+            "metrics": {
+              "allTimeReviewCount": 0,
+              "allTimeGrade": "NA",
+              "allTimeGpa": -1,
+              "starRating": 0
+            },
+            "conjugations": [
+              {
+                "conjugationType": "Singular",
+                "conjugationText": "fitness equipment store"
+              },
+              {
+                "conjugationType": "Singular Type",
+                "conjugationText": "location"
+              },
+              {
+                "conjugationType": "Singular Alternate Name",
+                "conjugationText": "fitness equipment store"
+              },
+              {
+                "conjugationType": "Plural",
+                "conjugationText": "fitness equipment retailer"
+              },
+              {
+                "conjugationType": "Plural Type",
+                "conjugationText": "fitness equipment retailer"
+              },
+              {
+                "conjugationType": "Plural Alternate Name",
+                "conjugationText": "sports equipment stores"
+              },
+              {
+                "conjugationType": "Adjective",
+                "conjugationText": "fitness equipment store"
+              },
+              {
+                "conjugationType": "Top Search",
+                "conjugationText": "fitness equipment"
+              },
+              {
+                "conjugationType": "Url Stub",
+                "conjugationText": "fitness-equipment"
+              },
+              {
+                "conjugationType": "Hide Link In Company Tree",
+                "conjugationText": "TRUE"
+              }
+            ]
+          },
+          {
+            "id": 106,
+            "name": "Playgrounds",
+            "categoryOptIn": true,
+            "haTaskId": -12053,
+            "isSEOCity": true,
+            "metrics": {
+              "allTimeReviewCount": 0,
+              "allTimeGrade": "NA",
+              "allTimeGpa": -1,
+              "starRating": 0
+            },
+            "conjugations": [
+              {
+                "conjugationType": "Singular",
+                "conjugationText": "playground equipment installer"
+              },
+              {
+                "conjugationType": "Singular Type",
+                "conjugationText": "contractor"
+              },
+              {
+                "conjugationType": "Singular Alternate Name",
+                "conjugationText": "playground installation"
+              },
+              {
+                "conjugationType": "Plural",
+                "conjugationText": "playground equipment"
+              },
+              {
+                "conjugationType": "Plural Type",
+                "conjugationText": "playground equipment installer"
+              },
+              {
+                "conjugationType": "Plural Alternate Name",
+                "conjugationText": "playground equipment installers"
+              },
+              {
+                "conjugationType": "Adjective",
+                "conjugationText": "playground equipment installation"
+              },
+              {
+                "conjugationType": "Top Search",
+                "conjugationText": "playground equipment"
+              },
+              {
+                "conjugationType": "Url Stub",
+                "conjugationText": "playground-equipment"
+              },
+              {
+                "conjugationType": "Hide Link In Company Tree",
+                "conjugationText": "FALSE"
+              },
+              {
+                "conjugationType": "testing_sandbox",
+                "conjugationText": "A"
+              }
+            ]
+          },
+          {
+            "id": 44,
+            "name": "Concrete Pouring and Repair",
+            "categoryOptIn": true,
+            "haTaskId": 40016,
+            "isSEOCity": true,
+            "metrics": {
+              "allTimeReviewCount": 0,
+              "allTimeGrade": "NA",
+              "allTimeGpa": -1,
+              "starRating": 0
+            },
+            "conjugations": [
+              {
+                "conjugationType": "Singular",
+                "conjugationText": "concrete repair contractor"
+              },
+              {
+                "conjugationType": "Singular Type",
+                "conjugationText": "contractor"
+              },
+              {
+                "conjugationType": "Singular Alternate Name",
+                "conjugationText": "concrete contractor"
+              },
+              {
+                "conjugationType": "Plural",
+                "conjugationText": "concrete repair contractors"
+              },
+              {
+                "conjugationType": "Plural Type",
+                "conjugationText": "concrete repair contractor"
+              },
+              {
+                "conjugationType": "Plural Alternate Name",
+                "conjugationText": "concrete contractors"
+              },
+              {
+                "conjugationType": "Adjective",
+                "conjugationText": "concrete repair"
+              },
+              {
+                "conjugationType": "Top Search",
+                "conjugationText": "concrete repair"
+              },
+              {
+                "conjugationType": "Url Stub",
+                "conjugationText": "concrete-repair"
+              },
+              {
+                "conjugationType": "Hide Link In Company Tree",
+                "conjugationText": "FALSE"
+              },
+              {
+                "conjugationType": "testing_sandbox",
+                "conjugationText": "B"
+              }
+            ]
+          }
+        ],
+        "eligibleForRaq": true,
+        "spProperties": [
+          {
+            "value": "false",
+            "name": "bonded"
+          },
+          {
+            "value": "no",
+            "name": "freeEstimates"
+          },
+          {
+            "value": "2005",
+            "name": "inBusinessSinceDescription"
+          },
+          {
+            "value": "We are fully bonded and insured.",
+            "name": "insurancePolicyDetails"
+          },
+          {
+            "value": "true",
+            "name": "insured"
+          },
+          {
+            "value": "false",
+            "name": "leadFree"
+          },
+          {
+            "value": "Check,Visa,MasterCard,American Express,Discover,PayPal",
+            "name": "paymentTypes"
+          },
+          {
+            "value": "No",
+            "name": "seniorDiscount"
+          },
+          {
+            "value": "ASK FOR DETAILS",
+            "name": "warranties"
+          },
+          {
+            "value": "false",
+            "name": "ecoFriendlyAccreditations"
+          }
+        ],
+        "combinedMetrics": {
+          "reviewMetrics": {
+            "gradeCounts": [
+              {
+                "grade": "A",
+                "count": 3,
+                "starRating": 5
+              }
+            ],
+            "ratingTypeMetrics": [
+              {
+                "ratingType": "Professionalism",
+                "gpa": 4,
+                "grade": "A",
+                "count": 3,
+                "starRating": 5
+              },
+              {
+                "ratingType": "Responsiveness",
+                "gpa": 4,
+                "grade": "A",
+                "count": 3,
+                "starRating": 5
+              },
+              {
+                "ratingType": "Price",
+                "gpa": 4,
+                "grade": "A",
+                "count": 3,
+                "starRating": 5
+              },
+              {
+                "ratingType": "Punctuality",
+                "gpa": 4,
+                "grade": "A",
+                "count": 3,
+                "starRating": 5
+              },
+              {
+                "ratingType": "Overall",
+                "gpa": 4,
+                "grade": "A",
+                "count": 3,
+                "starRating": 5
+              },
+              {
+                "ratingType": "Quality",
+                "gpa": 4,
+                "grade": "A",
+                "count": 3,
+                "starRating": 5
+              }
+            ],
+            "count": 3,
+            "showGoogleReview": false
+          },
+          "displayMetrics": {
+            "gpa": 4,
+            "grade": "A",
+            "reviewCount": 3,
+            "starRating": 5
+          },
+          "allCategoriesMetrics": {
+            "allTimeGrade": "A",
+            "allTimeReviewCount": 3,
+            "allTimeGPA": 4,
+            "recentReviewCount": 0,
+            "recentGPA": -1,
+            "recentGrade": "NA",
+            "starRating": 5
+          }
+        },
+        "reviews": [
+          {
+            "id": 20360546,
+            "source": "Angi",
+            "dateOfService": "2013-04-22T00:00:00.000Z",
+            "costOfService": 300,
+            "willHireAgain": true,
+            "workCompleted": true,
+            "displayName": "ANDREA & MARK B.",
+            "descriptionOfWork": "Installed inground basketball hoop",
+            "reviewText": "Very flexible and did great work.",
+            "categories": [
+              {
+                "id": 27,
+                "conjugations": [
+                  {
+                    "conjugationType": "Singular",
+                    "conjugationText": "basketball goal installer"
+                  },
+                  {
+                    "conjugationType": "Singular Type",
+                    "conjugationText": "installer"
+                  },
+                  {
+                    "conjugationType": "Singular Alternate Name",
+                    "conjugationText": "basketball hoop installation"
+                  },
+                  {
+                    "conjugationType": "Plural",
+                    "conjugationText": "basketball goal installers"
+                  },
+                  {
+                    "conjugationType": "Plural Type",
+                    "conjugationText": "basketball goal installer"
+                  },
+                  {
+                    "conjugationType": "Plural Alternate Name",
+                    "conjugationText": "basketball hoop installation"
+                  },
+                  {
+                    "conjugationType": "Adjective",
+                    "conjugationText": "basketball hoop installation"
+                  },
+                  {
+                    "conjugationType": "Top Search",
+                    "conjugationText": "basketball goals"
+                  },
+                  {
+                    "conjugationType": "Url Stub",
+                    "conjugationText": "basketball-goals"
+                  },
+                  {
+                    "conjugationType": "Hide Link In Company Tree",
+                    "conjugationText": "FALSE"
+                  },
+                  {
+                    "conjugationType": "testing_sandbox",
+                    "conjugationText": "B"
+                  }
+                ]
+              }
+            ],
+            "reportDate": "2014-12-30",
+            "ratings": [
+              {
+                "ratingType": "Overall",
+                "grade": "A",
+                "starRating": 5
+              },
+              {
+                "ratingType": "Price",
+                "grade": "A",
+                "starRating": 5
+              },
+              {
+                "ratingType": "Quality",
+                "grade": "A",
+                "starRating": 5
+              },
+              {
+                "ratingType": "Responsiveness",
+                "grade": "A",
+                "starRating": 5
+              },
+              {
+                "ratingType": "Punctuality",
+                "grade": "A",
+                "starRating": 5
+              },
+              {
+                "ratingType": "Professionalism",
+                "grade": "A",
+                "starRating": 5
+              }
+            ],
+            "media": [],
+            "isGoogleReview": false
+          },
+          {
+            "id": 35108211,
+            "source": "Angi",
+            "dateOfService": "2017-05-24T15:45:03.000Z",
+            "willHireAgain": true,
+            "workCompleted": true,
+            "displayName": "Jennifer T.",
+            "descriptionOfWork": "Install in ground basketball goal",
+            "reviewText": "It was good.",
+            "categories": [
+              {
+                "id": 27,
+                "conjugations": [
+                  {
+                    "conjugationType": "Singular",
+                    "conjugationText": "basketball goal installer"
+                  },
+                  {
+                    "conjugationType": "Singular Type",
+                    "conjugationText": "installer"
+                  },
+                  {
+                    "conjugationType": "Singular Alternate Name",
+                    "conjugationText": "basketball hoop installation"
+                  },
+                  {
+                    "conjugationType": "Plural",
+                    "conjugationText": "basketball goal installers"
+                  },
+                  {
+                    "conjugationType": "Plural Type",
+                    "conjugationText": "basketball goal installer"
+                  },
+                  {
+                    "conjugationType": "Plural Alternate Name",
+                    "conjugationText": "basketball hoop installation"
+                  },
+                  {
+                    "conjugationType": "Adjective",
+                    "conjugationText": "basketball hoop installation"
+                  },
+                  {
+                    "conjugationType": "Top Search",
+                    "conjugationText": "basketball goals"
+                  },
+                  {
+                    "conjugationType": "Url Stub",
+                    "conjugationText": "basketball-goals"
+                  },
+                  {
+                    "conjugationType": "Hide Link In Company Tree",
+                    "conjugationText": "FALSE"
+                  },
+                  {
+                    "conjugationType": "testing_sandbox",
+                    "conjugationText": "B"
+                  }
+                ]
+              }
+            ],
+            "reportDate": "2017-05-24",
+            "ratings": [
+              {
+                "ratingType": "Overall",
+                "grade": "A",
+                "starRating": 5
+              },
+              {
+                "ratingType": "Price",
+                "grade": "A",
+                "starRating": 5
+              },
+              {
+                "ratingType": "Quality",
+                "grade": "A",
+                "starRating": 5
+              },
+              {
+                "ratingType": "Responsiveness",
+                "grade": "A",
+                "starRating": 5
+              },
+              {
+                "ratingType": "Punctuality",
+                "grade": "A",
+                "starRating": 5
+              },
+              {
+                "ratingType": "Professionalism",
+                "grade": "A",
+                "starRating": 5
+              }
+            ],
+            "media": [],
+            "isGoogleReview": false
+          },
+          {
+            "id": 20360544,
+            "source": "Angi",
+            "dateOfService": "2008-08-15T00:00:00.000Z",
+            "willHireAgain": true,
+            "workCompleted": true,
+            "displayName": "Robert B.",
+            "descriptionOfWork": "They put up a basket ball goal.",
+            "reviewText": "We got what we expected.",
+            "categories": [
+              {
+                "id": 27,
+                "conjugations": [
+                  {
+                    "conjugationType": "Singular",
+                    "conjugationText": "basketball goal installer"
+                  },
+                  {
+                    "conjugationType": "Singular Type",
+                    "conjugationText": "installer"
+                  },
+                  {
+                    "conjugationType": "Singular Alternate Name",
+                    "conjugationText": "basketball hoop installation"
+                  },
+                  {
+                    "conjugationType": "Plural",
+                    "conjugationText": "basketball goal installers"
+                  },
+                  {
+                    "conjugationType": "Plural Type",
+                    "conjugationText": "basketball goal installer"
+                  },
+                  {
+                    "conjugationType": "Plural Alternate Name",
+                    "conjugationText": "basketball hoop installation"
+                  },
+                  {
+                    "conjugationType": "Adjective",
+                    "conjugationText": "basketball hoop installation"
+                  },
+                  {
+                    "conjugationType": "Top Search",
+                    "conjugationText": "basketball goals"
+                  },
+                  {
+                    "conjugationType": "Url Stub",
+                    "conjugationText": "basketball-goals"
+                  },
+                  {
+                    "conjugationType": "Hide Link In Company Tree",
+                    "conjugationText": "FALSE"
+                  },
+                  {
+                    "conjugationType": "testing_sandbox",
+                    "conjugationText": "B"
+                  }
+                ]
+              }
+            ],
+            "reportDate": "2012-08-24",
+            "ratings": [
+              {
+                "ratingType": "Overall",
+                "grade": "A",
+                "starRating": 5
+              },
+              {
+                "ratingType": "Price",
+                "grade": "A",
+                "starRating": 5
+              },
+              {
+                "ratingType": "Quality",
+                "grade": "A",
+                "starRating": 5
+              },
+              {
+                "ratingType": "Responsiveness",
+                "grade": "A",
+                "starRating": 5
+              },
+              {
+                "ratingType": "Punctuality",
+                "grade": "A",
+                "starRating": 5
+              },
+              {
+                "ratingType": "Professionalism",
+                "grade": "A",
+                "starRating": 5
+              }
+            ],
+            "media": [],
+            "isGoogleReview": false
+          }
+        ],
+        "similarSps": [
+          {
+            "spid": 28111104,
+            "slug": "/companylist/us/tx/cedar-creek/trejo-site-prep-llc-reviews-11388946.htm",
+            "name": "Trejo Site Prep LLC",
+            "description": "Trejo Site Prep LLC is a premier site preparation company dedicated to delivering top-notch services for all your construction needs. With a strong commitment to excellence, we specialize in land clearing, excavation, grading, site development, concrete foundation and removal, material hauling, detention pond, tree removal and stumps, hardwood flooring and repairs and gabions. Our team of experienced professionals utilizes state-of-the-art equipment and techniques to ensure that every project is completed efficiently, safely, and to the highest standards.\n\nAt Trejo Site Prep LLC, we understand the importance of a solid foundation for any construction project. Our comprehensive services include detailed site analysis, precision grading, and meticulous excavation to prepare your site for successful development. We pride ourselves on our reliability, integrity, and the ability to meet deadlines while maintaining the quality of our work.\n\nWhether you're planning a residential, commercial, or industrial project, Trejo Site Prep LLC is your trusted partner for all site preparation needs. Let us help you lay the groundwork for your next project with professionalism and expertise. Contact us today to learn more about how we can assist you in achieving your construction goals. Give us a call today at 512-299-8333",
+            "certified": true,
+            "awards": [],
+            "offers": false,
+            "inBusinessSince": 2022,
+            "allTimeAllCategoryReviewCount": 0,
+            "allTimeAllCategoryGrade": "NA",
+            "numberOfCategoryAssociations": 4
+          },
+          {
+            "spid": 7630297,
+            "slug": "/companylist/us/tx/round-rock/blaker-restorations-and-remodeling-inc-reviews-7630297.htm",
+            "name": "Blaker Restorations & Remodeling INC",
+            "description": "General contractors, exterior siding, roofing, thermal walls and thermal windows. Complete interior remodeling. Kitchens and bathrooms, flooring and painting. Foundation repair and custom patios",
+            "certified": true,
+            "awards": [],
+            "offers": false,
+            "inBusinessSince": 2009,
+            "allTimeAllCategoryReviewCount": 105,
+            "allTimeAllCategoryGrade": "B",
+            "starRating": 4,
+            "numberOfCategoryAssociations": 54
+          },
+          {
+            "spid": 27014315,
+            "slug": "/companylist/us/tx/cedar-park/concrete-by-tandt-reviews-10843965.htm",
+            "name": "Concrete by T&T",
+            "description": "Concrete by T & T has provided services for the Las Vegas valley for 20 years with expansion into Texas over the last 9 years. We pride ourselves on 100% quality workmanship. Specializing in all types of concrete, we are experienced with driveways, patios, sidewalks, foundations, curbs, gutters, ADA ramps, pool-decks, line concrete pump services for those hard to access areas and much more. If regular grey concrete seems ordinary, we can provide custom designed concrete spreads, adding durable affordable elegance to your home or business. \n\nOur pricing is competitive and we want to help you in your residential or commercial concrete/construction needs.",
+            "certified": true,
+            "awards": [
+              {
+                "name": "Award 2024",
+                "description": "Award 2024",
+                "url": "https://media.angi.com/s3fs-public/SSA2024.png"
+              }
+            ],
+            "logo": {
+              "id": 20890147,
+              "url": "https://media-content.angi.com/1198f49f-b7d0-43c0-a026-233412a6fe72.png"
+            },
+            "offers": false,
+            "inBusinessSince": 2014,
+            "allTimeAllCategoryReviewCount": 3,
+            "allTimeAllCategoryGrade": "A",
+            "starRating": 5,
+            "numberOfCategoryAssociations": 7
+          }
+        ],
+        "geoInfo": {
+          "path": "austin",
+          "displayName": "Austin"
+        },
+        "ecoFriendlyAccreditations": {
+          "leedAccredited": false,
+          "energyStarPartner": false,
+          "epaLeadSafeCertified": false,
+          "greenProductWorkPracticeProfessional": false
+        },
+        "serviceAreaPostalCodes": [
+          "73301",
+          "73344",
+          "76527",
+          "76530",
+          "76537",
+          "76573",
+          "76574",
+          "76578",
+          "78602",
+          "78605",
+          "78606",
+          "78610",
+          "78611",
+          "78612",
+          "78613",
+          "78615",
+          "78616",
+          "78617",
+          "78619",
+          "78620",
+          "78621",
+          "78622",
+          "78626",
+          "78627",
+          "78628",
+          "78630",
+          "78633",
+          "78634",
+          "78636",
+          "78640",
+          "78641",
+          "78642",
+          "78644",
+          "78645",
+          "78646",
+          "78650",
+          "78651",
+          "78652",
+          "78653",
+          "78654",
+          "78655",
+          "78656",
+          "78659",
+          "78660",
+          "78662",
+          "78663",
+          "78664",
+          "78665",
+          "78666",
+          "78667",
+          "78669",
+          "78673",
+          "78674",
+          "78676",
+          "78680",
+          "78681",
+          "78682",
+          "78683",
+          "78691",
+          "78701",
+          "78702",
+          "78703",
+          "78704",
+          "78705",
+          "78708",
+          "78709",
+          "78710",
+          "78711",
+          "78712",
+          "78713",
+          "78714",
+          "78715",
+          "78716",
+          "78717",
+          "78718",
+          "78719",
+          "78720",
+          "78721",
+          "78722",
+          "78723",
+          "78724",
+          "78725",
+          "78726",
+          "78727",
+          "78728",
+          "78729",
+          "78730",
+          "78731",
+          "78732",
+          "78733",
+          "78734",
+          "78735",
+          "78736",
+          "78737",
+          "78738",
+          "78739",
+          "78741",
+          "78742",
+          "78744",
+          "78745",
+          "78746",
+          "78747",
+          "78748",
+          "78749",
+          "78750",
+          "78751",
+          "78752",
+          "78753",
+          "78754",
+          "78755",
+          "78756",
+          "78757",
+          "78758",
+          "78759",
+          "78760",
+          "78761",
+          "78762",
+          "78763",
+          "78764",
+          "78765",
+          "78766",
+          "78767",
+          "78768",
+          "78769",
+          "78772",
+          "78773",
+          "78774",
+          "78778",
+          "78779",
+          "78783",
+          "78799"
+        ]
+      },
+      "profileError": null,
+      "gMapsApiKey": "AIzaSyAGGS0Q7dARjRia9UK9rL_5PaKDiyMTxU4",
+      "showProfileImages": false,
+      "filteredReviews": [],
+      "filteredReviewsOffset": 0,
+      "filteredReviewsLimit": 10,
+      "loadingReviews": false,
+      "activityLocation": "",
+      "loadingShowcaseList": false,
+      "showcaseDetails": null,
+      "showcaseListLimit": 10,
+      "showcaseList": null,
+      "showcaseListOffset": 0,
+      "config": {
+        "appVersion": "1.0.0",
+        "appName": "visitor-spprofile-next-app",
+        "campaignKeys": {
+          "cid": "cid",
+          "entry_point_id": "epid",
+          "s_kwcid": "kwcid"
+        },
+        "envGoogleMapsVisitorAPIKey": "AIzaSyAGGS0Q7dARjRia9UK9rL_5PaKDiyMTxU4",
+        "recaptchaSiteKey": "6LfaqBkUAAAAAKNQKUUV-6FxVbg9u_U2P5XZCLhx",
+        "algoliaApiKey": "6a393a30e8e240f7e2c6e3905cc6ee09",
+        "algoliaTaskIndexName": "angi_prod_task",
+        "algoliaAccountId": "CY6DJ1RISQ"
+      },
+      "globalNavigation": {
+        "internalName": "Global Navigation - Standard Category Groupings",
+        "groupings": [
+          {
+            "internalName": "Interior Navigation Group",
+            "navigationTitle": "Interior",
+            "linksTitle": "Find a pro",
+            "articlesTitle": "Research & plan",
+            "moreArticlesText": "View all",
+            "moreArticlesUrl": "https://www.angi.com/articles/home-interiors",
+            "moreLinksText": "View all",
+            "moreLinksUrl": "https://www.angi.com/companylist/",
+            "articles": [
+              {
+                "internalName": "2024 Interior House Painting Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://media.angi.com/s3fs-public/room-with-painted-trim.jpg",
+                  "caption": "",
+                  "altText": "Historic room with painted trim",
+                  "photoCredit": "Photo: Robert Daly / OJO Images / Getty Images",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/how-much-does-it-cost-paint-interior-house.htm",
+                "title": "How Much Does Roof Replacement Cost? [2024 Data]"
+              },
+              {
+                "internalName": "2024 Bathroom Remodel Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://media.angi.com/s3fs-public/white-bathroom-navy-details.jpeg",
+                  "caption": null,
+                  "altText": "white bathroom with navy details",
+                  "photoCredit": "Photo: Studio Luniste",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/how-much-does-bathroom-remodel-cost.htm",
+                "title": "How Much Does a Bathroom Remodel Cost? [2024 Data]"
+              },
+              {
+                "internalName": "2024 House Cleaning Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://s3media.angieslist.com/s3fs-public/house-cleaners-cleaning.jpeg",
+                  "caption": "",
+                  "altText": "House cleaners cleaning",
+                  "photoCredit": "Photo: alfa27 / Adobe Stock",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/how-much-does-it-cost-hire-house-cleaner.htm",
+                "title": "How Much Does Professional House Cleaning Cost? [2024 Data]"
+              },
+              {
+                "internalName": "2024 Flooring Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://media.angi.com/s3fs-public/baby-crawling-away-from-parents.jpg",
+                  "caption": "",
+                  "altText": "Baby excitedly crawling across the floor away from parents",
+                  "photoCredit": "Photo: Nenetus / Adobe Stock",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/how-much-should-my-new-floor-cost.htm",
+                "title": "How Much Does New Flooring Installation Cost? [2024 Data]"
+              }
+            ],
+            "links": [
+              {
+                "internalName": null,
+                "name": "Appliance Repair",
+                "url": "https://www.angi.com/companylist/appliance-repair.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Carpet Cleaning",
+                "url": "https://www.angi.com/companylist/carpet-cleaning.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Contractors",
+                "url": "https://www.angi.com/companylist/contractor.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Drywall",
+                "url": "https://www.angi.com/companylist/drywall.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Electrical",
+                "url": "https://www.angi.com/companylist/electrical.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Flooring",
+                "url": "https://www.angi.com/companylist/flooring.htm"
+              },
+              {
+                "internalName": null,
+                "name": "HVAC",
+                "url": "https://www.angi.com/companylist/hvac.htm"
+              },
+              {
+                "internalName": null,
+                "name": "House Cleaning",
+                "url": "https://www.angi.com/companylist/house-cleaning.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Interior Painting",
+                "url": "https://www.angi.com/companylist/interior-painting.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Plumbing",
+                "url": "https://www.angi.com/companylist/plumbing.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Remodeling",
+                "url": "https://www.angi.com/companylist/kitchen-and-bath-remodeling.htm"
+              }
+            ]
+          },
+          {
+            "internalName": "Exterior Navigation Group",
+            "navigationTitle": "Exterior",
+            "linksTitle": "Find a pro",
+            "articlesTitle": "Research & plan",
+            "moreArticlesText": "View all",
+            "moreArticlesUrl": "https://www.angi.com/articles/home-exteriors",
+            "moreLinksText": "View all",
+            "moreLinksUrl": "https://www.angi.com/companylist/",
+            "articles": [
+              {
+                "internalName": "2024 Roof Replacement Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://s3media.angieslist.com/s3fs-public/red-ceramic-tile-roof.jpeg",
+                  "caption": "",
+                  "altText": "Ceramic tiled roof on house",
+                  "photoCredit": "Photo: Hennadii / Adobe Stock",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/how-much-does-roof-replacement-cost.htm",
+                "title": "How Much Does Roof Replacement Cost?"
+              },
+              {
+                "internalName": "2024 Siding Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://media.angi.com/s3fs-public/house-beige-viniyl-siding.jpeg",
+                  "caption": "",
+                  "altText": "A house with beige vinyl siding",
+                  "photoCredit": "Photo: JamesBrey / E+ / Getty Images",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/how-much-does-siding-cost-replace.htm",
+                "title": "How Much Does It Cost to Replace Siding? [2024 Data]"
+              },
+              {
+                "internalName": "2024 Window Replacement Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://media.angi.com/s3fs-public/living-room-large-windows.jpeg",
+                  "caption": null,
+                  "altText": "A bright living room with large windows",
+                  "photoCredit": "Photo: Portra / E+ / Getty Images",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/how-much-does-window-replacement-cost.htm",
+                "title": "How Much Does Window Replacement Cost? [2024 Data]"
+              },
+              {
+                "internalName": "2024 Fence Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://media.angi.com/s3fs-public/white-fencing.jpeg",
+                  "caption": "",
+                  "altText": "white wooden gate in front of white two-story house",
+                  "photoCredit": "Photo: Kristina Blokhin / Adobe Stock",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/how-much-does-fence-installation-cost.htm",
+                "title": "How Much Does Fence Installation Cost? [2024 Data]"
+              }
+            ],
+            "links": [
+              {
+                "internalName": null,
+                "name": "Concrete Repair",
+                "url": "https://www.angi.com/companylist/concrete-repair.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Doors",
+                "url": "https://www.angi.com/companylist/doors.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Driveways",
+                "url": "https://www.angi.com/companylist/driveways.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Exterior Painting",
+                "url": "https://www.angi.com/companylist/exterior-painting.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Garage Doors",
+                "url": "https://www.angi.com/companylist/garage-doors.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Gutter Cleaning",
+                "url": "https://www.angi.com/companylist/gutter-cleaning.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Gutter Repair",
+                "url": "https://www.angi.com/companylist/gutter-repair-replacement.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Home Builders",
+                "url": "https://www.angi.com/companylist/home-builders.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Masonry",
+                "url": "https://www.angi.com/companylist/masonry.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Roofing",
+                "url": "https://www.angi.com/companylist/roofing.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Siding",
+                "url": "https://www.angi.com/companylist/siding.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Windows",
+                "url": "https://www.angi.com/companylist/windows.htm"
+              }
+            ]
+          },
+          {
+            "internalName": "Lawn & Garden Navigation Group",
+            "navigationTitle": "Lawn & Garden",
+            "linksTitle": "Find a pro",
+            "articlesTitle": "Research & plan",
+            "moreArticlesText": "View all",
+            "moreArticlesUrl": "https://www.angi.com/articles/landscaping-lawn-care",
+            "moreLinksText": "View all",
+            "moreLinksUrl": "https://www.angi.com/companylist/",
+            "articles": [
+              {
+                "internalName": "2024 Lawn Care Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://media.angi.com/s3fs-public/professional-lawn-care-service-649824539.jpg",
+                  "caption": null,
+                  "altText": "Lawn care professional mowing the lawn",
+                  "photoCredit": "Photo: Tomasz Zajda / Adobe Stock",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/lawn-care-cost.htm",
+                "title": "How Much Does Lawn Care Cost? [2024 Data]"
+              },
+              {
+                "internalName": "Tree Removal Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://media.angi.com/s3fs-public/house-with-landscaping-trees.jpeg",
+                  "caption": "",
+                  "altText": "Home with beautiful trees and landscaping",
+                  "photoCredit": "Photo: littleny / Adobe Stock",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/how-much-does-tree-removal-cost.htm",
+                "title": "How Much Does Tree Removal Cost? [2024 Data]"
+              },
+              {
+                "internalName": "Landscaping Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://media.angi.com/s3fs-public/front-yard-home-landscaping (1).jpg",
+                  "caption": "",
+                  "altText": "beautiful home front yard landscaping",
+                  "photoCredit": "Photo: bmak / Adobe Stock",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/how-much-does-landscaping-cost.htm",
+                "title": "How Much Does Landscaping Cost? [2024 Data]"
+              },
+              {
+                "internalName": "Mulch Delivery & Installation Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://media.angi.com/s3fs-public/house-with-mulched-flowerbed.jpg",
+                  "caption": "",
+                  "altText": "House with mulched flowerbeds and mature plants",
+                  "photoCredit": "Photo: jhorrocks / E+ / Getty Images",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/how-much-does-mulch-delivery-and-install-cost.htm",
+                "title": "How Much Does Mulch Delivery & Installation Cost? [2024 Data]"
+              }
+            ],
+            "links": [
+              {
+                "internalName": null,
+                "name": "Decks",
+                "url": "https://www.angi.com/companylist/decks-and-porches.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Fencing",
+                "url": "https://www.angi.com/companylist/fencing.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Land Surveying",
+                "url": "https://www.angi.com/companylist/land-surveying.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Landscaping",
+                "url": "https://www.angi.com/companylist/landscaping.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Lawn & Yard Work",
+                "url": "https://www.angi.com/companylist/lawn-and-yard-work.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Sprinkler Systems",
+                "url": "https://www.angi.com/companylist/lawn-irrigation.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Leaf Removal",
+                "url": "https://www.angi.com/companylist/leaf-removal.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Patios",
+                "url": "https://www.angi.com/companylist/sunroom-and-patio-remodeling.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Pool Installation",
+                "url": "https://www.angi.com/companylist/swimming-pools.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Sunrooms",
+                "url": "https://www.angi.com/companylist/swimming-pools.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Tree Service",
+                "url": "https://www.angi.com/companylist/tree-service.htm"
+              }
+            ]
+          },
+          {
+            "internalName": "More Navigation Group",
+            "navigationTitle": "More",
+            "linksTitle": "Find a pro",
+            "articlesTitle": "Research & plan",
+            "moreArticlesText": "View all",
+            "moreArticlesUrl": "https://www.angi.com/articles",
+            "moreLinksText": "View all",
+            "moreLinksUrl": "https://www.angi.com/companylist/",
+            "articles": [
+              {
+                "internalName": "2024 Handyman Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://media.angi.com/s3fs-public/shaking-hands-handyperson-1289722081.jpeg",
+                  "caption": "",
+                  "altText": "A handyperson shakes hands with a home owner",
+                  "photoCredit": "Photo: dusanpetkovic / iStock / Getty Images",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/what-are-common-handyman-prices.htm",
+                "title": "What Does a Handyman Cost? [2024 Data]"
+              },
+              {
+                "internalName": "2024 Electrician Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://s3media.angieslist.com/s3fs-public/friends-dining-on-the-patio.jpeg",
+                  "caption": null,
+                  "altText": "Friends dining on a house patio at night",
+                  "photoCredit": "Photo: rh2010 / Adobe Stock ",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/how-much-does-it-cost-hire-electrician.htm",
+                "title": "How Much Does an Electrician Cost to Hire? [2024 Data]"
+              },
+              {
+                "internalName": "2024 Plumbing Cost Global Nav Link",
+                "imageThumbnail": {
+                  "url": "https://media.angi.com/s3fs-public/KichenSink.jpg",
+                  "caption": "",
+                  "altText": "Kitchen sink with appliances and cabinets in background",
+                  "photoCredit": "Photo: RAUL RODRIGUEZ / iStock / Getty Images Plus / Getty Images",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/plumber-cost.htm",
+                "title": "How Much Does Plumbing Repair Cost? [2024 Data]"
+              },
+              {
+                "internalName": "2024 Pest Control Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://media.angi.com/s3fs-public/home-pest-control.jpeg",
+                  "caption": "",
+                  "altText": "worker in white protective suit spraying pest repellant on window sill",
+                  "photoCredit": "Photo: LIGHTFIELD STUDIOS / Adobe Stock",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/how-much-does-pest-control-service-cost.htm",
+                "title": "How Much Does Pest Control Cost? [2024 Data]"
+              }
+            ],
+            "links": [
+              {
+                "internalName": null,
+                "name": "Basement Waterproofing",
+                "url": "https://www.angi.com/companylist/basement-waterproofing.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Handymen",
+                "url": "https://www.angi.com/companylist/handyman-service.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Junk Hauling",
+                "url": "https://www.angi.com/companylist/hauling.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Locksmiths",
+                "url": "https://www.angi.com/companylist/locksmiths.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Moving Companies",
+                "url": "https://www.angi.com/companylist/moving.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Pest Control",
+                "url": "https://www.angi.com/companylist/pest-control.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Pressure Washing",
+                "url": "https://www.angi.com/companylist/pressure-washing.htm"
+              },
+              {
+                "internalName": null,
+                "name": "Septic Tanks",
+                "url": "https://www.angi.com/companylist/septic-tank.htm"
+              }
+            ]
+          },
+          {
+            "internalName": "Articles & Advice Navigation Group",
+            "navigationTitle": "Articles & Advice",
+            "linksTitle": "Research & plan",
+            "articlesTitle": "Featured articles",
+            "moreArticlesText": "View all articles",
+            "moreArticlesUrl": "https://www.angi.com/articles",
+            "moreLinksText": "View all",
+            "moreLinksUrl": "https://www.angi.com/articles",
+            "articles": [
+              {
+                "internalName": "2024 Roof Replacement Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://s3media.angieslist.com/s3fs-public/red-ceramic-tile-roof.jpeg",
+                  "caption": "",
+                  "altText": "Ceramic tiled roof on house",
+                  "photoCredit": "Photo: Hennadii / Adobe Stock",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/how-much-does-roof-replacement-cost.htm",
+                "title": "How Much Does Roof Replacement Cost?"
+              },
+              {
+                "internalName": "2024 Pest Control Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://media.angi.com/s3fs-public/home-pest-control.jpeg",
+                  "caption": "",
+                  "altText": "worker in white protective suit spraying pest repellant on window sill",
+                  "photoCredit": "Photo: LIGHTFIELD STUDIOS / Adobe Stock",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/how-much-does-pest-control-service-cost.htm",
+                "title": "How Much Does Pest Control Cost? [2024 Data]"
+              },
+              {
+                "internalName": "Mulch Delivery & Installation Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://media.angi.com/s3fs-public/house-with-mulched-flowerbed.jpg",
+                  "caption": "",
+                  "altText": "House with mulched flowerbeds and mature plants",
+                  "photoCredit": "Photo: jhorrocks / E+ / Getty Images",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/how-much-does-mulch-delivery-and-install-cost.htm",
+                "title": "How Much Does Mulch Delivery & Installation Cost? [2024 Data]"
+              },
+              {
+                "internalName": "Mulch Delivery & Installation Cost Article Nav Link",
+                "imageThumbnail": {
+                  "url": "https://media.angi.com/s3fs-public/house-with-mulched-flowerbed.jpg",
+                  "caption": "",
+                  "altText": "House with mulched flowerbeds and mature plants",
+                  "photoCredit": "Photo: jhorrocks / E+ / Getty Images",
+                  "imageType": "Default"
+                },
+                "articleUrl": "https://www.angi.com/articles/how-much-does-mulch-delivery-and-install-cost.htm",
+                "title": "How Much Does Mulch Delivery & Installation Cost? [2024 Data]"
+              }
+            ],
+            "links": [
+              {
+                "internalName": null,
+                "name": "Appliances",
+                "url": "https://www.angi.com/articles/appliances"
+              },
+              {
+                "internalName": null,
+                "name": "Basements & Foundations",
+                "url": "https://www.angi.com/articles/basements-and-foundations"
+              },
+              {
+                "internalName": null,
+                "name": "Bathroom Remodel",
+                "url": "https://www.angi.com/articles/bathroom-remodel"
+              },
+              {
+                "internalName": null,
+                "name": "Chimneys & Fireplace",
+                "url": "https://www.angi.com/articles/chimneys-fireplaces"
+              },
+              {
+                "internalName": null,
+                "name": "Cleaning",
+                "url": "https://www.angi.com/articles/cleaning"
+              },
+              {
+                "internalName": null,
+                "name": "Contractors",
+                "url": "https://www.angi.com/articles/contractors"
+              },
+              {
+                "internalName": null,
+                "name": "Electrical",
+                "url": "https://www.angi.com/articles/electrical"
+              },
+              {
+                "internalName": null,
+                "name": "Flooring",
+                "url": "https://www.angi.com/articles/flooring"
+              },
+              {
+                "internalName": null,
+                "name": "Furniture",
+                "url": "https://www.angi.com/articles/furniture"
+              },
+              {
+                "internalName": null,
+                "name": "Garages & Driveways",
+                "url": "https://www.angi.com/articles/garages-and-driveways"
+              },
+              {
+                "internalName": null,
+                "name": "Heating & Cooling",
+                "url": "https://www.angi.com/articles/hvac"
+              },
+              {
+                "internalName": null,
+                "name": "Home Construction",
+                "url": "https://www.angi.com/articles/home-construction-design"
+              },
+              {
+                "internalName": null,
+                "name": "Home Exteriors",
+                "url": "https://www.angi.com/articles/home-exteriors"
+              },
+              {
+                "internalName": null,
+                "name": "Home Health Hazards",
+                "url": "https://www.angi.com/articles/home-health-hazards"
+              },
+              {
+                "internalName": null,
+                "name": "Home Interiors",
+                "url": "https://www.angi.com/articles/home-interiors"
+              },
+              {
+                "internalName": null,
+                "name": "Home Security",
+                "url": "https://www.angi.com/articles/home-security-systems"
+              },
+              {
+                "internalName": null,
+                "name": "Kitchen Remodeling",
+                "url": "https://www.angi.com/articles/kitchen-remodeling"
+              },
+              {
+                "internalName": null,
+                "name": "Landscaping",
+                "url": "https://www.angi.com/articles/landscaping-lawn-care"
+              },
+              {
+                "internalName": null,
+                "name": "Moving",
+                "url": "https://www.angi.com/articles/movers"
+              },
+              {
+                "internalName": null,
+                "name": "Outdoor Living",
+                "url": "https://www.angi.com/articles/outdoor-living"
+              },
+              {
+                "internalName": null,
+                "name": "Pest Control",
+                "url": "https://www.angi.com/articles/household-pest-control"
+              },
+              {
+                "internalName": null,
+                "name": "Plumbing",
+                "url": "https://www.angi.com/articles/plumbing"
+              },
+              {
+                "internalName": null,
+                "name": "Real Estate",
+                "url": "https://www.angi.com/articles/real-estate"
+              },
+              {
+                "internalName": null,
+                "name": "Remodeling",
+                "url": "https://www.angi.com/articles/remodeling"
+              },
+              {
+                "internalName": null,
+                "name": "Roofing",
+                "url": "https://www.angi.com/articles/roofing"
+              },
+              {
+                "internalName": null,
+                "name": "Storage & Organization",
+                "url": "https://www.angi.com/articles/storage-organization"
+              },
+              {
+                "internalName": null,
+                "name": "Waste Management",
+                "url": "https://www.angi.com/articles/waste-management"
+              },
+              {
+                "internalName": null,
+                "name": "Project Cost Center",
+                "url": "https://www.angi.com/articles/cost"
+              }
+            ]
+          }
+        ],
+        "brandIcon": {
+          "url": "https://media.angi.com/s3fs-public/Angi-logo-Orange.svg",
+          "caption": null,
+          "altText": "Angi Logo",
+          "photoCredit": null,
+          "imageType": "Default"
+        },
+        "joinAsProLink": {
+          "internalName": null,
+          "name": "Join as a Pro",
+          "url": "https://signup.angi.com/pro"
+        },
+        "loginLink": {
+          "internalName": null,
+          "name": "Log In",
+          "url": "https://www.angi.com/auth/login"
+        },
+        "signUpLink": {
+          "internalName": null,
+          "name": "Sign Up",
+          "url": "https://www.angi.com/create-account"
+        },
+        "servicesNearMeLink": {
+          "internalName": null,
+          "name": "Find Services Near Me",
+          "url": "https://www.angi.com/nearme"
+        },
+        "searchIcon": {
+          "url": "https://media.angi.com/s3fs-public/search.svg",
+          "caption": null,
+          "altText": "Search",
+          "photoCredit": null,
+          "imageType": "Default"
+        },
+        "signInIcon": {
+          "url": "https://media.angi.com/s3fs-public/User Avatar.svg",
+          "caption": null,
+          "altText": "Account",
+          "photoCredit": null,
+          "imageType": "Default"
+        },
+        "mobileOpenIcon": {
+          "url": "https://media.angi.com/s3fs-public/hamburger.svg",
+          "caption": null,
+          "altText": "Open Menu",
+          "photoCredit": null,
+          "imageType": "Default"
+        },
+        "mobileCloseIcon": {
+          "url": "https://media.angi.com/s3fs-public/close.svg",
+          "caption": null,
+          "altText": "Close Menu",
+          "photoCredit": null,
+          "imageType": "Default"
+        },
+        "variant": "testVariant"
+      },
+      "userPostalCode": "",
+      "sessionId": null,
+      "displayId": "b01b1648-35cf-4092-b995-b3fab7855027",
+      "initialState": {
+        "config": {
+          "appVersion": "1.0.0",
+          "appName": "visitor-spprofile-next-app",
+          "campaignKeys": {
+            "cid": "cid",
+            "entry_point_id": "epid",
+            "s_kwcid": "kwcid"
+          },
+          "envGoogleMapsVisitorAPIKey": "AIzaSyAGGS0Q7dARjRia9UK9rL_5PaKDiyMTxU4",
+          "recaptchaSiteKey": "6LfaqBkUAAAAAKNQKUUV-6FxVbg9u_U2P5XZCLhx",
+          "algoliaApiKey": "6a393a30e8e240f7e2c6e3905cc6ee09",
+          "algoliaTaskIndexName": "angi_prod_task",
+          "algoliaAccountId": "CY6DJ1RISQ"
+        },
+        "router": {},
+        "experimentV2": {
+          "experiments": {},
+          "variations": {}
+        },
+        "experimentV3": {
+          "experiments": {},
+          "variations": {},
+          "statusByName": {}
+        },
+        "form": {},
+        "googleVerification": "VALUE_MISSING_FROM_CONFIG_API",
+        "visitorAppReducer": {
+          "userId": "",
+          "activityLocation": "",
+          "userType": "Visitor - New",
+          "displayId": "b01b1648-35cf-4092-b995-b3fab7855027"
+        },
+        "profile": {
+          "data": {
+            "spid": "10416396",
+            "uuid": "cab076af-1c40-11ee-b010-12f6eb045c11",
+            "contactInfo": {
+              "emails": [
+                {
+                  "type": "Primary",
+                  "email": "sales@hoopsaustin.com"
+                }
+              ],
+              "phoneNumbers": [
+                {
+                  "type": "Primary",
+                  "phoneNumber": "5128886608"
+                }
+              ],
+              "website": "www.hoopsaustin.com/",
+              "address": {
+                "street1": "2900 W Anderson Ln",
+                "street2": "",
+                "city": "Austin",
+                "state": "TX",
+                "country": "USA",
+                "postalCode": "78757"
+              }
+            },
+            "businessInfo": {
+              "legacyId": "10416396",
+              "primaryAddressId": 12369082,
+              "businessName": "Hoops Austin",
+              "businessDescription": "Hoops Austin serves central Texas including Austin, San Antonio, and surrounding areas. We offer complete turn-key solutions including delivery and installation of premium home basketball goals. The in-ground systems we offer are fully adjustable from approximately 5 feet and are backed by a Hoops lifetime warranty. If you’re looking for a durable professional playing basketball goal for your driveway or backyard game court we have the perfect solution for you.\n\nStarted by Eddie Oran, Hoops Austin has been providing the highest quality basketball goals since 2005. Eddie has long loved the game of basketball and his experience and passion for the game has helped Hoops Austin continue to grow and serve Central Texas.\n ",
+              "inBusinessSince": 2005,
+              "hoursInfo": {
+                "hoursInfoDetail": [],
+                "acceptsAppointments": true
+              },
+              "advertiser": false,
+              "onAngiSince": "2010-07-06",
+              "amenities": {
+                "ecoFriendlyAccreditations": false,
+                "emergencyServices": false,
+                "emergencyService": false,
+                "freeEstimates": false,
+                "warranties": false,
+                "warrantiesOffered": false,
+                "seniorDiscount": false,
+                "seniorDiscountValue": ""
+              },
+              "paymentOptions": [
+                "American Express",
+                "Check",
+                "Discover",
+                "MasterCard",
+                "PayPal",
+                "Visa"
+              ],
+              "licenses": [
+                {
+                  "verifyLicense": false,
+                  "categories": [],
+                  "licenseStatus": "",
+                  "licenseName": "",
+                  "licenseNumber": "",
+                  "licenseAuthority": "",
+                  "expirationDate": "",
+                  "state": "",
+                  "trade": ""
+                }
+              ],
+              "insured": true,
+              "bonded": false,
+              "status": "Active",
+              "businessHighlights": []
+            },
+            "logoUrl": "https://media-content.angi.com/dc805dfa-125a-4be8-8483-759922849e43.jpg",
+            "images": [],
+            "awards": [],
+            "proShowcases": {
+              "showcases": [],
+              "totalShowcases": 0
+            },
+            "offers": [],
+            "servicesOffered": "Basketball goals & courts",
+            "noIndex": false,
+            "breadCrumbs": [
+              {
+                "text": "Angi",
+                "link": "https://www.angi.com/"
+              },
+              {
+                "text": "Local Reviews",
+                "link": "https://www.angi.com/companylist"
+              },
+              {
+                "text": "Basketball Goal Installers",
+                "link": "https://www.angi.com/companylist/basketball-goals.htm"
+              },
+              {
+                "text": "TX",
+                "link": "https://www.angi.com/companylist/us/tx"
+              },
+              {
+                "text": "Austin",
+                "link": "https://www.angi.com/companylist/austin/"
+              },
+              {
+                "text": "Austin Basketball Goal Installers",
+                "link": "https://www.angi.com/companylist/austin/basketball-goals.htm"
+              },
+              {
+                "text": "Hoops Austin",
+                "link": "https://www.angi.com/companylist/us/tx/austin/hoops-austin-reviews-4227305.htm"
+              }
+            ],
+            "slug": {
+              "canonical": "/companylist/us/tx/austin/hoops-austin-reviews-4227305.htm",
+              "aliases": []
+            },
+            "categoryProperties": [
+              {
+                "id": 27,
+                "name": "Basketball Goals",
+                "categoryOptIn": true,
+                "haTaskId": 40435,
+                "isSEOCity": true,
+                "metrics": {
+                  "allTimeReviewCount": 3,
+                  "allTimeGrade": "A",
+                  "allTimeGpa": 4,
+                  "starRating": 5
+                },
+                "conjugations": [
+                  {
+                    "conjugationType": "Singular",
+                    "conjugationText": "basketball goal installer"
+                  },
+                  {
+                    "conjugationType": "Singular Type",
+                    "conjugationText": "installer"
+                  },
+                  {
+                    "conjugationType": "Singular Alternate Name",
+                    "conjugationText": "basketball hoop installation"
+                  },
+                  {
+                    "conjugationType": "Plural",
+                    "conjugationText": "basketball goal installers"
+                  },
+                  {
+                    "conjugationType": "Plural Type",
+                    "conjugationText": "basketball goal installer"
+                  },
+                  {
+                    "conjugationType": "Plural Alternate Name",
+                    "conjugationText": "basketball hoop installation"
+                  },
+                  {
+                    "conjugationType": "Adjective",
+                    "conjugationText": "basketball hoop installation"
+                  },
+                  {
+                    "conjugationType": "Top Search",
+                    "conjugationText": "basketball goals"
+                  },
+                  {
+                    "conjugationType": "Url Stub",
+                    "conjugationText": "basketball-goals"
+                  },
+                  {
+                    "conjugationType": "Hide Link In Company Tree",
+                    "conjugationText": "FALSE"
+                  },
+                  {
+                    "conjugationType": "testing_sandbox",
+                    "conjugationText": "B"
+                  }
+                ]
+              },
+              {
+                "id": 703,
+                "name": "Decorative Concrete",
+                "categoryOptIn": true,
+                "haTaskId": 40196,
+                "isSEOCity": true,
+                "metrics": {
+                  "allTimeReviewCount": 0,
+                  "allTimeGrade": "NA",
+                  "allTimeGpa": -1,
+                  "starRating": 0
+                },
+                "conjugations": [
+                  {
+                    "conjugationType": "Singular",
+                    "conjugationText": "stamped concrete contractor"
+                  },
+                  {
+                    "conjugationType": "Singular Type",
+                    "conjugationText": "contractor"
+                  },
+                  {
+                    "conjugationType": "Singular Alternate Name",
+                    "conjugationText": "decorative concrete contractor"
+                  },
+                  {
+                    "conjugationType": "Plural",
+                    "conjugationText": "stamped concrete contractors"
+                  },
+                  {
+                    "conjugationType": "Plural Type",
+                    "conjugationText": "stamped concrete contractor"
+                  },
+                  {
+                    "conjugationType": "Plural Alternate Name",
+                    "conjugationText": "stamped concrete contractors"
+                  },
+                  {
+                    "conjugationType": "Adjective",
+                    "conjugationText": "stamped concrete"
+                  },
+                  {
+                    "conjugationType": "Top Search",
+                    "conjugationText": "stamped concrete"
+                  },
+                  {
+                    "conjugationType": "Url Stub",
+                    "conjugationText": "concrete-stamped-decorative"
+                  },
+                  {
+                    "conjugationType": "Hide Link In Company Tree",
+                    "conjugationText": "FALSE"
+                  },
+                  {
+                    "conjugationType": "testing_sandbox",
+                    "conjugationText": "A"
+                  }
+                ]
+              },
+              {
+                "id": 265,
+                "name": "Fitness - Equipment",
+                "categoryOptIn": true,
+                "isSEOCity": true,
+                "metrics": {
+                  "allTimeReviewCount": 0,
+                  "allTimeGrade": "NA",
+                  "allTimeGpa": -1,
+                  "starRating": 0
+                },
+                "conjugations": [
+                  {
+                    "conjugationType": "Singular",
+                    "conjugationText": "fitness equipment store"
+                  },
+                  {
+                    "conjugationType": "Singular Type",
+                    "conjugationText": "location"
+                  },
+                  {
+                    "conjugationType": "Singular Alternate Name",
+                    "conjugationText": "fitness equipment store"
+                  },
+                  {
+                    "conjugationType": "Plural",
+                    "conjugationText": "fitness equipment retailer"
+                  },
+                  {
+                    "conjugationType": "Plural Type",
+                    "conjugationText": "fitness equipment retailer"
+                  },
+                  {
+                    "conjugationType": "Plural Alternate Name",
+                    "conjugationText": "sports equipment stores"
+                  },
+                  {
+                    "conjugationType": "Adjective",
+                    "conjugationText": "fitness equipment store"
+                  },
+                  {
+                    "conjugationType": "Top Search",
+                    "conjugationText": "fitness equipment"
+                  },
+                  {
+                    "conjugationType": "Url Stub",
+                    "conjugationText": "fitness-equipment"
+                  },
+                  {
+                    "conjugationType": "Hide Link In Company Tree",
+                    "conjugationText": "TRUE"
+                  }
+                ]
+              },
+              {
+                "id": 106,
+                "name": "Playgrounds",
+                "categoryOptIn": true,
+                "haTaskId": -12053,
+                "isSEOCity": true,
+                "metrics": {
+                  "allTimeReviewCount": 0,
+                  "allTimeGrade": "NA",
+                  "allTimeGpa": -1,
+                  "starRating": 0
+                },
+                "conjugations": [
+                  {
+                    "conjugationType": "Singular",
+                    "conjugationText": "playground equipment installer"
+                  },
+                  {
+                    "conjugationType": "Singular Type",
+                    "conjugationText": "contractor"
+                  },
+                  {
+                    "conjugationType": "Singular Alternate Name",
+                    "conjugationText": "playground installation"
+                  },
+                  {
+                    "conjugationType": "Plural",
+                    "conjugationText": "playground equipment"
+                  },
+                  {
+                    "conjugationType": "Plural Type",
+                    "conjugationText": "playground equipment installer"
+                  },
+                  {
+                    "conjugationType": "Plural Alternate Name",
+                    "conjugationText": "playground equipment installers"
+                  },
+                  {
+                    "conjugationType": "Adjective",
+                    "conjugationText": "playground equipment installation"
+                  },
+                  {
+                    "conjugationType": "Top Search",
+                    "conjugationText": "playground equipment"
+                  },
+                  {
+                    "conjugationType": "Url Stub",
+                    "conjugationText": "playground-equipment"
+                  },
+                  {
+                    "conjugationType": "Hide Link In Company Tree",
+                    "conjugationText": "FALSE"
+                  },
+                  {
+                    "conjugationType": "testing_sandbox",
+                    "conjugationText": "A"
+                  }
+                ]
+              },
+              {
+                "id": 44,
+                "name": "Concrete Pouring and Repair",
+                "categoryOptIn": true,
+                "haTaskId": 40016,
+                "isSEOCity": true,
+                "metrics": {
+                  "allTimeReviewCount": 0,
+                  "allTimeGrade": "NA",
+                  "allTimeGpa": -1,
+                  "starRating": 0
+                },
+                "conjugations": [
+                  {
+                    "conjugationType": "Singular",
+                    "conjugationText": "concrete repair contractor"
+                  },
+                  {
+                    "conjugationType": "Singular Type",
+                    "conjugationText": "contractor"
+                  },
+                  {
+                    "conjugationType": "Singular Alternate Name",
+                    "conjugationText": "concrete contractor"
+                  },
+                  {
+                    "conjugationType": "Plural",
+                    "conjugationText": "concrete repair contractors"
+                  },
+                  {
+                    "conjugationType": "Plural Type",
+                    "conjugationText": "concrete repair contractor"
+                  },
+                  {
+                    "conjugationType": "Plural Alternate Name",
+                    "conjugationText": "concrete contractors"
+                  },
+                  {
+                    "conjugationType": "Adjective",
+                    "conjugationText": "concrete repair"
+                  },
+                  {
+                    "conjugationType": "Top Search",
+                    "conjugationText": "concrete repair"
+                  },
+                  {
+                    "conjugationType": "Url Stub",
+                    "conjugationText": "concrete-repair"
+                  },
+                  {
+                    "conjugationType": "Hide Link In Company Tree",
+                    "conjugationText": "FALSE"
+                  },
+                  {
+                    "conjugationType": "testing_sandbox",
+                    "conjugationText": "B"
+                  }
+                ]
+              }
+            ],
+            "eligibleForRaq": true,
+            "spProperties": [
+              {
+                "value": "false",
+                "name": "bonded"
+              },
+              {
+                "value": "no",
+                "name": "freeEstimates"
+              },
+              {
+                "value": "2005",
+                "name": "inBusinessSinceDescription"
+              },
+              {
+                "value": "We are fully bonded and insured.",
+                "name": "insurancePolicyDetails"
+              },
+              {
+                "value": "true",
+                "name": "insured"
+              },
+              {
+                "value": "false",
+                "name": "leadFree"
+              },
+              {
+                "value": "Check,Visa,MasterCard,American Express,Discover,PayPal",
+                "name": "paymentTypes"
+              },
+              {
+                "value": "No",
+                "name": "seniorDiscount"
+              },
+              {
+                "value": "ASK FOR DETAILS",
+                "name": "warranties"
+              },
+              {
+                "value": "false",
+                "name": "ecoFriendlyAccreditations"
+              }
+            ],
+            "combinedMetrics": {
+              "reviewMetrics": {
+                "gradeCounts": [
+                  {
+                    "grade": "A",
+                    "count": 3,
+                    "starRating": 5
+                  }
+                ],
+                "ratingTypeMetrics": [
+                  {
+                    "ratingType": "Professionalism",
+                    "gpa": 4,
+                    "grade": "A",
+                    "count": 3,
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Responsiveness",
+                    "gpa": 4,
+                    "grade": "A",
+                    "count": 3,
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Price",
+                    "gpa": 4,
+                    "grade": "A",
+                    "count": 3,
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Punctuality",
+                    "gpa": 4,
+                    "grade": "A",
+                    "count": 3,
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Overall",
+                    "gpa": 4,
+                    "grade": "A",
+                    "count": 3,
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Quality",
+                    "gpa": 4,
+                    "grade": "A",
+                    "count": 3,
+                    "starRating": 5
+                  }
+                ],
+                "count": 3,
+                "showGoogleReview": false
+              },
+              "displayMetrics": {
+                "gpa": 4,
+                "grade": "A",
+                "reviewCount": 3,
+                "starRating": 5
+              },
+              "allCategoriesMetrics": {
+                "allTimeGrade": "A",
+                "allTimeReviewCount": 3,
+                "allTimeGPA": 4,
+                "recentReviewCount": 0,
+                "recentGPA": -1,
+                "recentGrade": "NA",
+                "starRating": 5
+              }
+            },
+            "reviews": [
+              {
+                "id": 20360546,
+                "source": "Angi",
+                "dateOfService": "2013-04-22T00:00:00.000Z",
+                "costOfService": 300,
+                "willHireAgain": true,
+                "workCompleted": true,
+                "displayName": "ANDREA & MARK B.",
+                "descriptionOfWork": "Installed inground basketball hoop",
+                "reviewText": "Very flexible and did great work.",
+                "categories": [
+                  {
+                    "id": 27,
+                    "conjugations": [
+                      {
+                        "conjugationType": "Singular",
+                        "conjugationText": "basketball goal installer"
+                      },
+                      {
+                        "conjugationType": "Singular Type",
+                        "conjugationText": "installer"
+                      },
+                      {
+                        "conjugationType": "Singular Alternate Name",
+                        "conjugationText": "basketball hoop installation"
+                      },
+                      {
+                        "conjugationType": "Plural",
+                        "conjugationText": "basketball goal installers"
+                      },
+                      {
+                        "conjugationType": "Plural Type",
+                        "conjugationText": "basketball goal installer"
+                      },
+                      {
+                        "conjugationType": "Plural Alternate Name",
+                        "conjugationText": "basketball hoop installation"
+                      },
+                      {
+                        "conjugationType": "Adjective",
+                        "conjugationText": "basketball hoop installation"
+                      },
+                      {
+                        "conjugationType": "Top Search",
+                        "conjugationText": "basketball goals"
+                      },
+                      {
+                        "conjugationType": "Url Stub",
+                        "conjugationText": "basketball-goals"
+                      },
+                      {
+                        "conjugationType": "Hide Link In Company Tree",
+                        "conjugationText": "FALSE"
+                      },
+                      {
+                        "conjugationType": "testing_sandbox",
+                        "conjugationText": "B"
+                      }
+                    ]
+                  }
+                ],
+                "reportDate": "2014-12-30",
+                "ratings": [
+                  {
+                    "ratingType": "Overall",
+                    "grade": "A",
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Price",
+                    "grade": "A",
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Quality",
+                    "grade": "A",
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Responsiveness",
+                    "grade": "A",
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Punctuality",
+                    "grade": "A",
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Professionalism",
+                    "grade": "A",
+                    "starRating": 5
+                  }
+                ],
+                "media": [],
+                "isGoogleReview": false
+              },
+              {
+                "id": 35108211,
+                "source": "Angi",
+                "dateOfService": "2017-05-24T15:45:03.000Z",
+                "willHireAgain": true,
+                "workCompleted": true,
+                "displayName": "Jennifer T.",
+                "descriptionOfWork": "Install in ground basketball goal",
+                "reviewText": "It was good.",
+                "categories": [
+                  {
+                    "id": 27,
+                    "conjugations": [
+                      {
+                        "conjugationType": "Singular",
+                        "conjugationText": "basketball goal installer"
+                      },
+                      {
+                        "conjugationType": "Singular Type",
+                        "conjugationText": "installer"
+                      },
+                      {
+                        "conjugationType": "Singular Alternate Name",
+                        "conjugationText": "basketball hoop installation"
+                      },
+                      {
+                        "conjugationType": "Plural",
+                        "conjugationText": "basketball goal installers"
+                      },
+                      {
+                        "conjugationType": "Plural Type",
+                        "conjugationText": "basketball goal installer"
+                      },
+                      {
+                        "conjugationType": "Plural Alternate Name",
+                        "conjugationText": "basketball hoop installation"
+                      },
+                      {
+                        "conjugationType": "Adjective",
+                        "conjugationText": "basketball hoop installation"
+                      },
+                      {
+                        "conjugationType": "Top Search",
+                        "conjugationText": "basketball goals"
+                      },
+                      {
+                        "conjugationType": "Url Stub",
+                        "conjugationText": "basketball-goals"
+                      },
+                      {
+                        "conjugationType": "Hide Link In Company Tree",
+                        "conjugationText": "FALSE"
+                      },
+                      {
+                        "conjugationType": "testing_sandbox",
+                        "conjugationText": "B"
+                      }
+                    ]
+                  }
+                ],
+                "reportDate": "2017-05-24",
+                "ratings": [
+                  {
+                    "ratingType": "Overall",
+                    "grade": "A",
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Price",
+                    "grade": "A",
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Quality",
+                    "grade": "A",
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Responsiveness",
+                    "grade": "A",
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Punctuality",
+                    "grade": "A",
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Professionalism",
+                    "grade": "A",
+                    "starRating": 5
+                  }
+                ],
+                "media": [],
+                "isGoogleReview": false
+              },
+              {
+                "id": 20360544,
+                "source": "Angi",
+                "dateOfService": "2008-08-15T00:00:00.000Z",
+                "willHireAgain": true,
+                "workCompleted": true,
+                "displayName": "Robert B.",
+                "descriptionOfWork": "They put up a basket ball goal.",
+                "reviewText": "We got what we expected.",
+                "categories": [
+                  {
+                    "id": 27,
+                    "conjugations": [
+                      {
+                        "conjugationType": "Singular",
+                        "conjugationText": "basketball goal installer"
+                      },
+                      {
+                        "conjugationType": "Singular Type",
+                        "conjugationText": "installer"
+                      },
+                      {
+                        "conjugationType": "Singular Alternate Name",
+                        "conjugationText": "basketball hoop installation"
+                      },
+                      {
+                        "conjugationType": "Plural",
+                        "conjugationText": "basketball goal installers"
+                      },
+                      {
+                        "conjugationType": "Plural Type",
+                        "conjugationText": "basketball goal installer"
+                      },
+                      {
+                        "conjugationType": "Plural Alternate Name",
+                        "conjugationText": "basketball hoop installation"
+                      },
+                      {
+                        "conjugationType": "Adjective",
+                        "conjugationText": "basketball hoop installation"
+                      },
+                      {
+                        "conjugationType": "Top Search",
+                        "conjugationText": "basketball goals"
+                      },
+                      {
+                        "conjugationType": "Url Stub",
+                        "conjugationText": "basketball-goals"
+                      },
+                      {
+                        "conjugationType": "Hide Link In Company Tree",
+                        "conjugationText": "FALSE"
+                      },
+                      {
+                        "conjugationType": "testing_sandbox",
+                        "conjugationText": "B"
+                      }
+                    ]
+                  }
+                ],
+                "reportDate": "2012-08-24",
+                "ratings": [
+                  {
+                    "ratingType": "Overall",
+                    "grade": "A",
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Price",
+                    "grade": "A",
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Quality",
+                    "grade": "A",
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Responsiveness",
+                    "grade": "A",
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Punctuality",
+                    "grade": "A",
+                    "starRating": 5
+                  },
+                  {
+                    "ratingType": "Professionalism",
+                    "grade": "A",
+                    "starRating": 5
+                  }
+                ],
+                "media": [],
+                "isGoogleReview": false
+              }
+            ],
+            "similarSps": [
+              {
+                "spid": 28111104,
+                "slug": "/companylist/us/tx/cedar-creek/trejo-site-prep-llc-reviews-11388946.htm",
+                "name": "Trejo Site Prep LLC",
+                "description": "Trejo Site Prep LLC is a premier site preparation company dedicated to delivering top-notch services for all your construction needs. With a strong commitment to excellence, we specialize in land clearing, excavation, grading, site development, concrete foundation and removal, material hauling, detention pond, tree removal and stumps, hardwood flooring and repairs and gabions. Our team of experienced professionals utilizes state-of-the-art equipment and techniques to ensure that every project is completed efficiently, safely, and to the highest standards.\n\nAt Trejo Site Prep LLC, we understand the importance of a solid foundation for any construction project. Our comprehensive services include detailed site analysis, precision grading, and meticulous excavation to prepare your site for successful development. We pride ourselves on our reliability, integrity, and the ability to meet deadlines while maintaining the quality of our work.\n\nWhether you're planning a residential, commercial, or industrial project, Trejo Site Prep LLC is your trusted partner for all site preparation needs. Let us help you lay the groundwork for your next project with professionalism and expertise. Contact us today to learn more about how we can assist you in achieving your construction goals. Give us a call today at 512-299-8333",
+                "certified": true,
+                "awards": [],
+                "offers": false,
+                "inBusinessSince": 2022,
+                "allTimeAllCategoryReviewCount": 0,
+                "allTimeAllCategoryGrade": "NA",
+                "numberOfCategoryAssociations": 4
+              },
+              {
+                "spid": 7630297,
+                "slug": "/companylist/us/tx/round-rock/blaker-restorations-and-remodeling-inc-reviews-7630297.htm",
+                "name": "Blaker Restorations & Remodeling INC",
+                "description": "General contractors, exterior siding, roofing, thermal walls and thermal windows. Complete interior remodeling. Kitchens and bathrooms, flooring and painting. Foundation repair and custom patios",
+                "certified": true,
+                "awards": [],
+                "offers": false,
+                "inBusinessSince": 2009,
+                "allTimeAllCategoryReviewCount": 105,
+                "allTimeAllCategoryGrade": "B",
+                "starRating": 4,
+                "numberOfCategoryAssociations": 54
+              },
+              {
+                "spid": 27014315,
+                "slug": "/companylist/us/tx/cedar-park/concrete-by-tandt-reviews-10843965.htm",
+                "name": "Concrete by T&T",
+                "description": "Concrete by T & T has provided services for the Las Vegas valley for 20 years with expansion into Texas over the last 9 years. We pride ourselves on 100% quality workmanship. Specializing in all types of concrete, we are experienced with driveways, patios, sidewalks, foundations, curbs, gutters, ADA ramps, pool-decks, line concrete pump services for those hard to access areas and much more. If regular grey concrete seems ordinary, we can provide custom designed concrete spreads, adding durable affordable elegance to your home or business. \n\nOur pricing is competitive and we want to help you in your residential or commercial concrete/construction needs.",
+                "certified": true,
+                "awards": [
+                  {
+                    "name": "Award 2024",
+                    "description": "Award 2024",
+                    "url": "https://media.angi.com/s3fs-public/SSA2024.png"
+                  }
+                ],
+                "logo": {
+                  "id": 20890147,
+                  "url": "https://media-content.angi.com/1198f49f-b7d0-43c0-a026-233412a6fe72.png"
+                },
+                "offers": false,
+                "inBusinessSince": 2014,
+                "allTimeAllCategoryReviewCount": 3,
+                "allTimeAllCategoryGrade": "A",
+                "starRating": 5,
+                "numberOfCategoryAssociations": 7
+              }
+            ],
+            "geoInfo": {
+              "path": "austin",
+              "displayName": "Austin"
+            },
+            "ecoFriendlyAccreditations": {
+              "leedAccredited": false,
+              "energyStarPartner": false,
+              "epaLeadSafeCertified": false,
+              "greenProductWorkPracticeProfessional": false
+            },
+            "serviceAreaPostalCodes": [
+              "73301",
+              "73344",
+              "76527",
+              "76530",
+              "76537",
+              "76573",
+              "76574",
+              "76578",
+              "78602",
+              "78605",
+              "78606",
+              "78610",
+              "78611",
+              "78612",
+              "78613",
+              "78615",
+              "78616",
+              "78617",
+              "78619",
+              "78620",
+              "78621",
+              "78622",
+              "78626",
+              "78627",
+              "78628",
+              "78630",
+              "78633",
+              "78634",
+              "78636",
+              "78640",
+              "78641",
+              "78642",
+              "78644",
+              "78645",
+              "78646",
+              "78650",
+              "78651",
+              "78652",
+              "78653",
+              "78654",
+              "78655",
+              "78656",
+              "78659",
+              "78660",
+              "78662",
+              "78663",
+              "78664",
+              "78665",
+              "78666",
+              "78667",
+              "78669",
+              "78673",
+              "78674",
+              "78676",
+              "78680",
+              "78681",
+              "78682",
+              "78683",
+              "78691",
+              "78701",
+              "78702",
+              "78703",
+              "78704",
+              "78705",
+              "78708",
+              "78709",
+              "78710",
+              "78711",
+              "78712",
+              "78713",
+              "78714",
+              "78715",
+              "78716",
+              "78717",
+              "78718",
+              "78719",
+              "78720",
+              "78721",
+              "78722",
+              "78723",
+              "78724",
+              "78725",
+              "78726",
+              "78727",
+              "78728",
+              "78729",
+              "78730",
+              "78731",
+              "78732",
+              "78733",
+              "78734",
+              "78735",
+              "78736",
+              "78737",
+              "78738",
+              "78739",
+              "78741",
+              "78742",
+              "78744",
+              "78745",
+              "78746",
+              "78747",
+              "78748",
+              "78749",
+              "78750",
+              "78751",
+              "78752",
+              "78753",
+              "78754",
+              "78755",
+              "78756",
+              "78757",
+              "78758",
+              "78759",
+              "78760",
+              "78761",
+              "78762",
+              "78763",
+              "78764",
+              "78765",
+              "78766",
+              "78767",
+              "78768",
+              "78769",
+              "78772",
+              "78773",
+              "78774",
+              "78778",
+              "78779",
+              "78783",
+              "78799"
+            ]
+          }
+        },
+        "filteredReviews": {
+          "loading": false,
+          "reviews": [],
+          "limit": 10,
+          "offset": 0,
+          "page": 1
+        },
+        "showcaseList": {
+          "loading": false,
+          "limit": 10,
+          "offset": 0
+        },
+        "showcaseDetails": {},
+        "globalNavigation": {
+          "response": {
+            "internalName": "Global Navigation - Standard Category Groupings",
+            "groupings": [
+              {
+                "internalName": "Interior Navigation Group",
+                "navigationTitle": "Interior",
+                "linksTitle": "Find a pro",
+                "articlesTitle": "Research & plan",
+                "moreArticlesText": "View all",
+                "moreArticlesUrl": "https://www.angi.com/articles/home-interiors",
+                "moreLinksText": "View all",
+                "moreLinksUrl": "https://www.angi.com/companylist/",
+                "articles": [
+                  {
+                    "internalName": "2024 Interior House Painting Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://media.angi.com/s3fs-public/room-with-painted-trim.jpg",
+                      "caption": "",
+                      "altText": "Historic room with painted trim",
+                      "photoCredit": "Photo: Robert Daly / OJO Images / Getty Images",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/how-much-does-it-cost-paint-interior-house.htm",
+                    "title": "How Much Does Roof Replacement Cost? [2024 Data]"
+                  },
+                  {
+                    "internalName": "2024 Bathroom Remodel Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://media.angi.com/s3fs-public/white-bathroom-navy-details.jpeg",
+                      "caption": null,
+                      "altText": "white bathroom with navy details",
+                      "photoCredit": "Photo: Studio Luniste",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/how-much-does-bathroom-remodel-cost.htm",
+                    "title": "How Much Does a Bathroom Remodel Cost? [2024 Data]"
+                  },
+                  {
+                    "internalName": "2024 House Cleaning Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://s3media.angieslist.com/s3fs-public/house-cleaners-cleaning.jpeg",
+                      "caption": "",
+                      "altText": "House cleaners cleaning",
+                      "photoCredit": "Photo: alfa27 / Adobe Stock",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/how-much-does-it-cost-hire-house-cleaner.htm",
+                    "title": "How Much Does Professional House Cleaning Cost? [2024 Data]"
+                  },
+                  {
+                    "internalName": "2024 Flooring Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://media.angi.com/s3fs-public/baby-crawling-away-from-parents.jpg",
+                      "caption": "",
+                      "altText": "Baby excitedly crawling across the floor away from parents",
+                      "photoCredit": "Photo: Nenetus / Adobe Stock",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/how-much-should-my-new-floor-cost.htm",
+                    "title": "How Much Does New Flooring Installation Cost? [2024 Data]"
+                  }
+                ],
+                "links": [
+                  {
+                    "internalName": null,
+                    "name": "Appliance Repair",
+                    "url": "https://www.angi.com/companylist/appliance-repair.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Carpet Cleaning",
+                    "url": "https://www.angi.com/companylist/carpet-cleaning.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Contractors",
+                    "url": "https://www.angi.com/companylist/contractor.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Drywall",
+                    "url": "https://www.angi.com/companylist/drywall.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Electrical",
+                    "url": "https://www.angi.com/companylist/electrical.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Flooring",
+                    "url": "https://www.angi.com/companylist/flooring.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "HVAC",
+                    "url": "https://www.angi.com/companylist/hvac.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "House Cleaning",
+                    "url": "https://www.angi.com/companylist/house-cleaning.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Interior Painting",
+                    "url": "https://www.angi.com/companylist/interior-painting.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Plumbing",
+                    "url": "https://www.angi.com/companylist/plumbing.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Remodeling",
+                    "url": "https://www.angi.com/companylist/kitchen-and-bath-remodeling.htm"
+                  }
+                ]
+              },
+              {
+                "internalName": "Exterior Navigation Group",
+                "navigationTitle": "Exterior",
+                "linksTitle": "Find a pro",
+                "articlesTitle": "Research & plan",
+                "moreArticlesText": "View all",
+                "moreArticlesUrl": "https://www.angi.com/articles/home-exteriors",
+                "moreLinksText": "View all",
+                "moreLinksUrl": "https://www.angi.com/companylist/",
+                "articles": [
+                  {
+                    "internalName": "2024 Roof Replacement Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://s3media.angieslist.com/s3fs-public/red-ceramic-tile-roof.jpeg",
+                      "caption": "",
+                      "altText": "Ceramic tiled roof on house",
+                      "photoCredit": "Photo: Hennadii / Adobe Stock",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/how-much-does-roof-replacement-cost.htm",
+                    "title": "How Much Does Roof Replacement Cost?"
+                  },
+                  {
+                    "internalName": "2024 Siding Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://media.angi.com/s3fs-public/house-beige-viniyl-siding.jpeg",
+                      "caption": "",
+                      "altText": "A house with beige vinyl siding",
+                      "photoCredit": "Photo: JamesBrey / E+ / Getty Images",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/how-much-does-siding-cost-replace.htm",
+                    "title": "How Much Does It Cost to Replace Siding? [2024 Data]"
+                  },
+                  {
+                    "internalName": "2024 Window Replacement Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://media.angi.com/s3fs-public/living-room-large-windows.jpeg",
+                      "caption": null,
+                      "altText": "A bright living room with large windows",
+                      "photoCredit": "Photo: Portra / E+ / Getty Images",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/how-much-does-window-replacement-cost.htm",
+                    "title": "How Much Does Window Replacement Cost? [2024 Data]"
+                  },
+                  {
+                    "internalName": "2024 Fence Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://media.angi.com/s3fs-public/white-fencing.jpeg",
+                      "caption": "",
+                      "altText": "white wooden gate in front of white two-story house",
+                      "photoCredit": "Photo: Kristina Blokhin / Adobe Stock",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/how-much-does-fence-installation-cost.htm",
+                    "title": "How Much Does Fence Installation Cost? [2024 Data]"
+                  }
+                ],
+                "links": [
+                  {
+                    "internalName": null,
+                    "name": "Concrete Repair",
+                    "url": "https://www.angi.com/companylist/concrete-repair.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Doors",
+                    "url": "https://www.angi.com/companylist/doors.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Driveways",
+                    "url": "https://www.angi.com/companylist/driveways.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Exterior Painting",
+                    "url": "https://www.angi.com/companylist/exterior-painting.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Garage Doors",
+                    "url": "https://www.angi.com/companylist/garage-doors.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Gutter Cleaning",
+                    "url": "https://www.angi.com/companylist/gutter-cleaning.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Gutter Repair",
+                    "url": "https://www.angi.com/companylist/gutter-repair-replacement.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Home Builders",
+                    "url": "https://www.angi.com/companylist/home-builders.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Masonry",
+                    "url": "https://www.angi.com/companylist/masonry.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Roofing",
+                    "url": "https://www.angi.com/companylist/roofing.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Siding",
+                    "url": "https://www.angi.com/companylist/siding.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Windows",
+                    "url": "https://www.angi.com/companylist/windows.htm"
+                  }
+                ]
+              },
+              {
+                "internalName": "Lawn & Garden Navigation Group",
+                "navigationTitle": "Lawn & Garden",
+                "linksTitle": "Find a pro",
+                "articlesTitle": "Research & plan",
+                "moreArticlesText": "View all",
+                "moreArticlesUrl": "https://www.angi.com/articles/landscaping-lawn-care",
+                "moreLinksText": "View all",
+                "moreLinksUrl": "https://www.angi.com/companylist/",
+                "articles": [
+                  {
+                    "internalName": "2024 Lawn Care Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://media.angi.com/s3fs-public/professional-lawn-care-service-649824539.jpg",
+                      "caption": null,
+                      "altText": "Lawn care professional mowing the lawn",
+                      "photoCredit": "Photo: Tomasz Zajda / Adobe Stock",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/lawn-care-cost.htm",
+                    "title": "How Much Does Lawn Care Cost? [2024 Data]"
+                  },
+                  {
+                    "internalName": "Tree Removal Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://media.angi.com/s3fs-public/house-with-landscaping-trees.jpeg",
+                      "caption": "",
+                      "altText": "Home with beautiful trees and landscaping",
+                      "photoCredit": "Photo: littleny / Adobe Stock",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/how-much-does-tree-removal-cost.htm",
+                    "title": "How Much Does Tree Removal Cost? [2024 Data]"
+                  },
+                  {
+                    "internalName": "Landscaping Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://media.angi.com/s3fs-public/front-yard-home-landscaping (1).jpg",
+                      "caption": "",
+                      "altText": "beautiful home front yard landscaping",
+                      "photoCredit": "Photo: bmak / Adobe Stock",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/how-much-does-landscaping-cost.htm",
+                    "title": "How Much Does Landscaping Cost? [2024 Data]"
+                  },
+                  {
+                    "internalName": "Mulch Delivery & Installation Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://media.angi.com/s3fs-public/house-with-mulched-flowerbed.jpg",
+                      "caption": "",
+                      "altText": "House with mulched flowerbeds and mature plants",
+                      "photoCredit": "Photo: jhorrocks / E+ / Getty Images",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/how-much-does-mulch-delivery-and-install-cost.htm",
+                    "title": "How Much Does Mulch Delivery & Installation Cost? [2024 Data]"
+                  }
+                ],
+                "links": [
+                  {
+                    "internalName": null,
+                    "name": "Decks",
+                    "url": "https://www.angi.com/companylist/decks-and-porches.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Fencing",
+                    "url": "https://www.angi.com/companylist/fencing.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Land Surveying",
+                    "url": "https://www.angi.com/companylist/land-surveying.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Landscaping",
+                    "url": "https://www.angi.com/companylist/landscaping.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Lawn & Yard Work",
+                    "url": "https://www.angi.com/companylist/lawn-and-yard-work.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Sprinkler Systems",
+                    "url": "https://www.angi.com/companylist/lawn-irrigation.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Leaf Removal",
+                    "url": "https://www.angi.com/companylist/leaf-removal.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Patios",
+                    "url": "https://www.angi.com/companylist/sunroom-and-patio-remodeling.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Pool Installation",
+                    "url": "https://www.angi.com/companylist/swimming-pools.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Sunrooms",
+                    "url": "https://www.angi.com/companylist/swimming-pools.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Tree Service",
+                    "url": "https://www.angi.com/companylist/tree-service.htm"
+                  }
+                ]
+              },
+              {
+                "internalName": "More Navigation Group",
+                "navigationTitle": "More",
+                "linksTitle": "Find a pro",
+                "articlesTitle": "Research & plan",
+                "moreArticlesText": "View all",
+                "moreArticlesUrl": "https://www.angi.com/articles",
+                "moreLinksText": "View all",
+                "moreLinksUrl": "https://www.angi.com/companylist/",
+                "articles": [
+                  {
+                    "internalName": "2024 Handyman Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://media.angi.com/s3fs-public/shaking-hands-handyperson-1289722081.jpeg",
+                      "caption": "",
+                      "altText": "A handyperson shakes hands with a home owner",
+                      "photoCredit": "Photo: dusanpetkovic / iStock / Getty Images",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/what-are-common-handyman-prices.htm",
+                    "title": "What Does a Handyman Cost? [2024 Data]"
+                  },
+                  {
+                    "internalName": "2024 Electrician Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://s3media.angieslist.com/s3fs-public/friends-dining-on-the-patio.jpeg",
+                      "caption": null,
+                      "altText": "Friends dining on a house patio at night",
+                      "photoCredit": "Photo: rh2010 / Adobe Stock ",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/how-much-does-it-cost-hire-electrician.htm",
+                    "title": "How Much Does an Electrician Cost to Hire? [2024 Data]"
+                  },
+                  {
+                    "internalName": "2024 Plumbing Cost Global Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://media.angi.com/s3fs-public/KichenSink.jpg",
+                      "caption": "",
+                      "altText": "Kitchen sink with appliances and cabinets in background",
+                      "photoCredit": "Photo: RAUL RODRIGUEZ / iStock / Getty Images Plus / Getty Images",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/plumber-cost.htm",
+                    "title": "How Much Does Plumbing Repair Cost? [2024 Data]"
+                  },
+                  {
+                    "internalName": "2024 Pest Control Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://media.angi.com/s3fs-public/home-pest-control.jpeg",
+                      "caption": "",
+                      "altText": "worker in white protective suit spraying pest repellant on window sill",
+                      "photoCredit": "Photo: LIGHTFIELD STUDIOS / Adobe Stock",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/how-much-does-pest-control-service-cost.htm",
+                    "title": "How Much Does Pest Control Cost? [2024 Data]"
+                  }
+                ],
+                "links": [
+                  {
+                    "internalName": null,
+                    "name": "Basement Waterproofing",
+                    "url": "https://www.angi.com/companylist/basement-waterproofing.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Handymen",
+                    "url": "https://www.angi.com/companylist/handyman-service.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Junk Hauling",
+                    "url": "https://www.angi.com/companylist/hauling.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Locksmiths",
+                    "url": "https://www.angi.com/companylist/locksmiths.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Moving Companies",
+                    "url": "https://www.angi.com/companylist/moving.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Pest Control",
+                    "url": "https://www.angi.com/companylist/pest-control.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Pressure Washing",
+                    "url": "https://www.angi.com/companylist/pressure-washing.htm"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Septic Tanks",
+                    "url": "https://www.angi.com/companylist/septic-tank.htm"
+                  }
+                ]
+              },
+              {
+                "internalName": "Articles & Advice Navigation Group",
+                "navigationTitle": "Articles & Advice",
+                "linksTitle": "Research & plan",
+                "articlesTitle": "Featured articles",
+                "moreArticlesText": "View all articles",
+                "moreArticlesUrl": "https://www.angi.com/articles",
+                "moreLinksText": "View all",
+                "moreLinksUrl": "https://www.angi.com/articles",
+                "articles": [
+                  {
+                    "internalName": "2024 Roof Replacement Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://s3media.angieslist.com/s3fs-public/red-ceramic-tile-roof.jpeg",
+                      "caption": "",
+                      "altText": "Ceramic tiled roof on house",
+                      "photoCredit": "Photo: Hennadii / Adobe Stock",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/how-much-does-roof-replacement-cost.htm",
+                    "title": "How Much Does Roof Replacement Cost?"
+                  },
+                  {
+                    "internalName": "2024 Pest Control Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://media.angi.com/s3fs-public/home-pest-control.jpeg",
+                      "caption": "",
+                      "altText": "worker in white protective suit spraying pest repellant on window sill",
+                      "photoCredit": "Photo: LIGHTFIELD STUDIOS / Adobe Stock",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/how-much-does-pest-control-service-cost.htm",
+                    "title": "How Much Does Pest Control Cost? [2024 Data]"
+                  },
+                  {
+                    "internalName": "Mulch Delivery & Installation Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://media.angi.com/s3fs-public/house-with-mulched-flowerbed.jpg",
+                      "caption": "",
+                      "altText": "House with mulched flowerbeds and mature plants",
+                      "photoCredit": "Photo: jhorrocks / E+ / Getty Images",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/how-much-does-mulch-delivery-and-install-cost.htm",
+                    "title": "How Much Does Mulch Delivery & Installation Cost? [2024 Data]"
+                  },
+                  {
+                    "internalName": "Mulch Delivery & Installation Cost Article Nav Link",
+                    "imageThumbnail": {
+                      "url": "https://media.angi.com/s3fs-public/house-with-mulched-flowerbed.jpg",
+                      "caption": "",
+                      "altText": "House with mulched flowerbeds and mature plants",
+                      "photoCredit": "Photo: jhorrocks / E+ / Getty Images",
+                      "imageType": "Default"
+                    },
+                    "articleUrl": "https://www.angi.com/articles/how-much-does-mulch-delivery-and-install-cost.htm",
+                    "title": "How Much Does Mulch Delivery & Installation Cost? [2024 Data]"
+                  }
+                ],
+                "links": [
+                  {
+                    "internalName": null,
+                    "name": "Appliances",
+                    "url": "https://www.angi.com/articles/appliances"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Basements & Foundations",
+                    "url": "https://www.angi.com/articles/basements-and-foundations"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Bathroom Remodel",
+                    "url": "https://www.angi.com/articles/bathroom-remodel"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Chimneys & Fireplace",
+                    "url": "https://www.angi.com/articles/chimneys-fireplaces"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Cleaning",
+                    "url": "https://www.angi.com/articles/cleaning"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Contractors",
+                    "url": "https://www.angi.com/articles/contractors"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Electrical",
+                    "url": "https://www.angi.com/articles/electrical"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Flooring",
+                    "url": "https://www.angi.com/articles/flooring"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Furniture",
+                    "url": "https://www.angi.com/articles/furniture"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Garages & Driveways",
+                    "url": "https://www.angi.com/articles/garages-and-driveways"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Heating & Cooling",
+                    "url": "https://www.angi.com/articles/hvac"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Home Construction",
+                    "url": "https://www.angi.com/articles/home-construction-design"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Home Exteriors",
+                    "url": "https://www.angi.com/articles/home-exteriors"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Home Health Hazards",
+                    "url": "https://www.angi.com/articles/home-health-hazards"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Home Interiors",
+                    "url": "https://www.angi.com/articles/home-interiors"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Home Security",
+                    "url": "https://www.angi.com/articles/home-security-systems"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Kitchen Remodeling",
+                    "url": "https://www.angi.com/articles/kitchen-remodeling"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Landscaping",
+                    "url": "https://www.angi.com/articles/landscaping-lawn-care"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Moving",
+                    "url": "https://www.angi.com/articles/movers"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Outdoor Living",
+                    "url": "https://www.angi.com/articles/outdoor-living"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Pest Control",
+                    "url": "https://www.angi.com/articles/household-pest-control"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Plumbing",
+                    "url": "https://www.angi.com/articles/plumbing"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Real Estate",
+                    "url": "https://www.angi.com/articles/real-estate"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Remodeling",
+                    "url": "https://www.angi.com/articles/remodeling"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Roofing",
+                    "url": "https://www.angi.com/articles/roofing"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Storage & Organization",
+                    "url": "https://www.angi.com/articles/storage-organization"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Waste Management",
+                    "url": "https://www.angi.com/articles/waste-management"
+                  },
+                  {
+                    "internalName": null,
+                    "name": "Project Cost Center",
+                    "url": "https://www.angi.com/articles/cost"
+                  }
+                ]
+              }
+            ],
+            "brandIcon": {
+              "url": "https://media.angi.com/s3fs-public/Angi-logo-Orange.svg",
+              "caption": null,
+              "altText": "Angi Logo",
+              "photoCredit": null,
+              "imageType": "Default"
+            },
+            "joinAsProLink": {
+              "internalName": null,
+              "name": "Join as a Pro",
+              "url": "https://signup.angi.com/pro"
+            },
+            "loginLink": {
+              "internalName": null,
+              "name": "Log In",
+              "url": "https://www.angi.com/auth/login"
+            },
+            "signUpLink": {
+              "internalName": null,
+              "name": "Sign Up",
+              "url": "https://www.angi.com/create-account"
+            },
+            "servicesNearMeLink": {
+              "internalName": null,
+              "name": "Find Services Near Me",
+              "url": "https://www.angi.com/nearme"
+            },
+            "searchIcon": {
+              "url": "https://media.angi.com/s3fs-public/search.svg",
+              "caption": null,
+              "altText": "Search",
+              "photoCredit": null,
+              "imageType": "Default"
+            },
+            "signInIcon": {
+              "url": "https://media.angi.com/s3fs-public/User Avatar.svg",
+              "caption": null,
+              "altText": "Account",
+              "photoCredit": null,
+              "imageType": "Default"
+            },
+            "mobileOpenIcon": {
+              "url": "https://media.angi.com/s3fs-public/hamburger.svg",
+              "caption": null,
+              "altText": "Open Menu",
+              "photoCredit": null,
+              "imageType": "Default"
+            },
+            "mobileCloseIcon": {
+              "url": "https://media.angi.com/s3fs-public/close.svg",
+              "caption": null,
+              "altText": "Close Menu",
+              "photoCredit": null,
+              "imageType": "Default"
+            },
+            "variant": "testVariant"
+          }
+        }
+      }
+    },
+    "__N_SSP": true
+  },
+  "page": "/companylist/us/[state]/[city]/[slug]",
+  "query": {
+    "state": "tx",
+    "city": "austin",
+    "slug": "hoops-austin-reviews-4227305.htm"
+  },
+  "buildId": "dL0H1rD8yd3DyLcID70uo",
+  "assetPrefix": "/app/static/visitor-spprofile-next-app",
+  "runtimeConfig": {
+    "NEXT_PUBLIC_HOMEADVISOR_SERVICE_REQUEST_URL": "https://match.angieslist.com",
+    "NEXT_PUBLIC_TAMPA_UI_URL": "https://member.angi.com",
+    "NEXT_PUBLIC_HOMEADVISOR_SERVICE_REQUEST_URL_ANGI": "https://match.angi.com",
+    "NEXT_PUBLIC_BUSINESSCENTER_UI_URL": "https://office.angi.com",
+    "NEXT_PUBLIC_DRUPAL_UI_URL": "https://www.angi.com",
+    "NEXT_PUBLIC_API_BASE_URL": "https://visitor-spprofile-next-app-proda.yellow.angieslist.com",
+    "NEXT_PUBLIC_VISITOR_APP_URL": "https://visitor-app-proda.yellow.angieslist.com",
+    "NEXT_PUBLIC_BUSINESS_DIRECTORY_API_ANGI": "https://marketplace.proda.angi.cloud",
+    "NEXT_PUBLIC_HA_PRO_LIST_API_BASE_URL": "https://api.angi.com",
+    "NEXT_PUBLIC_PRO_API_AUTH_TOKEN_URL": "https://homeadvisor.com/resource/angi/user/cloud/token",
+    "NEXT_PUBLIC_SVG_HA_BUSINESS_PROFILES_API_AUTH_TOKEN_USER_NAME": "svg_bus_prof",
+    "NEXT_PUBLIC_SVG_HA_BUSINESS_PROFILES_API_AUTH_TOKEN_SECRET": "SnV9n3qs",
+    "NEXT_PUBLIC_INVERTED_SR_BASE_URL": "https://request.angi.com"
+  },
+  "isFallback": false,
+  "gssp": true,
+  "scriptLoader": []
+}
