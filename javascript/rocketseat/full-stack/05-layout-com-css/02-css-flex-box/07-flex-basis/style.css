@@ -1,0 +1,7 @@
+.container {
+  display: flex;
+}
+
+.item{
+  flex-basis: 120px;
+}
