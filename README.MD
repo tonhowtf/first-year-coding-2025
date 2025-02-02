@@ -56,7 +56,7 @@ first-year-coding-2025/
     └── assembly/   # Future projects and exercises in Assembly
 ```
 
-*Note: Directories for C, C++ and Assembly will be added as I progress further into these languages.*
+*Note: Directories for C and Assembly will be added as I progress further into these languages.*
 
 ---
 
