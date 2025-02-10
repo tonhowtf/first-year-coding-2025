@@ -1,5 +1,5 @@
 # first-year-coding-2025 
-## Jan: 20000, Feb: 600 + 500 + 1440 + 2000
+## Jan: 20000, Feb: 600 + 500 + 1440 + 2000 + 2000
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Welcome to **first-year-coding-2025** – my personal repository documenting my coding journey throughout 2025. Here, I share lessons, notes, and projects as I explore and learn various programming languages and technologies.
