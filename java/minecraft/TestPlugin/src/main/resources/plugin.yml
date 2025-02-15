@@ -1,0 +1,9 @@
+name: TestPlugin
+version: '1.0-SNAPSHOT'
+main: wtf.tonho.test.Main
+api-version: '1.21'
+authors: [ Monho ]
+description: Cool test plugin
+website: wtf.tonho
+commands:
+  test:
