@@ -6,4 +6,4 @@ authors: [ Monho ]
 description: Cool test plugin
 website: wtf.tonho
 commands:
-  test:
+  config:

@@ -8,6 +8,11 @@ public final class Main extends JavaPlugin {
 
     @Override
     public void onEnable(){
-        getCommand("test").setExecutor(new TestCommand());
+
+        getConfig().options().copyDefaults();
+        saveDefaultConfig();
+
+
+        getCommand("config").setExecutor(new ConfigCommand(this));
     }
 }
