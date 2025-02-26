@@ -1,14 +1,8 @@
 import requests as r
-import rich as rico
-from rich.console import Console
+from bs4 import BeautifulSoup
 
-resp = r.post("https://www.httpbin.org/post", 
-              data={
-                "key1": "value1",
-                "key2": "a value with spaces and an apostrophe '",
-                })
+resp = r.get("https://books.toscrape.com/")
 
+soup = BeautifulSoup(resp)
 
-
-console = Console()
-console.print(resp.json(), style="bold magenta")
+print(soup.ul)
