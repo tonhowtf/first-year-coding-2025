@@ -13,8 +13,9 @@ public class Ninja {
         return "Oi, Eu sou um ninja!";
     }
 
-    public int anosParaSeTornarHokage() {
-        return 
+    public int anosParaSeTornarHokage(int idadeMinimaParaSerHokage) {
+        return idadeMinimaParaSerHokage - idade;
+
     }
 }
 

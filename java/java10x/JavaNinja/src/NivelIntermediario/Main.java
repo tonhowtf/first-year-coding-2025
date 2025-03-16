@@ -20,7 +20,7 @@ public class Main {
         // Aplicando Métodos aos meus objetos:
         Sasuke.SharinganAtivado();
         System.out.println(Sasuke.EuSouNinja());
-
+        Sasuke.anosParaSeTornarHokage(4);
         // Sakura
 
         Ninja Sakura = new Ninja();
