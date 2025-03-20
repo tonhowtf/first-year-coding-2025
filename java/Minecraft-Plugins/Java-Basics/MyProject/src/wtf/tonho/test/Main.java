@@ -1,23 +1,16 @@
 package wtf.tonho.test;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
 
     public static void main(String[] args) {
 
+    String[] array = new String[]{"Test1", "test2", "test3"};
 
-        // PRIMITIVE
-        int number = 5;
-        double decimalNumber = 102.5;
-        boolean trueFalse = false;
-        char letter = 'L';
-
-       int result = printMessage("tessadast");
-
-    }
-
-    private static int printMessage(String message) {
-        System.out.println(message);
-        return 12;
+    List<String> list = new ArrayList<>();
+    
     }
 
 }
