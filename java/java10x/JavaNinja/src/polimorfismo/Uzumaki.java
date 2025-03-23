@@ -1,4 +1,6 @@
 package polimorfismo;
 
-public class Uzumaki {
+public class Uzumaki extends Ninja {
+
+
 }

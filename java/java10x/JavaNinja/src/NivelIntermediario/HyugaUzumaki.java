@@ -1,4 +1,4 @@
-package NivelIntermediario.Desafio3;
+package NivelIntermediario;
 
 public interface HyugaUzumaki {
 
