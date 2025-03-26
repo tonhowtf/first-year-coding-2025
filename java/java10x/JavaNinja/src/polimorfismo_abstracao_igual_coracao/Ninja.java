@@ -1,7 +1,29 @@
 package polimorfismo_abstracao_igual_coracao;
 
-public abstract class Ninja {
-    String nome;
+public abstract class Ninja implements EstrategiaDeBatalha {
 
-    public abstract void habilidadeEspecial();
+    String nome;
+    String aldeia;
+    int idade;
+
+    public Ninja(){
+
+    }
+
+    public Ninja(String nome, String aldeia, int idade) {
+        this.nome = nome;
+        this.aldeia = aldeia;
+        this.idade = idade;
+    }
+
+    // Metodos gerais!
+    public void habilidadeEspecial() {
+        System.out.println("Meu nome é " + nome + "e esse é o meu ataque especial");
+
+    }
+    @Override
+    public void estrategiaDeBatalhaNinja() {
+        System.out.println("Essa é minha estrategia de combate");
+    }
+
 }
