@@ -16,6 +16,9 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+
+
+
     <build>
         <defaultGoal>clean package</defaultGoal>
         <plugins>
@@ -61,6 +64,7 @@
         </repository>
     </repositories>
 
+
     <dependencies>
         <dependency>
             <groupId>org.spigotmc</groupId>
@@ -69,4 +73,9 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
+
+    
+
+
+
 </project>
