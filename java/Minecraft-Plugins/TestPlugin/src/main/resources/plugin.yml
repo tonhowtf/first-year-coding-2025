@@ -1,6 +1,12 @@
-name: TestPlugin
-version: '1.0-SNAPSHOT'
+name: ArenaPlugin
+version: '1.0'
 main: wtf.tonho.testPlugin.Main
 api-version: '1.20'
-
-
+commands:
+  arena:
+    description: Pra criar arenas.
+    usage: /arena
+permissions:
+  arenaplugin.use:
+    description: Permissão de usar.
+    default: true
