@@ -15,7 +15,7 @@ public class Main {
         kakashi.nome = "Kakashi Hatake";
         kakashi.aldeia = "Aldeia da folha";
         kakashi.idade = 48;
-        kakashi.habilidadeEspecial();
+        kakashi.sharinganAtivado();
 
 
 
