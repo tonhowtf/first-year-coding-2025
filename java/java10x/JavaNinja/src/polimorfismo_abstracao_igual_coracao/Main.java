@@ -16,6 +16,8 @@ public class Main {
         kakashi.aldeia = "Aldeia da folha";
         kakashi.idade = 48;
         kakashi.sharinganAtivado();
+        kakashi.bemVindoAAnbu();
+        kakashi.hokageAtivo();
 
 
 
