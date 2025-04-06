@@ -7,6 +7,7 @@ public abstract class Ninja implements EstrategiaDeBatalha {
     int idade;
 
     //TODO: Incluir 2 novos atributos: numeroDeMissõesConcluidas, Rank
+    // TODO: RANK: Gennin, Chunnin, Jounnin, Hokage
 
     public Ninja(){
 
