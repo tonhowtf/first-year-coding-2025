@@ -6,7 +6,7 @@ public abstract class Ninja implements EstrategiaDeBatalha {
     String aldeia;
     int idade;
 
-    //TODO: Incluir 2 novos atributos: numeroDeMissõesConcluidas, Rank
+    //TODO: Incluir 2 novos atributos: numeroDeMissõesConcluidas, Ran
 
     public Ninja(){
 
