@@ -3,26 +3,13 @@ package polimorfismo_abstracao_igual_coracao;
 public class Main {
     public static void main(String[] args) {
 
-        //Obj Uchiha
-        Uchiha sasuke = new Uchiha();
-        sasuke.nome = "Sasuke Uchiha";
-        sasuke.aldeia = "Aldeia da folha";
-        sasuke.idade = 18;
-        sasuke.habilidadeEspecial();
+        System.out.println("Naruto");
 
-        //Obj Uchiha 2
-        Hatake kakashi = new Hatake();
-        kakashi.nome = "Kakashi Hatake";
-        kakashi.aldeia = "Aldeia da folha";
-        kakashi.idade = 48;
-        kakashi.sharinganAtivado();
-        kakashi.bemVindoAAnbu();
-        kakashi.hokageAtivo();
+        Uzumaki naruto = new Uzumaki("naruto", "Aldeia da folha", 16);
+        System.out.println(naruto);
 
-        //Obj Uchiha 3
-        Uchiha madara = new Uchiha("Madara", "Folha", 45, 900, NivelNinja.KAGE);
-        madara.inteligenciaDeCombate();
-        madara.inteligenciaDeCombate(150);
+        System.out.println("Sasuke");
+        Uchiha sasuke = new Uchiha("Sasuke", "Aldeia da folha", 18);
 
 
 

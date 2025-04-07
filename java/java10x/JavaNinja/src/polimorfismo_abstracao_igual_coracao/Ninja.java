@@ -15,6 +15,11 @@ public abstract class Ninja implements EstrategiaDeBatalha {
 
     }
 
+    // TODO NINJA VAI FAZER OBRIGATORIAMENTE
+    public void tacarKunai() {
+        System.out.println("Tacar Kunai");
+    }
+
     public Ninja(String nome, String aldeia, int idade) {
         this.nome = nome;
         this.aldeia = aldeia;
