@@ -19,6 +19,11 @@ public class Main {
         kakashi.bemVindoAAnbu();
         kakashi.hokageAtivo();
 
+        //Obj Uchiha 3
+        Uchiha madara = new Uchiha("Madara", "Folha", 45, 900, NivelNinja.KAGE);
+        madara.inteligenciaDeCombate();
+        madara.inteligenciaDeCombate(150);
+
 
 
 

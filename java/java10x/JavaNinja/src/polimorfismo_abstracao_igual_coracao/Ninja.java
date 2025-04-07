@@ -22,12 +22,36 @@ public abstract class Ninja implements EstrategiaDeBatalha {
 
     }
 
-    public Ninja(String nome, String aldeia, int idade, NivelNinja rank, int numeroDeMissoesConcluidas) {
+    public Ninja(String nome, String aldeia, int idade, int numeroDeMissoesConcluidas, NivelNinja rank) {
         this(nome, aldeia, idade);
-        this.numeroDeMissoesConcluidas = numeroDeMissoesConcluidas;
         this.rank = rank;
+        this.numeroDeMissoesConcluidas = numeroDeMissoesConcluidas;
+
     }
 
-    // TODO: Sobrecarga do construtor chamando os novos atributos
+    // Metodos gerais!
+    public void habilidadeEspecial() {
+        System.out.println("Meu nome é " + nome + "e esse é o meu ataque especial");
+
+    }
+    @Override
+    public void estrategiaDeBatalhaNinja() {
+        System.out.println("Essa é minha estrategia de combate");
+    }
+
+    // Sobrecarga de metodo - Inteligencia de combate
+    public void inteligenciaDeCombate() {
+        System.out.println("Meu nome é " + nome + "e essa é a minha inteligencia de combate");
+    }
+    public void inteligenciaDeCombate(int qi) {
+
+        if(qi > 150) {
+            System.out.println("Seu QI é: " + qi + " e você é um genio");
+        } else if (qi >= 130) {
+            System.out.println("Seu QI é: " + qi + " e você é um ninja promissor");
+        } else {
+            System.out.println("Seu QI é:" + qi + " e você precisa treinar mais suas estrategias");
+        }
+    }
 
 }
