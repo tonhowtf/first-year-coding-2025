@@ -7,6 +7,7 @@ public abstract class Ninja implements EstrategiaDeBatalha {
     int idade;
     int numeroDeMissoesConcluidas;
     NivelNinja rank;
+    final double altura = 2.10;
 
     //TODO: Incluir 2 novos atributos: numeroDeMissõesConcluidas, Rank
     // TODO: RANK: Gennin, Chunnin, Jounnin, Hokage
@@ -16,7 +17,7 @@ public abstract class Ninja implements EstrategiaDeBatalha {
     }
 
     // TODO NINJA VAI FAZER OBRIGATORIAMENTE
-    public void tacarKunai() {
+    final void tacarKunai() {
         System.out.println("Tacar Kunai");
     }
 

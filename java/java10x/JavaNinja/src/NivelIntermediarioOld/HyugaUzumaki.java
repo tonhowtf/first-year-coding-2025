@@ -1,4 +1,4 @@
-package NivelIntermediario;
+package NivelIntermediarioOld;
 
 public interface HyugaUzumaki {
 

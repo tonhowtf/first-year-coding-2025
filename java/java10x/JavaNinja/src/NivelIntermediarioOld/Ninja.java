@@ -1,4 +1,4 @@
-package NivelIntermediario;
+package NivelIntermediarioOld;
 
 public class Ninja {
     String nome;

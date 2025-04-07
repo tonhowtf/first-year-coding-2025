@@ -22,4 +22,6 @@ public class Uzumaki extends Ninja{
     public String toString() {
         return "Esse é o método toString para referencia de memoria";
     }
+
+
 }

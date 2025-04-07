@@ -1,8 +1,11 @@
-package polimorfismo_abstracao_igual_coracao;
+package NivelIntermediario;
 
 final public class Anbu {
 
-    public void anbu(){
+    String nome;
+
+    public void anbu() {
         System.out.println("Eu sou um anbu");
     }
+
 }
