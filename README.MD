@@ -66,7 +66,7 @@ To get started with this repository:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Antonioreverso/first-year-coding-2025.git
+   git clone https://github.com/tonhowtf/first-year-coding-2025.git
    ```
 2. **Navigate to the project directory:**
    ```bash
@@ -81,7 +81,7 @@ Feel free to explore the code, experiment with the examples, and use them as a r
 
 ## Contributing
 
-Contributions, feedback, and suggestions are welcome! If you have ideas or improvements, please open an [issue](https://github.com/Antonioreverso/first-year-coding-2025/issues) or submit a pull request. Your input helps make this project even better!
+Contributions, feedback, and suggestions are welcome! If you have ideas or improvements, please open an [issue](https://github.com/tonhowtf/first-year-coding-2025/issues) or submit a pull request. Your input helps make this project even better!
 
 ---
 
@@ -93,7 +93,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Contact
 
-For questions or further discussion, feel free to reach out by opening an issue or connecting with me on [GitHub](https://github.com/Antonioreverso).
+For questions or further discussion, feel free to reach out by opening an issue or connecting with me on [GitHub](https://github.com/Tonhowtf).
 
 ---
 
