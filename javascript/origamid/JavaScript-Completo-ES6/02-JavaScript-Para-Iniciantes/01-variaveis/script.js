@@ -1,6 +1,6 @@
 // var nome = 'André';
 // var idade = 28;
-// var possuiFaculdade = true;
+// var possuiFaculdade = true;a
 
 // console.log(nome, idade, possuiFaculdade, nome)
 
