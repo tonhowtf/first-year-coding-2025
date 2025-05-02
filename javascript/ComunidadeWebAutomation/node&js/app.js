@@ -1,35 +1,36 @@
-// const endereco = 'Rua liberdade';
-// console.log(endereco);
 
 
-// const nome = 'Pedro \nAlexandre'
+// const notaum = 8
+// const notadois = 5.8
+// const media = (notaum + notadois) / 2
+// console.log(`A média é: ${media}`)
 
-// console.log(nome.charAt(1))
-// console.log(nome[1])
-
-
-// const nomeinicial = 'Tonho'
-// const sobrenome = 'Pedroso'
-
-// if(nomeinicial == nomeinicial){
-//   console.log('Os nomes são IGUAIS!')
+// function calculamedia(provaum, provadois){
+//   const media = (provaum + provadois) / 2
+//   return media
 // }
 
 
-// const nome = 'Tonho'
-// // const sobrenome = 'Brunelle'
-// // console.log('Seu nome: '.concat(nome));
-// // console.log('Seu nome: '+nome+' '+ 'Seu nome')
+// (function autodeclarada(){
+//   console.log('Função auto-declarada!')
+// })();
 
-// console.log(NamedNodeMap.includes('T'))
-// const framework = 'Nodejs 10'
-// // const framework = 'Nodejs 10';
-// // console.log('Framework usado :'+framework)
+// function calculo(num, numdois){
+//   console.log(num+numdois)
+// }
 
-// console.log(framework.replace(/\d/g, 'XXX'))
+// const calculo = (num, numdois) => num+numdois;
+// console.log(calculo(10,10))
 
-// const automacao = 'nodejs, jaVASCRIPT, puppeteer, cheerio';
-// console.log(automacao.split(','))
 
-// const linguagem = '                   javascript';
-// console.log(linguagem.trim())
+// const digitoum = 18
+// const digitodois = 5
+// // const soma = digitoum + digitodois
+// const divisao = digitoum/digitodois
+// console.log(soma);
+// console.log(divisao)
+
+// const soma = (num, numdois) => num+numdois;
+// console.log(soma(10,10))
+// const divisao = (num,numdois) => num/numdois;
+// console.log(divisao(10,20))
