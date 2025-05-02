@@ -1,10 +1,17 @@
-// const nome = 'Tonho'
-// console.log(nome)
+// console.log('Ola mundo')
 
 
-const nome = 'Tonho'
-const idade = 3
-const altura = 1
-const sobrenome = aburgi
+// {
+//   console.log('Dentro chave')
+// }
 
-console.log('Seu nome: ' + nome + ' sua idade: ' + idade + ' sua altura: ' + altura + ' Seu sobrenome: ' +sobrenome)
+// function olaMundo(){
+//   console.log('Oi')
+// }
+
+// olaMundo()
+
+const Nome = 'TOnho'
+const nome = 'sobrenome'
+
+console.log(nome)
