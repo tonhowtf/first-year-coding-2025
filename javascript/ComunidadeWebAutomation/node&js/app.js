@@ -1,17 +1,35 @@
-// console.log('Ola mundo')
+// const endereco = 'Rua liberdade';
+// console.log(endereco);
 
 
-// {
-//   console.log('Dentro chave')
+// const nome = 'Pedro \nAlexandre'
+
+// console.log(nome.charAt(1))
+// console.log(nome[1])
+
+
+// const nomeinicial = 'Tonho'
+// const sobrenome = 'Pedroso'
+
+// if(nomeinicial == nomeinicial){
+//   console.log('Os nomes são IGUAIS!')
 // }
 
-// function olaMundo(){
-//   console.log('Oi')
-// }
 
-// olaMundo()
+// const nome = 'Tonho'
+// // const sobrenome = 'Brunelle'
+// // console.log('Seu nome: '.concat(nome));
+// // console.log('Seu nome: '+nome+' '+ 'Seu nome')
 
-const Nome = 'TOnho'
-const nome = 'sobrenome'
+// console.log(NamedNodeMap.includes('T'))
+// const framework = 'Nodejs 10'
+// // const framework = 'Nodejs 10';
+// // console.log('Framework usado :'+framework)
 
-console.log(nome)
+// console.log(framework.replace(/\d/g, 'XXX'))
+
+// const automacao = 'nodejs, jaVASCRIPT, puppeteer, cheerio';
+// console.log(automacao.split(','))
+
+// const linguagem = '                   javascript';
+// console.log(linguagem.trim())
