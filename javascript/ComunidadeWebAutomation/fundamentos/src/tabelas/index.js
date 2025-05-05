@@ -22,3 +22,5 @@ axios.get('https://pedroalpacheco.github.io/htmlpurocurso/')
       })
     console.log(colunas)
   })
+
+
