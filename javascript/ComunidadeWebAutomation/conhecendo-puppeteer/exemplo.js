@@ -1,20 +1,26 @@
-const puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer')
+
+const url = 'https://www.airbnb.com/';
 
 (async () => {
   const browser = await puppeteer.launch({
     headless: false,
-    defaultViewport: null
-    //slowMo: 300
-  })
+    defaultViewport: null,
+    args: [
+      '--use-fake-ui-for-media-stream',
+      '--use-fake-device-for-media-stream',
+      '--disable-features=site-per-process'
+    ]
 
-  const context = await browser.createIncognitoBrowserContext();
-  const page = await context.newPage();
-  await page.setViewport({
-    width: 1920,
-    height: 1080
-  })
-  await page.goto('https://www.reddit.com/r/puzzlevideogames/comments/1kfjdxw/blue_prince_a_masterpiece_with_many_layers/')
+  });
+  const context = browser.defaultBrowserContext();
+  await context.overridePermissions(url, ['geolocation']);
 
-  await page.screenshot({ path: 'reddit.png', fullPage: true })
-  //await browser.close()
+  const page = await browser.newPage();
+
+  await page.setGeolocation({
+    latitude: 25.7751,
+    longitude: -80.2105
+  })
+  await page.goto(url);
 })()
