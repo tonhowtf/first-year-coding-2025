@@ -1,10 +1,7 @@
-const javascript = Object.create({});
-Object.assign(javascript, {
+const javascript = {
   name: "Javascript",
   year: 1995,
   paradigm: "OO and Functional"
-}, {
-  author: "Brendan Eich",
-  influenceBy: "Java, Scheme and Self"
-});
-console.log(javascript);
+};
+console.log(Object.keys(javascript));
+console.log(Object.values(javascript));
