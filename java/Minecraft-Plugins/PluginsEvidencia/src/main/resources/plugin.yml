@@ -1,0 +1,4 @@
+name: PluginsEvidencia
+version: '1.0-SNAPSHOT'
+main: wtf.tonho.pluginsEvidencia.PluginsEvidencia
+api-version: '1.20'
