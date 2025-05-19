@@ -20,8 +20,17 @@ while True:
     if escolha == "1":
         nome_tarefa = input("Digite o nome da tarefa que deseja adicionar: ")
         adicionar_tarefa(tarefas, nome_tarefa)
+    
+    elif escolha == "2":
+        pass
+    elif escolha == "3":
+        pass
+    elif escolha == "4":
+        pass
+    elif escolha == "5":
+        pass
 
-    if escolha == "6":
+    elif escolha == "6":
         break
 
 print("Programa finalizado")
