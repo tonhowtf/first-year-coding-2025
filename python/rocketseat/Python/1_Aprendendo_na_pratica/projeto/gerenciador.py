@@ -5,6 +5,14 @@ def adicionar_tarefa(tarefas, nome_tarefa):
     print(f"Tarefa {nome_tarefa} foi adicionado com sucesso")
     return
 
+def ver_tarefas(tarefas):
+    print(f"\nLista de tarefas: ")
+    for tarefa in tarefas:
+        if tarefa["completada"] == False:
+            print(f"{tarefa["nome"]} ❎")
+        else:
+            print(f"{tarefa["nome"]} ✅")
+
 tarefas = []
 while True:
     print("\nMenu do Gerenciador de Lista de tarefas:")
@@ -22,7 +30,7 @@ while True:
         adicionar_tarefa(tarefas, nome_tarefa)
     
     elif escolha == "2":
-        pass
+        ver_tarefas(tarefas)
     elif escolha == "3":
         pass
     elif escolha == "4":
