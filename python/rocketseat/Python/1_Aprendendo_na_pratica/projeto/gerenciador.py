@@ -1,17 +1,16 @@
 def adicionar_tarefa(tarefas, nome_tarefa):
-
     tarefa = {"nome": nome_tarefa, "completada": False}
     tarefas.append(tarefa)
-    print(f"Tarefa {nome_tarefa} foi adicionado com sucesso")
+    print(f"Tarefa {nome_tarefa} foi adicionado com sucesso!")
     return
 
 def ver_tarefas(tarefas):
     print(f"\nLista de tarefas: ")
-    for tarefa in tarefas:
-        if tarefa["completada"] == False:
-            print(f"{tarefa["nome"]} ❎")
-        else:
-            print(f"{tarefa["nome"]} ✅")
+    for indice, tarefa in enumerate(tarefas):
+        status = "✔" if tarefa["completada"] else " "
+        nome_tarefa = tarefa["tarefa"]
+        print(f"{indice}. [{status}] {nome_tarefa}")
+        return
 
 tarefas = []
 while True:
