@@ -34,7 +34,10 @@ while True:
     elif escolha == "2":
         ver_tarefas(tarefas)
     elif escolha == "3":
-        pass
+        ver_tarefas(tarefas)
+        indice_tarefa = input("Digite o número da tarefa que deseja atualizar: ")
+        novo_nome = input("Digite o novo nome da tarefa: ")
+        atualizar_tarefa(tarefas, indice_tarefa, novo_nome)
     elif escolha == "4":
         pass
     elif escolha == "5":
