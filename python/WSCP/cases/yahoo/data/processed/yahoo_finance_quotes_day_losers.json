@@ -1,0 +1,4916 @@
+[
+    {
+        "symbol": "LULU",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.17370911,
+            "fmt": "17.37%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "262.09 - 275.6",
+            "fmt": "262.09 - 275.60"
+        },
+        "regularMarketDayHigh": {
+            "raw": 275.6,
+            "fmt": "275.60"
+        },
+        "marketCap": {
+            "raw": 31873781760,
+            "fmt": "31.874B",
+            "longFmt": "31,873,781,760"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -158.05002,
+            "fmt": "-158.05"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "226.01 - 423.32",
+            "fmt": "226.01 - 423.32"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 2466514,
+            "fmt": "2.467M",
+            "longFmt": "2,466,514"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 1185543000000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 4.064679,
+            "fmt": "4.06%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 226.01,
+            "fmt": "226.01"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 16019345,
+            "fmt": "16.019M",
+            "longFmt": "16,019,345"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 262.09,
+            "fmt": "262.09"
+        },
+        "exchange": "NMS",
+        "shortName": "lululemon athletica inc.",
+        "region": "US",
+        "fullExchangeName": "NasdaqGS",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 271.11,
+            "fmt": "271.11"
+        },
+        "regularMarketTime": {
+            "raw": 1749240001,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -19.804707,
+            "fmt": "-19.80%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 39.259995,
+            "fmt": "39.26"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.37335825,
+            "fmt": "-37.34%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 18.057861,
+            "fmt": "18.06"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -85.6570778243149,
+            "fmt": "-85.66"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 115035000,
+            "fmt": "115.035M",
+            "longFmt": "115,035,000"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 330.78,
+            "fmt": "330.78"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 423.32,
+            "fmt": "423.32"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -65.51001,
+            "fmt": "-65.51"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "HIGH",
+        "regularMarketPrice": {
+            "raw": 265.27,
+            "fmt": "265.27"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 14.69,
+            "fmt": "14.69"
+        },
+        "triggerable": true,
+        "longName": "lululemon athletica inc."
+    },
+    {
+        "symbol": "DOCU",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.5457905,
+            "fmt": "54.58%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "74.85 - 78.39",
+            "fmt": "74.85 - 78.39"
+        },
+        "regularMarketDayHigh": {
+            "raw": 78.39,
+            "fmt": "78.39"
+        },
+        "marketCap": {
+            "raw": 15244426240,
+            "fmt": "15.244B",
+            "longFmt": "15,244,426,240"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -32.58,
+            "fmt": "-32.58"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "48.7 - 107.86",
+            "fmt": "48.70 - 107.86"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 2510063,
+            "fmt": "2.51M",
+            "longFmt": "2,510,063"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 1524835800000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 78.48223,
+            "fmt": "78.48%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 48.7,
+            "fmt": "48.70"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 22478945,
+            "fmt": "22.479M",
+            "longFmt": "22,478,945"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 74.85,
+            "fmt": "74.85"
+        },
+        "exchange": "NMS",
+        "shortName": "DocuSign, Inc.",
+        "region": "US",
+        "fullExchangeName": "NasdaqGS",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 76.766,
+            "fmt": "76.77"
+        },
+        "regularMarketTime": {
+            "raw": 1749240001,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -18.966633,
+            "fmt": "-18.97%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 26.579998,
+            "fmt": "26.58"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.30205825,
+            "fmt": "-30.21%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 14.311787,
+            "fmt": "14.31"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -25.974072476018424,
+            "fmt": "-25.97"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 202503008,
+            "fmt": "202.503M",
+            "longFmt": "202,503,008"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 92.9,
+            "fmt": "92.90"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 107.86,
+            "fmt": "107.86"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -17.620003,
+            "fmt": "-17.62"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "HIGH",
+        "regularMarketPrice": {
+            "raw": 75.28,
+            "fmt": "75.28"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 5.26,
+            "fmt": "5.26"
+        },
+        "triggerable": true,
+        "longName": "DocuSign, Inc."
+    },
+    {
+        "symbol": "BRZE",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.08306006,
+            "fmt": "8.31%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "29.565 - 32.23",
+            "fmt": "29.57 - 32.23"
+        },
+        "regularMarketDayHigh": {
+            "raw": 32.23,
+            "fmt": "32.23"
+        },
+        "marketCap": {
+            "raw": 3117695744,
+            "fmt": "3.118B",
+            "longFmt": "3,117,695,744"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -18.600002,
+            "fmt": "-18.60"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "27.45 - 48.33",
+            "fmt": "27.45 - 48.33"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 1235644,
+            "fmt": "1.236M",
+            "longFmt": "1,235,644"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 1637159400000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": -1.500684,
+            "fmt": "-1.50%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 27.45,
+            "fmt": "27.45"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 7727398,
+            "fmt": "7.727M",
+            "longFmt": "7,727,398"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 29.565,
+            "fmt": "29.57"
+        },
+        "exchange": "NMS",
+        "shortName": "Braze, Inc.",
+        "region": "US",
+        "fullExchangeName": "NasdaqGS",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 31.325,
+            "fmt": "31.33"
+        },
+        "regularMarketTime": {
+            "raw": 1749240001,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -17.645428,
+            "fmt": "-17.65%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 2.2799988,
+            "fmt": "2.28"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.38485417,
+            "fmt": "-38.49%"
+        },
+        "typeDisp": "Equity",
+        "lastClosePriceToNNWCPerShare": {
+            "raw": 20.062463740183194,
+            "fmt": "20.06"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 91844304,
+            "fmt": "91.844M",
+            "longFmt": "91,844,304"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 36.1,
+            "fmt": "36.10"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 48.33,
+            "fmt": "48.33"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -6.369999,
+            "fmt": "-6.37"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "HIGH",
+        "regularMarketPrice": {
+            "raw": 29.73,
+            "fmt": "29.73"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": -24.278032,
+            "fmt": "-24.28"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": -1.01,
+            "fmt": "-1.01"
+        },
+        "triggerable": true,
+        "longName": "Braze, Inc."
+    },
+    {
+        "symbol": "ORLA",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 2.4290123,
+            "fmt": "242.90%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "11.03 - 12.335",
+            "fmt": "11.03 - 12.34"
+        },
+        "regularMarketDayHigh": {
+            "raw": 12.335,
+            "fmt": "12.34"
+        },
+        "marketCap": {
+            "raw": 3615060480,
+            "fmt": "3.615B",
+            "longFmt": "3,615,060,480"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -1.3200006,
+            "fmt": "-1.32"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "3.24 - 12.43",
+            "fmt": "3.24 - 12.43"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 1391290,
+            "fmt": "1.391M",
+            "longFmt": "1,391,290"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 1487341800000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 213.45177,
+            "fmt": "213.45%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 3.24,
+            "fmt": "3.24"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 1864744,
+            "fmt": "1.865M",
+            "longFmt": "1,864,744"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 11.03,
+            "fmt": "11.03"
+        },
+        "exchange": "ASE",
+        "shortName": "Orla Mining Ltd.",
+        "region": "US",
+        "fullExchangeName": "NYSE American",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 12.41,
+            "fmt": "12.41"
+        },
+        "regularMarketTime": {
+            "raw": 1749240000,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -10.0405,
+            "fmt": "-10.04%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 7.87,
+            "fmt": "7.87"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.10619474,
+            "fmt": "-10.62%"
+        },
+        "typeDisp": "Equity",
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -3.5004452696090853,
+            "fmt": "-3.50"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 325124000,
+            "fmt": "325.124M",
+            "longFmt": "325,124,000"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 12.375,
+            "fmt": "12.38"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 12.43,
+            "fmt": "12.43"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -1.24,
+            "fmt": "-1.24"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "regularMarketPrice": {
+            "raw": 11.11,
+            "fmt": "11.11"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": 17.029722,
+            "fmt": "17.03"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 0.0,
+            "fmt": "0.00"
+        },
+        "triggerable": false,
+        "longName": "Orla Mining Ltd."
+    },
+    {
+        "symbol": "ABM",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.14100373,
+            "fmt": "14.10%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "43.4 - 49.7",
+            "fmt": "43.40 - 49.70"
+        },
+        "regularMarketDayHigh": {
+            "raw": 49.7,
+            "fmt": "49.70"
+        },
+        "marketCap": {
+            "raw": 2900605696,
+            "fmt": "2.901B",
+            "longFmt": "2,900,605,696"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -13.169998,
+            "fmt": "-13.17"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "40.85 - 59.78",
+            "fmt": "40.85 - 59.78"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 552431,
+            "fmt": "552,431",
+            "longFmt": "552,431"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 322151400000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 0.6281853,
+            "fmt": "0.63%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 40.85,
+            "fmt": "40.85"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 3026901,
+            "fmt": "3.027M",
+            "longFmt": "3,026,901"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 43.4,
+            "fmt": "43.40"
+        },
+        "exchange": "NYQ",
+        "shortName": "ABM Industries Incorporated",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 48.46,
+            "fmt": "48.46"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -9.0714,
+            "fmt": "-9.07%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 5.760002,
+            "fmt": "5.76"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.22030777,
+            "fmt": "-22.03%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 36.700787,
+            "fmt": "36.70"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -1.2998005080642974,
+            "fmt": "-1.30"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 62231400,
+            "fmt": "62.231M",
+            "longFmt": "62,231,400"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 51.23,
+            "fmt": "51.23"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 59.78,
+            "fmt": "59.78"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -4.65,
+            "fmt": "-4.65"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "regularMarketPrice": {
+            "raw": 46.61,
+            "fmt": "46.61"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": 18.521821,
+            "fmt": "18.52"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 1.27,
+            "fmt": "1.27"
+        },
+        "triggerable": false,
+        "longName": "ABM Industries Incorporated"
+    },
+    {
+        "symbol": "SATS",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.18187962,
+            "fmt": "18.19%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "17.02 - 19.0",
+            "fmt": "17.02 - 19.00"
+        },
+        "regularMarketDayHigh": {
+            "raw": 19.0,
+            "fmt": "19.00"
+        },
+        "marketCap": {
+            "raw": 5023385088,
+            "fmt": "5.023B",
+            "longFmt": "5,023,385,088"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -15.0,
+            "fmt": "-15.00"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "14.79 - 32.48",
+            "fmt": "14.79 - 32.48"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 3200304,
+            "fmt": "3.2M",
+            "longFmt": "3,200,304"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 1199284200000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 1.1695862,
+            "fmt": "1.17%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 14.79,
+            "fmt": "14.79"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 4483082,
+            "fmt": "4.483M",
+            "longFmt": "4,483,082"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 17.02,
+            "fmt": "17.02"
+        },
+        "exchange": "NMS",
+        "shortName": "EchoStar Corporation",
+        "region": "US",
+        "fullExchangeName": "NasdaqGS",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 18.99,
+            "fmt": "18.99"
+        },
+        "regularMarketTime": {
+            "raw": 1749240001,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -8.14504,
+            "fmt": "-8.15%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 2.6899996,
+            "fmt": "2.69"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.46182266,
+            "fmt": "-46.18%"
+        },
+        "typeDisp": "Equity",
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -0.15918471036319967,
+            "fmt": "-0.16"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 156030000,
+            "fmt": "156.03M",
+            "longFmt": "156,030,000"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 19.03,
+            "fmt": "19.03"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 32.48,
+            "fmt": "32.48"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -1.5500011,
+            "fmt": "-1.55"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "HIGH",
+        "regularMarketPrice": {
+            "raw": 17.48,
+            "fmt": "17.48"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": -81.627486,
+            "fmt": "-81.63"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": -0.75,
+            "fmt": "-0.75"
+        },
+        "triggerable": true,
+        "longName": "EchoStar Corporation"
+    },
+    {
+        "symbol": "TTC",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.0989734,
+            "fmt": "9.90%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "68.11 - 73.69",
+            "fmt": "68.11 - 73.69"
+        },
+        "regularMarketDayHigh": {
+            "raw": 73.69,
+            "fmt": "73.69"
+        },
+        "marketCap": {
+            "raw": 6838674944,
+            "fmt": "6.839B",
+            "longFmt": "6,838,674,944"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -32.42,
+            "fmt": "-32.42"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "62.34 - 100.93",
+            "fmt": "62.34 - 100.93"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 999903,
+            "fmt": "999,903",
+            "longFmt": "999,903"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 322151400000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": -23.629921,
+            "fmt": "-23.63%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 62.34,
+            "fmt": "62.34"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 2430819,
+            "fmt": "2.431M",
+            "longFmt": "2,430,819"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 68.11,
+            "fmt": "68.11"
+        },
+        "exchange": "NYQ",
+        "shortName": "Toro Company (The)",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 72.42,
+            "fmt": "72.42"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -6.53479,
+            "fmt": "-6.53%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 6.170002,
+            "fmt": "6.17"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.3212127,
+            "fmt": "-32.12%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 17.611826,
+            "fmt": "17.61"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -6.1644552487525335,
+            "fmt": "-6.16"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 99820096,
+            "fmt": "99.82M",
+            "longFmt": "99,820,096"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 73.26,
+            "fmt": "73.26"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 100.93,
+            "fmt": "100.93"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -4.79,
+            "fmt": "-4.79"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "regularMarketPrice": {
+            "raw": 68.51,
+            "fmt": "68.51"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": 16.769521,
+            "fmt": "16.77"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 3.89,
+            "fmt": "3.89"
+        },
+        "triggerable": false,
+        "longName": "The Toro Company"
+    },
+    {
+        "symbol": "HMY",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.8268508,
+            "fmt": "82.69%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "14.495 - 15.41",
+            "fmt": "14.49 - 15.41"
+        },
+        "regularMarketDayHigh": {
+            "raw": 15.41,
+            "fmt": "15.41"
+        },
+        "marketCap": {
+            "raw": 9058983936,
+            "fmt": "9.059B",
+            "longFmt": "9,058,983,936"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -4.21,
+            "fmt": "-4.21"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "7.97 - 18.77",
+            "fmt": "7.97 - 18.77"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 6366020,
+            "fmt": "6.366M",
+            "longFmt": "6,366,020"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 769181400000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 86.52912,
+            "fmt": "86.53%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 7.97,
+            "fmt": "7.97"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 5560695,
+            "fmt": "5.561M",
+            "longFmt": "5,560,695"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 14.495,
+            "fmt": "14.49"
+        },
+        "exchange": "NYQ",
+        "shortName": "Harmony Gold Mining Company Lim",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 15.21,
+            "fmt": "15.21"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -5.27,
+            "fmt": "-5.27%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 6.5900006,
+            "fmt": "6.59"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.22429408,
+            "fmt": "-22.43%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 15.655914,
+            "fmt": "15.66"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -0.4327480757281373,
+            "fmt": "-0.43"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 622182976,
+            "fmt": "622.183M",
+            "longFmt": "622,182,976"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 15.385,
+            "fmt": "15.39"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 18.77,
+            "fmt": "18.77"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -0.809999,
+            "fmt": "-0.81"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "regularMarketPrice": {
+            "raw": 14.56,
+            "fmt": "14.56"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": 7.138356,
+            "fmt": "7.14"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 0.93,
+            "fmt": "0.93"
+        },
+        "triggerable": false,
+        "longName": "Harmony Gold Mining Company Limited"
+    },
+    {
+        "symbol": "EQX",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.54910713,
+            "fmt": "54.91%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "6.94 - 7.31",
+            "fmt": "6.94 - 7.31"
+        },
+        "regularMarketDayHigh": {
+            "raw": 7.31,
+            "fmt": "7.31"
+        },
+        "marketCap": {
+            "raw": 3165216000,
+            "fmt": "3.165B",
+            "longFmt": "3,165,216,000"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -0.50999975,
+            "fmt": "-0.51"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "4.48 - 7.45",
+            "fmt": "4.48 - 7.45"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 12754111,
+            "fmt": "12.754M",
+            "longFmt": "12,754,111"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 1546439400000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 42.773438,
+            "fmt": "42.77%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 4.48,
+            "fmt": "4.48"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 22689850,
+            "fmt": "22.69M",
+            "longFmt": "22,689,850"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 6.94,
+            "fmt": "6.94"
+        },
+        "exchange": "ASE",
+        "shortName": "Equinox Gold Corp.",
+        "region": "US",
+        "fullExchangeName": "NYSE American",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 7.3,
+            "fmt": "7.30"
+        },
+        "regularMarketTime": {
+            "raw": 1749240000,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -5.06156,
+            "fmt": "-5.06%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 2.46,
+            "fmt": "2.46"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.068456344,
+            "fmt": "-6.85%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 9.774649,
+            "fmt": "9.77"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -0.9800186201408645,
+            "fmt": "-0.98"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 456083008,
+            "fmt": "456.083M",
+            "longFmt": "456,083,008"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 7.31,
+            "fmt": "7.31"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 7.45,
+            "fmt": "7.45"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -0.37,
+            "fmt": "-0.37"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "regularMarketPrice": {
+            "raw": 6.94,
+            "fmt": "6.94"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": 33.361592,
+            "fmt": "33.36"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 0.71,
+            "fmt": "0.71"
+        },
+        "triggerable": false,
+        "longName": "Equinox Gold Corp."
+    },
+    {
+        "symbol": "AVGO",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.9216342,
+            "fmt": "92.16%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "246.1348 - 255.32",
+            "fmt": "246.13 - 255.32"
+        },
+        "regularMarketDayHigh": {
+            "raw": 255.32,
+            "fmt": "255.32"
+        },
+        "marketCap": {
+            "raw": 1161052422144,
+            "fmt": "1.161T",
+            "longFmt": "1,161,052,422,144"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -18.5,
+            "fmt": "-18.50"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "128.5 - 265.43",
+            "fmt": "128.50 - 265.43"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 29046052,
+            "fmt": "29.046M",
+            "longFmt": "29,046,052"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 1249565400000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 84.78786,
+            "fmt": "84.79%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 128.5,
+            "fmt": "128.50"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 39581512,
+            "fmt": "39.582M",
+            "longFmt": "39,581,512"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 246.1348,
+            "fmt": "246.13"
+        },
+        "exchange": "NMS",
+        "shortName": "Broadcom Inc.",
+        "region": "US",
+        "fullExchangeName": "NasdaqGS",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 251.14,
+            "fmt": "251.14"
+        },
+        "regularMarketTime": {
+            "raw": 1749240001,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -5.0013466,
+            "fmt": "-5.00%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 118.42999,
+            "fmt": "118.43"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.06969823,
+            "fmt": "-6.97%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 90.45055,
+            "fmt": "90.45"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -10.842660224901813,
+            "fmt": "-10.84"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 4701949952,
+            "fmt": "4.702B",
+            "longFmt": "4,701,949,952"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 259.93,
+            "fmt": "259.93"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 265.43,
+            "fmt": "265.43"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -13.0,
+            "fmt": "-13.00"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "HIGH",
+        "regularMarketPrice": {
+            "raw": 246.93,
+            "fmt": "246.93"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": 58.996246,
+            "fmt": "59.00"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 2.73,
+            "fmt": "2.73"
+        },
+        "triggerable": true,
+        "longName": "Broadcom Inc."
+    },
+    {
+        "symbol": "VEON",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.945081,
+            "fmt": "94.51%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "48.59 - 51.5758",
+            "fmt": "48.59 - 51.58"
+        },
+        "regularMarketDayHigh": {
+            "raw": 51.5758,
+            "fmt": "51.58"
+        },
+        "marketCap": {
+            "raw": 3478237184,
+            "fmt": "3.478B",
+            "longFmt": "3,478,237,184"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -9.07,
+            "fmt": "-9.07"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "25.31 - 58.3",
+            "fmt": "25.31 - 58.30"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 170539,
+            "fmt": "170,539",
+            "longFmt": "170,539"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 848068200000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 91.87082,
+            "fmt": "91.87%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 25.31,
+            "fmt": "25.31"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 118054,
+            "fmt": "118,054",
+            "longFmt": "118,054"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 48.59,
+            "fmt": "48.59"
+        },
+        "exchange": "NCM",
+        "shortName": "VEON Ltd.",
+        "region": "US",
+        "fullExchangeName": "NasdaqCM",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 50.46,
+            "fmt": "50.46"
+        },
+        "regularMarketTime": {
+            "raw": 1749240000,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -4.7591395,
+            "fmt": "-4.76%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 23.92,
+            "fmt": "23.92"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.1555746,
+            "fmt": "-15.56%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 8.561739,
+            "fmt": "8.56"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -0.866227065741243,
+            "fmt": "-0.87"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 70652800,
+            "fmt": "70.653M",
+            "longFmt": "70,652,800"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 51.69,
+            "fmt": "51.69"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 58.3,
+            "fmt": "58.30"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -2.459999,
+            "fmt": "-2.46"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "regularMarketPrice": {
+            "raw": 49.23,
+            "fmt": "49.23"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": 5.677739,
+            "fmt": "5.68"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 5.75,
+            "fmt": "5.75"
+        },
+        "triggerable": false,
+        "longName": "VEON Ltd."
+    },
+    {
+        "fullExchangeName": "NYSE",
+        "symbol": "IOT",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.66175383,
+            "fmt": "66.18%"
+        },
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 42.75,
+            "fmt": "42.75"
+        },
+        "language": "en-US",
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -4.55027,
+            "fmt": "-4.55%"
+        },
+        "quoteType": "EQUITY",
+        "regularMarketDayRange": {
+            "raw": "41.6 - 45.815",
+            "fmt": "41.60 - 45.81"
+        },
+        "fiftyTwoWeekLowChange": {
+            "raw": 17.96,
+            "fmt": "17.96"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.27140555,
+            "fmt": "-27.14%"
+        },
+        "regularMarketDayHigh": {
+            "raw": 45.815,
+            "fmt": "45.81"
+        },
+        "typeDisp": "Equity",
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -412.055273478817,
+            "fmt": "-412.06"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 299748992,
+            "fmt": "299.749M",
+            "longFmt": "299,748,992"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 47.29,
+            "fmt": "47.29"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 61.9,
+            "fmt": "61.90"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "marketCap": {
+            "raw": 25677051904,
+            "fmt": "25.677B",
+            "longFmt": "25,677,051,904"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -16.800003,
+            "fmt": "-16.80"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "27.14 - 61.9",
+            "fmt": "27.14 - 61.90"
+        },
+        "regularMarketChange": {
+            "raw": -2.15,
+            "fmt": "-2.15"
+        },
+        "cryptoTradeable": false,
+        "averageDailyVolume3Month": {
+            "raw": 4440131,
+            "fmt": "4.44M",
+            "longFmt": "4,440,131"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 1639578600000,
+        "exchangeTimezoneShortName": "EDT",
+        "fiftyTwoWeekChangePercent": {
+            "raw": 54.613876,
+            "fmt": "54.61%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 27.14,
+            "fmt": "27.14"
+        },
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "regularMarketPrice": {
+            "raw": 45.1,
+            "fmt": "45.10"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 14180025,
+            "fmt": "14.18M",
+            "longFmt": "14,180,025"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "epsTrailingTwelveMonths": {
+            "raw": -0.22,
+            "fmt": "-0.22"
+        },
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 41.6,
+            "fmt": "41.60"
+        },
+        "exchange": "NYQ",
+        "shortName": "Samsara Inc.",
+        "region": "US",
+        "triggerable": false,
+        "longName": "Samsara Inc."
+    },
+    {
+        "symbol": "MOS",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.5563505,
+            "fmt": "55.64%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "33.99 - 35.435",
+            "fmt": "33.99 - 35.44"
+        },
+        "regularMarketDayHigh": {
+            "raw": 35.435,
+            "fmt": "35.44"
+        },
+        "marketCap": {
+            "raw": 11039638528,
+            "fmt": "11.04B",
+            "longFmt": "11,039,638,528"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -2.8899994,
+            "fmt": "-2.89"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "22.36 - 37.69",
+            "fmt": "22.36 - 37.69"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 5563742,
+            "fmt": "5.564M",
+            "longFmt": "5,563,742"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 570205800000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 28.712868,
+            "fmt": "28.71%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 22.36,
+            "fmt": "22.36"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 11001702,
+            "fmt": "11.002M",
+            "longFmt": "11,001,702"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 33.99,
+            "fmt": "33.99"
+        },
+        "exchange": "NYQ",
+        "shortName": "Mosaic Company (The)",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 34.3,
+            "fmt": "34.30"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -4.39561,
+            "fmt": "-4.40%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 12.439999,
+            "fmt": "12.44"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.07667815,
+            "fmt": "-7.67%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 30.0,
+            "fmt": "30.00"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -1.3123074210266863,
+            "fmt": "-1.31"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 317231008,
+            "fmt": "317.231M",
+            "longFmt": "317,231,008"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 36.395,
+            "fmt": "36.40"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 37.69,
+            "fmt": "37.69"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -1.6,
+            "fmt": "-1.60"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "regularMarketPrice": {
+            "raw": 34.8,
+            "fmt": "34.80"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": 14.372189,
+            "fmt": "14.37"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 1.16,
+            "fmt": "1.16"
+        },
+        "triggerable": false,
+        "longName": "The Mosaic Company"
+    },
+    {
+        "symbol": "RGLD",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.4695121,
+            "fmt": "46.95%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "175.42 - 183.72",
+            "fmt": "175.42 - 183.72"
+        },
+        "regularMarketDayHigh": {
+            "raw": 183.72,
+            "fmt": "183.72"
+        },
+        "marketCap": {
+            "raw": 11579096064,
+            "fmt": "11.579B",
+            "longFmt": "11,579,096,064"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -15.850006,
+            "fmt": "-15.85"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "119.72 - 191.78",
+            "fmt": "119.72 - 191.78"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 592817,
+            "fmt": "592,817",
+            "longFmt": "592,817"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 360941400000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 48.62571,
+            "fmt": "48.63%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 119.72,
+            "fmt": "119.72"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 667200,
+            "fmt": "667,200",
+            "longFmt": "667,200"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 175.42,
+            "fmt": "175.42"
+        },
+        "exchange": "NMS",
+        "shortName": "Royal Gold, Inc.",
+        "region": "US",
+        "fullExchangeName": "NasdaqGS",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 183.71,
+            "fmt": "183.71"
+        },
+        "regularMarketTime": {
+            "raw": 1749240000,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -4.307867,
+            "fmt": "-4.31%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 56.20999,
+            "fmt": "56.21"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.08264682,
+            "fmt": "-8.26%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 29.175785,
+            "fmt": "29.18"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": 251.23904244072466,
+            "fmt": "251.24"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 65816500,
+            "fmt": "65.817M",
+            "longFmt": "65,816,500"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 183.85,
+            "fmt": "183.85"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 191.78,
+            "fmt": "191.78"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -7.9200134,
+            "fmt": "-7.92"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "HIGH",
+        "regularMarketPrice": {
+            "raw": 175.93,
+            "fmt": "175.93"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": 24.087932,
+            "fmt": "24.09"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 6.03,
+            "fmt": "6.03"
+        },
+        "triggerable": true,
+        "longName": "Royal Gold, Inc."
+    },
+    {
+        "symbol": "MLTX",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.49204332,
+            "fmt": "49.20%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "46.73 - 49.805",
+            "fmt": "46.73 - 49.81"
+        },
+        "regularMarketDayHigh": {
+            "raw": 49.805,
+            "fmt": "49.81"
+        },
+        "marketCap": {
+            "raw": 2975675136,
+            "fmt": "2.976B",
+            "longFmt": "2,975,675,136"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -11.379997,
+            "fmt": "-11.38"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "31.42 - 58.26",
+            "fmt": "31.42 - 58.26"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 520074,
+            "fmt": "520,074",
+            "longFmt": "520,074"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 1603200600000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 17.182625,
+            "fmt": "17.18%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 31.42,
+            "fmt": "31.42"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 881405,
+            "fmt": "881,405",
+            "longFmt": "881,405"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 46.73,
+            "fmt": "46.73"
+        },
+        "exchange": "NCM",
+        "shortName": "MoonLake Immunotherapeutics",
+        "region": "US",
+        "fullExchangeName": "NasdaqCM",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 49.25,
+            "fmt": "49.25"
+        },
+        "regularMarketTime": {
+            "raw": 1749240001,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -3.9934483,
+            "fmt": "-3.99%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 15.460001,
+            "fmt": "15.46"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.19533123,
+            "fmt": "-19.53%"
+        },
+        "typeDisp": "Equity",
+        "lastClosePriceToNNWCPerShare": {
+            "raw": 8.125458161418246,
+            "fmt": "8.13"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 63474300,
+            "fmt": "63.474M",
+            "longFmt": "63,474,300"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 48.83,
+            "fmt": "48.83"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 58.26,
+            "fmt": "58.26"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -1.9500008,
+            "fmt": "-1.95"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "regularMarketPrice": {
+            "raw": 46.88,
+            "fmt": "46.88"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": -25.214819,
+            "fmt": "-25.21"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": -2.3,
+            "fmt": "-2.30"
+        },
+        "triggerable": false,
+        "longName": "MoonLake Immunotherapeutics"
+    },
+    {
+        "symbol": "NEM",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.42051002,
+            "fmt": "42.05%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "52.26 - 54.49",
+            "fmt": "52.26 - 54.49"
+        },
+        "regularMarketDayHigh": {
+            "raw": 54.49,
+            "fmt": "54.49"
+        },
+        "marketCap": {
+            "raw": 58276675584,
+            "fmt": "58.277B",
+            "longFmt": "58,276,675,584"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -6.3600006,
+            "fmt": "-6.36"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "36.86 - 58.72",
+            "fmt": "36.86 - 58.72"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 13271741,
+            "fmt": "13.272M",
+            "longFmt": "13,271,741"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 322151400000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 35.059464,
+            "fmt": "35.06%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 36.86,
+            "fmt": "36.86"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 11273894,
+            "fmt": "11.274M",
+            "longFmt": "11,273,894"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 52.26,
+            "fmt": "52.26"
+        },
+        "exchange": "NYQ",
+        "shortName": "Newmont Corporation",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 54.49,
+            "fmt": "54.49"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -3.94423,
+            "fmt": "-3.94%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 15.5,
+            "fmt": "15.50"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.10831063,
+            "fmt": "-10.83%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 11.927108,
+            "fmt": "11.93"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -3.4554120701072444,
+            "fmt": "-3.46"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 1112999936,
+            "fmt": "1.113B",
+            "longFmt": "1,112,999,936"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 54.53,
+            "fmt": "54.53"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 58.72,
+            "fmt": "58.72"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -2.15,
+            "fmt": "-2.15"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "regularMarketPrice": {
+            "raw": 52.36,
+            "fmt": "52.36"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": 16.551725,
+            "fmt": "16.55"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 4.39,
+            "fmt": "4.39"
+        },
+        "triggerable": false,
+        "longName": "Newmont Corporation"
+    },
+    {
+        "symbol": "MELI",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.6015419,
+            "fmt": "60.15%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "2414.0 - 2545.9463",
+            "fmt": "2,414.00 - 2,545.95"
+        },
+        "regularMarketDayHigh": {
+            "raw": 2545.9463,
+            "fmt": "2,545.95"
+        },
+        "marketCap": {
+            "raw": 125850714112,
+            "fmt": "125.851B",
+            "longFmt": "125,850,714,112"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -153.48999,
+            "fmt": "-153.49"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "1550.0 - 2635.88",
+            "fmt": "1,550.00 - 2,635.88"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 435112,
+            "fmt": "435,112",
+            "longFmt": "435,112"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 1186752600000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 61.34262,
+            "fmt": "61.34%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 1550.0,
+            "fmt": "1,550.00"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 713393,
+            "fmt": "713,393",
+            "longFmt": "713,393"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 2414.0,
+            "fmt": "2,414.00"
+        },
+        "exchange": "NMS",
+        "shortName": "MercadoLibre, Inc.",
+        "region": "US",
+        "fullExchangeName": "NasdaqGS",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 2540.01,
+            "fmt": "2,540.01"
+        },
+        "regularMarketTime": {
+            "raw": 1749240001,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -3.8481836,
+            "fmt": "-3.85%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 932.3899,
+            "fmt": "932.39"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.058231026,
+            "fmt": "-5.82%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 61.24821,
+            "fmt": "61.25"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -7.042543976401094,
+            "fmt": "-7.04"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 50697400,
+            "fmt": "50.697M",
+            "longFmt": "50,697,400"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 2581.74,
+            "fmt": "2,581.74"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 2635.88,
+            "fmt": "2,635.88"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -99.3501,
+            "fmt": "-99.35"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "HIGH",
+        "regularMarketPrice": {
+            "raw": 2482.39,
+            "fmt": "2,482.39"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": 46.171839,
+            "fmt": "46.17"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 40.53,
+            "fmt": "40.53"
+        },
+        "triggerable": true,
+        "longName": "MercadoLibre, Inc."
+    },
+    {
+        "symbol": "POOL",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.045062784,
+            "fmt": "4.51%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "294.68 - 310.12",
+            "fmt": "294.68 - 310.12"
+        },
+        "regularMarketDayHigh": {
+            "raw": 310.12,
+            "fmt": "310.12"
+        },
+        "marketCap": {
+            "raw": 11168781312,
+            "fmt": "11.169B",
+            "longFmt": "11,168,781,312"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -98.52002,
+            "fmt": "-98.52"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "284.27 - 395.6",
+            "fmt": "284.27 - 395.60"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 511174,
+            "fmt": "511,174",
+            "longFmt": "511,174"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 813591000000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": -9.5083,
+            "fmt": "-9.51%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 284.27,
+            "fmt": "284.27"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 967630,
+            "fmt": "967,630",
+            "longFmt": "967,630"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 294.68,
+            "fmt": "294.68"
+        },
+        "exchange": "NMS",
+        "shortName": "Pool Corporation",
+        "region": "US",
+        "fullExchangeName": "NasdaqGS",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 309.55,
+            "fmt": "309.55"
+        },
+        "regularMarketTime": {
+            "raw": 1749240000,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -3.686181,
+            "fmt": "-3.69%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 12.809998,
+            "fmt": "12.81"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.24903949,
+            "fmt": "-24.90%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 27.816477,
+            "fmt": "27.82"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -7.423414541242624,
+            "fmt": "-7.42"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 37595200,
+            "fmt": "37.595M",
+            "longFmt": "37,595,200"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 308.45,
+            "fmt": "308.45"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 395.6,
+            "fmt": "395.60"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -11.370026,
+            "fmt": "-11.37"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "HIGH",
+        "regularMarketPrice": {
+            "raw": 297.08,
+            "fmt": "297.08"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": 22.79531,
+            "fmt": "22.80"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 10.68,
+            "fmt": "10.68"
+        },
+        "triggerable": true,
+        "longName": "Pool Corporation"
+    },
+    {
+        "symbol": "FSM",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.8471503,
+            "fmt": "84.72%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "7.05 - 7.4",
+            "fmt": "7.05 - 7.40"
+        },
+        "regularMarketDayHigh": {
+            "raw": 7.4,
+            "fmt": "7.40"
+        },
+        "marketCap": {
+            "raw": 2188624896,
+            "fmt": "2.189B",
+            "longFmt": "2,188,624,896"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -0.42000008,
+            "fmt": "-0.42"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "3.86 - 7.55",
+            "fmt": "3.86 - 7.55"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 16594185,
+            "fmt": "16.594M",
+            "longFmt": "16,594,185"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 1168266600000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 48.893356,
+            "fmt": "48.89%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 3.86,
+            "fmt": "3.86"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 25560016,
+            "fmt": "25.56M",
+            "longFmt": "25,560,016"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 7.05,
+            "fmt": "7.05"
+        },
+        "exchange": "NYQ",
+        "shortName": "Fortuna Mining Corp.",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 7.35,
+            "fmt": "7.35"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -3.64865,
+            "fmt": "-3.65%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 3.2700002,
+            "fmt": "3.27"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.05562915,
+            "fmt": "-5.56%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 13.711539,
+            "fmt": "13.71"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -8.512612866277792,
+            "fmt": "-8.51"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 306960000,
+            "fmt": "306.96M",
+            "longFmt": "306,960,000"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 7.395,
+            "fmt": "7.39"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 7.55,
+            "fmt": "7.55"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -0.27,
+            "fmt": "-0.27"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "regularMarketPrice": {
+            "raw": 7.13,
+            "fmt": "7.13"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": 11.169994,
+            "fmt": "11.17"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 0.52,
+            "fmt": "0.52"
+        },
+        "triggerable": false,
+        "longName": "Fortuna Mining Corp."
+    },
+    {
+        "symbol": "LION",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.08026756,
+            "fmt": "8.03%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "6.405 - 6.84",
+            "fmt": "6.41 - 6.84"
+        },
+        "regularMarketDayHigh": {
+            "raw": 6.84,
+            "fmt": "6.84"
+        },
+        "marketCap": {
+            "raw": 1845673728,
+            "fmt": "1.846B",
+            "longFmt": "1,845,673,728"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -2.6800003,
+            "fmt": "-2.68"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "5.98 - 9.14",
+            "fmt": "5.98 - 9.14"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 1168268,
+            "fmt": "1.168M",
+            "longFmt": "1,168,268"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 1646145000000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": -12.4183,
+            "fmt": "-12.42%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 5.98,
+            "fmt": "5.98"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 4869026,
+            "fmt": "4.869M",
+            "longFmt": "4,869,026"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 6.405,
+            "fmt": "6.41"
+        },
+        "exchange": "NYQ",
+        "shortName": "Lionsgate Studios Corp",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 6.73,
+            "fmt": "6.73"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -3.58209,
+            "fmt": "-3.58%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 0.48000002,
+            "fmt": "0.48"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.29321665,
+            "fmt": "-29.32%"
+        },
+        "typeDisp": "Equity",
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -0.33167153294733787,
+            "fmt": "-0.33"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 285708000,
+            "fmt": "285.708M",
+            "longFmt": "285,708,000"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 6.7,
+            "fmt": "6.70"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 9.14,
+            "fmt": "9.14"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -0.24,
+            "fmt": "-0.24"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "regularMarketPrice": {
+            "raw": 6.46,
+            "fmt": "6.46"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": 30.922016,
+            "fmt": "30.92"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": -3.86,
+            "fmt": "-3.86"
+        },
+        "triggerable": false,
+        "longName": "Lionsgate Studios Corp."
+    },
+    {
+        "symbol": "SAND",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.86788607,
+            "fmt": "86.79%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "9.16 - 9.52",
+            "fmt": "9.16 - 9.52"
+        },
+        "regularMarketDayHigh": {
+            "raw": 9.52,
+            "fmt": "9.52"
+        },
+        "marketCap": {
+            "raw": 2694278144,
+            "fmt": "2.694B",
+            "longFmt": "2,694,278,144"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -0.49000072,
+            "fmt": "-0.49"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "4.92 - 9.68",
+            "fmt": "4.92 - 9.68"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 5202734,
+            "fmt": "5.203M",
+            "longFmt": "5,202,734"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 1266849000000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 78.130844,
+            "fmt": "78.13%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 4.92,
+            "fmt": "4.92"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 6948300,
+            "fmt": "6.948M",
+            "longFmt": "6,948,300"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 9.16,
+            "fmt": "9.16"
+        },
+        "exchange": "NYQ",
+        "shortName": "Sandstorm Gold Ltd.",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 9.5,
+            "fmt": "9.50"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -3.56768,
+            "fmt": "-3.57%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 4.2699995,
+            "fmt": "4.27"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.050619908,
+            "fmt": "-5.06%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 91.899994,
+            "fmt": "91.90"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -7.672317137303272,
+            "fmt": "-7.67"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 293175008,
+            "fmt": "293.175M",
+            "longFmt": "293,175,008"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 9.535,
+            "fmt": "9.53"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 9.68,
+            "fmt": "9.68"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -0.34,
+            "fmt": "-0.34"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "regularMarketPrice": {
+            "raw": 9.19,
+            "fmt": "9.19"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": 32.286041,
+            "fmt": "32.29"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 0.1,
+            "fmt": "0.10"
+        },
+        "triggerable": false,
+        "longName": "Sandstorm Gold Ltd."
+    },
+    {
+        "symbol": "AEM",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.87224257,
+            "fmt": "87.22%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "117.18 - 121.94",
+            "fmt": "117.18 - 121.94"
+        },
+        "regularMarketDayHigh": {
+            "raw": 121.94,
+            "fmt": "121.94"
+        },
+        "marketCap": {
+            "raw": 59396124672,
+            "fmt": "59.396B",
+            "longFmt": "59,396,124,672"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -8.790001,
+            "fmt": "-8.79"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "63.01 - 126.76",
+            "fmt": "63.01 - 126.76"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 3724520,
+            "fmt": "3.725M",
+            "longFmt": "3,724,520"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 99153000000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 91.31662,
+            "fmt": "91.32%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 63.01,
+            "fmt": "63.01"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 3346675,
+            "fmt": "3.347M",
+            "longFmt": "3,346,675"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 117.18,
+            "fmt": "117.18"
+        },
+        "exchange": "NYQ",
+        "shortName": "Agnico Eagle Mines Limited",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 121.4,
+            "fmt": "121.40"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -3.35081,
+            "fmt": "-3.35%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 54.960003,
+            "fmt": "54.96"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.06934365,
+            "fmt": "-6.93%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 25.1,
+            "fmt": "25.10"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -8.69800598841823,
+            "fmt": "-8.70"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 503484992,
+            "fmt": "503.485M",
+            "longFmt": "503,484,992"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 122.06,
+            "fmt": "122.06"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 126.76,
+            "fmt": "126.76"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -4.09,
+            "fmt": "-4.09"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "regularMarketPrice": {
+            "raw": 117.97,
+            "fmt": "117.97"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": 16.333103,
+            "fmt": "16.33"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 4.7,
+            "fmt": "4.70"
+        },
+        "triggerable": false,
+        "longName": "Agnico Eagle Mines Limited"
+    },
+    {
+        "symbol": "PRCT",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.33737242,
+            "fmt": "33.74%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "62.85 - 65.655",
+            "fmt": "62.85 - 65.65"
+        },
+        "regularMarketDayHigh": {
+            "raw": 65.655,
+            "fmt": "65.65"
+        },
+        "marketCap": {
+            "raw": 3480728576,
+            "fmt": "3.481B",
+            "longFmt": "3,480,728,576"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -40.899998,
+            "fmt": "-40.90"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "47.04 - 103.81",
+            "fmt": "47.04 - 103.81"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 999714,
+            "fmt": "999,714",
+            "longFmt": "999,714"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 1631712600000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": -3.7294686,
+            "fmt": "-3.73%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 47.04,
+            "fmt": "47.04"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 986318,
+            "fmt": "986,318",
+            "longFmt": "986,318"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 62.85,
+            "fmt": "62.85"
+        },
+        "exchange": "NGM",
+        "shortName": "PROCEPT BioRobotics Corporation",
+        "region": "US",
+        "fullExchangeName": "NasdaqGM",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 65.17,
+            "fmt": "65.17"
+        },
+        "regularMarketTime": {
+            "raw": 1749240000,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -3.2897818,
+            "fmt": "-3.29%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 15.869999,
+            "fmt": "15.87"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.393989,
+            "fmt": "-39.40%"
+        },
+        "typeDisp": "Equity",
+        "lastClosePriceToNNWCPerShare": {
+            "raw": 13.011839197155123,
+            "fmt": "13.01"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 55328700,
+            "fmt": "55.329M",
+            "longFmt": "55,328,700"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 65.05,
+            "fmt": "65.05"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 103.81,
+            "fmt": "103.81"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -2.1400032,
+            "fmt": "-2.14"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "regularMarketPrice": {
+            "raw": 62.91,
+            "fmt": "62.91"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": -45.811879,
+            "fmt": "-45.81"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": -1.69,
+            "fmt": "-1.69"
+        },
+        "triggerable": false,
+        "longName": "PROCEPT BioRobotics Corporation"
+    },
+    {
+        "symbol": "TFPM",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.71664286,
+            "fmt": "71.66%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "23.91 - 24.75",
+            "fmt": "23.91 - 24.75"
+        },
+        "regularMarketDayHigh": {
+            "raw": 24.75,
+            "fmt": "24.75"
+        },
+        "marketCap": {
+            "raw": 4805766144,
+            "fmt": "4.806B",
+            "longFmt": "4,805,766,144"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -1.4300003,
+            "fmt": "-1.43"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "13.94 - 25.36",
+            "fmt": "13.94 - 25.36"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 470833,
+            "fmt": "470,833",
+            "longFmt": "470,833"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 1661866200000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 63.450096,
+            "fmt": "63.45%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 13.94,
+            "fmt": "13.94"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 445008,
+            "fmt": "445,008",
+            "longFmt": "445,008"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 23.91,
+            "fmt": "23.91"
+        },
+        "exchange": "NYQ",
+        "shortName": "Triple Flag Precious Metals Cor",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 24.7,
+            "fmt": "24.70"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -3.23493,
+            "fmt": "-3.23%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 9.990001,
+            "fmt": "9.99"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.056388024,
+            "fmt": "-5.64%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 797.6667,
+            "fmt": "797.67"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": 1227.0339809411428,
+            "fmt": "1,227.03"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 200826000,
+            "fmt": "200.826M",
+            "longFmt": "200,826,000"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 24.73,
+            "fmt": "24.73"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 25.36,
+            "fmt": "25.36"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -0.799999,
+            "fmt": "-0.80"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "regularMarketPrice": {
+            "raw": 23.93,
+            "fmt": "23.93"
+        },
+        "lastCloseTevEbitLtm": {
+            "raw": -409.219898,
+            "fmt": "-409.22"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 0.03,
+            "fmt": "0.03"
+        },
+        "triggerable": false,
+        "longName": "Triple Flag Precious Metals Corp."
+    },
+    {
+        "fullExchangeName": "NasdaqGS",
+        "symbol": "KC",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 4.925743,
+            "fmt": "492.57%"
+        },
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 12.55,
+            "fmt": "12.55"
+        },
+        "language": "en-US",
+        "regularMarketTime": {
+            "raw": 1749240001,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -3.2336268,
+            "fmt": "-3.23%"
+        },
+        "quoteType": "EQUITY",
+        "regularMarketDayRange": {
+            "raw": "11.79 - 12.2",
+            "fmt": "11.79 - 12.20"
+        },
+        "fiftyTwoWeekLowChange": {
+            "raw": 9.950001,
+            "fmt": "9.95"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.46226415,
+            "fmt": "-46.23%"
+        },
+        "regularMarketDayHigh": {
+            "raw": 12.2,
+            "fmt": "12.20"
+        },
+        "typeDisp": "Equity",
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -0.31060435943344,
+            "fmt": "-0.31"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 267120992,
+            "fmt": "267.121M",
+            "longFmt": "267,120,992"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 12.37,
+            "fmt": "12.37"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 22.26,
+            "fmt": "22.26"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "marketCap": {
+            "raw": 3244672256,
+            "fmt": "3.245B",
+            "longFmt": "3,244,672,256"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -10.29,
+            "fmt": "-10.29"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "2.02 - 22.26",
+            "fmt": "2.02 - 22.26"
+        },
+        "regularMarketChange": {
+            "raw": -0.39999962,
+            "fmt": "-0.40"
+        },
+        "cryptoTradeable": false,
+        "averageDailyVolume3Month": {
+            "raw": 3105209,
+            "fmt": "3.105M",
+            "longFmt": "3,105,209"
+        },
+        "exchangeDataDelayedBy": 0,
+        "firstTradeDateMilliseconds": 1588944600000,
+        "exchangeTimezoneShortName": "EDT",
+        "fiftyTwoWeekChangePercent": {
+            "raw": 366.79245,
+            "fmt": "366.79%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 2.02,
+            "fmt": "2.02"
+        },
+        "marketState": "POST",
+        "customPriceAlertConfidence": "HIGH",
+        "regularMarketPrice": {
+            "raw": 11.97,
+            "fmt": "11.97"
+        },
+        "market": "us_market",
+        "regularMarketVolume": {
+            "raw": 1807526,
+            "fmt": "1.808M",
+            "longFmt": "1,807,526"
+        },
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "epsTrailingTwelveMonths": {
+            "raw": -1.08,
+            "fmt": "-1.08"
+        },
+        "sourceInterval": 15,
+        "regularMarketDayLow": {
+            "raw": 11.79,
+            "fmt": "11.79"
+        },
+        "exchange": "NMS",
+        "shortName": "Kingsoft Cloud Holdings Limited",
+        "region": "US",
+        "triggerable": true,
+        "longName": "Kingsoft Cloud Holdings Limited"
+    },
+    {
+        "symbol": "JHX",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.3062881,
+            "fmt": "30.63%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "25.76 - 26.56",
+            "fmt": "25.76 - 26.56"
+        },
+        "regularMarketDayHigh": {
+            "raw": 26.56,
+            "fmt": "26.56"
+        },
+        "marketCap": {
+            "raw": 11073090560,
+            "fmt": "11.073B",
+            "longFmt": "11,073,090,560"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -17.81,
+            "fmt": "-17.81"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "19.72 - 43.57",
+            "fmt": "19.72 - 43.57"
+        },
+        "exchangeDataDelayedBy": 0,
+        "averageDailyVolume3Month": {
+            "raw": 3300676,
+            "fmt": "3.301M",
+            "longFmt": "3,300,676"
+        },
+        "firstTradeDateMilliseconds": 1003757400000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": -13.006538,
+            "fmt": "-13.01%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 19.72,
+            "fmt": "19.72"
+        },
+        "regularMarketVolume": {
+            "raw": 5675965,
+            "fmt": "5.676M",
+            "longFmt": "5,675,965"
+        },
+        "market": "us_market",
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "exchange": "NYQ",
+        "regularMarketDayLow": {
+            "raw": 25.76,
+            "fmt": "25.76"
+        },
+        "shortName": "James Hardie Industries plc",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 26.45,
+            "fmt": "26.45"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -3.23066,
+            "fmt": "-3.23%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 6.040001,
+            "fmt": "6.04"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.4087675,
+            "fmt": "-40.88%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 26.285713,
+            "fmt": "26.29"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -5.484832553041189,
+            "fmt": "-5.48"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 429856000,
+            "fmt": "429.856M",
+            "longFmt": "429,856,000"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 43.57,
+            "fmt": "43.57"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 26.61,
+            "fmt": "26.61"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -0.860001,
+            "fmt": "-0.86"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "regularMarketPrice": {
+            "raw": 25.76,
+            "fmt": "25.76"
+        },
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "lastCloseTevEbitLtm": {
+            "raw": 17.258872,
+            "fmt": "17.26"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 0.98,
+            "fmt": "0.98"
+        },
+        "triggerable": false,
+        "longName": "James Hardie Industries plc"
+    },
+    {
+        "symbol": "WPM",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.70708233,
+            "fmt": "70.71%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "88.3815 - 91.63",
+            "fmt": "88.38 - 91.63"
+        },
+        "regularMarketDayHigh": {
+            "raw": 91.63,
+            "fmt": "91.63"
+        },
+        "marketCap": {
+            "raw": 40255250432,
+            "fmt": "40.255B",
+            "longFmt": "40,255,250,432"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -6.5300064,
+            "fmt": "-6.53"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "51.96 - 95.23",
+            "fmt": "51.96 - 95.23"
+        },
+        "exchangeDataDelayedBy": 0,
+        "averageDailyVolume3Month": {
+            "raw": 2109960,
+            "fmt": "2.11M",
+            "longFmt": "2,109,960"
+        },
+        "firstTradeDateMilliseconds": 1120656600000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 74.158585,
+            "fmt": "74.16%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 51.96,
+            "fmt": "51.96"
+        },
+        "regularMarketVolume": {
+            "raw": 2481506,
+            "fmt": "2.482M",
+            "longFmt": "2,481,506"
+        },
+        "market": "us_market",
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "exchange": "NYQ",
+        "regularMarketDayLow": {
+            "raw": 88.3815,
+            "fmt": "88.38"
+        },
+        "shortName": "Wheaton Precious Metals Corp",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 91.44,
+            "fmt": "91.44"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -3.15537,
+            "fmt": "-3.16%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 36.739998,
+            "fmt": "36.74"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.0685709,
+            "fmt": "-6.86%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 65.22059,
+            "fmt": "65.22"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": 50.88975188453305,
+            "fmt": "50.89"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 453836000,
+            "fmt": "453.836M",
+            "longFmt": "453,836,000"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 95.23,
+            "fmt": "95.23"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 91.63,
+            "fmt": "91.63"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -2.89,
+            "fmt": "-2.89"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "regularMarketPrice": {
+            "raw": 88.7,
+            "fmt": "88.70"
+        },
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "lastCloseTevEbitLtm": {
+            "raw": 39.088386,
+            "fmt": "39.09"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 1.36,
+            "fmt": "1.36"
+        },
+        "triggerable": false,
+        "longName": "Wheaton Precious Metals Corp."
+    },
+    {
+        "symbol": "IAG",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 1.1627907,
+            "fmt": "116.28%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "7.43 - 7.81",
+            "fmt": "7.43 - 7.81"
+        },
+        "regularMarketDayHigh": {
+            "raw": 7.81,
+            "fmt": "7.81"
+        },
+        "marketCap": {
+            "raw": 4278371840,
+            "fmt": "4.278B",
+            "longFmt": "4,278,371,840"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -0.94000006,
+            "fmt": "-0.94"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "3.44 - 8.38",
+            "fmt": "3.44 - 8.38"
+        },
+        "exchangeDataDelayedBy": 0,
+        "averageDailyVolume3Month": {
+            "raw": 15346223,
+            "fmt": "15.346M",
+            "longFmt": "15,346,223"
+        },
+        "firstTradeDateMilliseconds": 1058275800000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 114.525154,
+            "fmt": "114.53%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 3.44,
+            "fmt": "3.44"
+        },
+        "regularMarketVolume": {
+            "raw": 32992316,
+            "fmt": "32.992M",
+            "longFmt": "32,992,316"
+        },
+        "market": "us_market",
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "exchange": "NYQ",
+        "regularMarketDayLow": {
+            "raw": 7.43,
+            "fmt": "7.43"
+        },
+        "shortName": "Iamgold Corporation",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 7.7,
+            "fmt": "7.70"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -3.125,
+            "fmt": "-3.12%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 4.0,
+            "fmt": "4.00"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.11217184,
+            "fmt": "-11.22%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 5.0958905,
+            "fmt": "5.10"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -3.016169754993249,
+            "fmt": "-3.02"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 575049984,
+            "fmt": "575.05M",
+            "longFmt": "575,049,984"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 8.38,
+            "fmt": "8.38"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 7.7,
+            "fmt": "7.70"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -0.24,
+            "fmt": "-0.24"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "regularMarketPrice": {
+            "raw": 7.44,
+            "fmt": "7.44"
+        },
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "lastCloseTevEbitLtm": {
+            "raw": 9.182962,
+            "fmt": "9.18"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 1.46,
+            "fmt": "1.46"
+        },
+        "triggerable": false,
+        "longName": "IAMGOLD Corporation"
+    },
+    {
+        "symbol": "GFI",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.8983051,
+            "fmt": "89.83%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "24.51 - 25.66",
+            "fmt": "24.51 - 25.66"
+        },
+        "regularMarketDayHigh": {
+            "raw": 25.66,
+            "fmt": "25.66"
+        },
+        "marketCap": {
+            "raw": 22053390336,
+            "fmt": "22.053B",
+            "longFmt": "22,053,390,336"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -1.7200012,
+            "fmt": "-1.72"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "12.98 - 26.36",
+            "fmt": "12.98 - 26.36"
+        },
+        "exchangeDataDelayedBy": 0,
+        "averageDailyVolume3Month": {
+            "raw": 4114793,
+            "fmt": "4.115M",
+            "longFmt": "4,114,793"
+        },
+        "firstTradeDateMilliseconds": 322151400000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 63.68319,
+            "fmt": "63.68%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 12.98,
+            "fmt": "12.98"
+        },
+        "regularMarketVolume": {
+            "raw": 2738303,
+            "fmt": "2.738M",
+            "longFmt": "2,738,303"
+        },
+        "market": "us_market",
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "exchange": "NYQ",
+        "regularMarketDayLow": {
+            "raw": 24.51,
+            "fmt": "24.51"
+        },
+        "shortName": "Gold Fields Limited",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 25.31,
+            "fmt": "25.31"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -3.06845,
+            "fmt": "-3.07%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 11.66,
+            "fmt": "11.66"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.06525043,
+            "fmt": "-6.53%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 17.855072,
+            "fmt": "17.86"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -6.591537732814234,
+            "fmt": "-6.59"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 895024000,
+            "fmt": "895.024M",
+            "longFmt": "895,024,000"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 26.36,
+            "fmt": "26.36"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 25.42,
+            "fmt": "25.42"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -0.780001,
+            "fmt": "-0.78"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "regularMarketPrice": {
+            "raw": 24.64,
+            "fmt": "24.64"
+        },
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "lastCloseTevEbitLtm": {
+            "raw": 10.670396,
+            "fmt": "10.67"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 1.38,
+            "fmt": "1.38"
+        },
+        "triggerable": false,
+        "longName": "Gold Fields Limited"
+    },
+    {
+        "symbol": "FNV",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.48367357,
+            "fmt": "48.37%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "166.01 - 171.93",
+            "fmt": "166.01 - 171.93"
+        },
+        "regularMarketDayHigh": {
+            "raw": 171.93,
+            "fmt": "171.93"
+        },
+        "marketCap": {
+            "raw": 32212672512,
+            "fmt": "32.213B",
+            "longFmt": "32,212,672,512"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -12.779999,
+            "fmt": "-12.78"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "112.7 - 179.99",
+            "fmt": "112.70 - 179.99"
+        },
+        "exchangeDataDelayedBy": 0,
+        "averageDailyVolume3Month": {
+            "raw": 998249,
+            "fmt": "998,249",
+            "longFmt": "998,249"
+        },
+        "firstTradeDateMilliseconds": 1197037800000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 46.725082,
+            "fmt": "46.73%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 112.7,
+            "fmt": "112.70"
+        },
+        "regularMarketVolume": {
+            "raw": 1078703,
+            "fmt": "1.079M",
+            "longFmt": "1,078,703"
+        },
+        "market": "us_market",
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "exchange": "NYQ",
+        "regularMarketDayLow": {
+            "raw": 166.01,
+            "fmt": "166.01"
+        },
+        "shortName": "Franco-Nevada Corporation",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 171.93,
+            "fmt": "171.93"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -3.06105,
+            "fmt": "-3.06%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 54.51001,
+            "fmt": "54.51"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.071003936,
+            "fmt": "-7.10%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 52.090343,
+            "fmt": "52.09"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": 34.78437628461459,
+            "fmt": "34.78"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 192648000,
+            "fmt": "192.648M",
+            "longFmt": "192,648,000"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 179.99,
+            "fmt": "179.99"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 172.455,
+            "fmt": "172.46"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -5.28,
+            "fmt": "-5.28"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "regularMarketPrice": {
+            "raw": 167.21,
+            "fmt": "167.21"
+        },
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "lastCloseTevEbitLtm": {
+            "raw": -42.317308,
+            "fmt": "-42.32"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 3.21,
+            "fmt": "3.21"
+        },
+        "triggerable": false,
+        "longName": "Franco-Nevada Corporation"
+    },
+    {
+        "symbol": "MTN",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.15849045,
+            "fmt": "15.85%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "147.53 - 155.9",
+            "fmt": "147.53 - 155.90"
+        },
+        "regularMarketDayHigh": {
+            "raw": 155.9,
+            "fmt": "155.90"
+        },
+        "marketCap": {
+            "raw": 5616755200,
+            "fmt": "5.617B",
+            "longFmt": "5,616,755,200"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -49.020004,
+            "fmt": "-49.02"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "129.85 - 199.45",
+            "fmt": "129.85 - 199.45"
+        },
+        "exchangeDataDelayedBy": 0,
+        "averageDailyVolume3Month": {
+            "raw": 704958,
+            "fmt": "704,958",
+            "longFmt": "704,958"
+        },
+        "firstTradeDateMilliseconds": 855066600000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": -10.946303,
+            "fmt": "-10.95%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 129.85,
+            "fmt": "129.85"
+        },
+        "regularMarketVolume": {
+            "raw": 2189526,
+            "fmt": "2.19M",
+            "longFmt": "2,189,526"
+        },
+        "market": "us_market",
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "exchange": "NYQ",
+        "regularMarketDayLow": {
+            "raw": 147.53,
+            "fmt": "147.53"
+        },
+        "shortName": "Vail Resorts, Inc.",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 155.29,
+            "fmt": "155.29"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -2.88573,
+            "fmt": "-2.89%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 20.579987,
+            "fmt": "20.58"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.24577591,
+            "fmt": "-24.58%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 19.163057,
+            "fmt": "19.16"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -1.2832474405814902,
+            "fmt": "-1.28"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 37338000,
+            "fmt": "37.338M",
+            "longFmt": "37,338,000"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 199.45,
+            "fmt": "199.45"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 154.98,
+            "fmt": "154.98"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -4.47,
+            "fmt": "-4.47"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "regularMarketPrice": {
+            "raw": 150.43,
+            "fmt": "150.43"
+        },
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "lastCloseTevEbitLtm": {
+            "raw": 17.974996,
+            "fmt": "17.97"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 7.85,
+            "fmt": "7.85"
+        },
+        "triggerable": false,
+        "longName": "Vail Resorts, Inc."
+    },
+    {
+        "symbol": "SE",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 2.011091,
+            "fmt": "201.11%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "164.37 - 172.09",
+            "fmt": "164.37 - 172.09"
+        },
+        "regularMarketDayHigh": {
+            "raw": 172.09,
+            "fmt": "172.09"
+        },
+        "marketCap": {
+            "raw": 98044428288,
+            "fmt": "98.044B",
+            "longFmt": "98,044,428,288"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -7.0399933,
+            "fmt": "-7.04"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "55.0 - 172.65",
+            "fmt": "55.00 - 172.65"
+        },
+        "exchangeDataDelayedBy": 0,
+        "averageDailyVolume3Month": {
+            "raw": 5185709,
+            "fmt": "5.186M",
+            "longFmt": "5,185,709"
+        },
+        "firstTradeDateMilliseconds": 1508506200000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 135.13179,
+            "fmt": "135.13%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 55.0,
+            "fmt": "55.00"
+        },
+        "regularMarketVolume": {
+            "raw": 4357120,
+            "fmt": "4.357M",
+            "longFmt": "4,357,120"
+        },
+        "market": "us_market",
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "exchange": "NYQ",
+        "regularMarketDayLow": {
+            "raw": 164.37,
+            "fmt": "164.37"
+        },
+        "shortName": "Sea Limited",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 172.0,
+            "fmt": "172.00"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -2.81103,
+            "fmt": "-2.81%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 110.61,
+            "fmt": "110.61"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.0407761,
+            "fmt": "-4.08%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 115.811195,
+            "fmt": "115.81"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -15.908178418466747,
+            "fmt": "-15.91"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 546492032,
+            "fmt": "546.492M",
+            "longFmt": "546,492,032"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 172.65,
+            "fmt": "172.65"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 170.43,
+            "fmt": "170.43"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -4.78999,
+            "fmt": "-4.79"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "regularMarketPrice": {
+            "raw": 165.61,
+            "fmt": "165.61"
+        },
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "lastCloseTevEbitLtm": {
+            "raw": 197.916081,
+            "fmt": "197.92"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 1.43,
+            "fmt": "1.43"
+        },
+        "triggerable": false,
+        "longName": "Sea Limited"
+    },
+    {
+        "symbol": "HL",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.42176875,
+            "fmt": "42.18%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "6.19 - 6.485",
+            "fmt": "6.19 - 6.49"
+        },
+        "regularMarketDayHigh": {
+            "raw": 6.485,
+            "fmt": "6.49"
+        },
+        "marketCap": {
+            "raw": 3966170112,
+            "fmt": "3.966B",
+            "longFmt": "3,966,170,112"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -1.4099998,
+            "fmt": "-1.41"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "4.41 - 7.68",
+            "fmt": "4.41 - 7.68"
+        },
+        "exchangeDataDelayedBy": 0,
+        "averageDailyVolume3Month": {
+            "raw": 22152441,
+            "fmt": "22.152M",
+            "longFmt": "22,152,441"
+        },
+        "firstTradeDateMilliseconds": 322151400000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 20.786512,
+            "fmt": "20.79%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 4.41,
+            "fmt": "4.41"
+        },
+        "regularMarketVolume": {
+            "raw": 29911812,
+            "fmt": "29.912M",
+            "longFmt": "29,911,812"
+        },
+        "market": "us_market",
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "exchange": "NYQ",
+        "regularMarketDayLow": {
+            "raw": 6.19,
+            "fmt": "6.19"
+        },
+        "shortName": "Hecla Mining Company",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 6.47,
+            "fmt": "6.47"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -2.79069,
+            "fmt": "-2.79%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 1.8600001,
+            "fmt": "1.86"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.18359374,
+            "fmt": "-18.36%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 52.25,
+            "fmt": "52.25"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -4.956248775935568,
+            "fmt": "-4.96"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 632563008,
+            "fmt": "632.563M",
+            "longFmt": "632,563,008"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 7.68,
+            "fmt": "7.68"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 6.445,
+            "fmt": "6.45"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -0.18,
+            "fmt": "-0.18"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "regularMarketPrice": {
+            "raw": 6.27,
+            "fmt": "6.27"
+        },
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "lastCloseTevEbitLtm": {
+            "raw": 64.483706,
+            "fmt": "64.48"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 0.12,
+            "fmt": "0.12"
+        },
+        "triggerable": false,
+        "longName": "Hecla Mining Company"
+    },
+    {
+        "symbol": "FRO",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.42177418,
+            "fmt": "42.18%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "17.4 - 18.36",
+            "fmt": "17.40 - 18.36"
+        },
+        "regularMarketDayHigh": {
+            "raw": 18.36,
+            "fmt": "18.36"
+        },
+        "marketCap": {
+            "raw": 3924843520,
+            "fmt": "3.925B",
+            "longFmt": "3,924,843,520"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -9.120001,
+            "fmt": "-9.12"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "12.4 - 26.75",
+            "fmt": "12.40 - 26.75"
+        },
+        "exchangeDataDelayedBy": 0,
+        "averageDailyVolume3Month": {
+            "raw": 2929130,
+            "fmt": "2.929M",
+            "longFmt": "2,929,130"
+        },
+        "firstTradeDateMilliseconds": 997104600000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": -30.933332,
+            "fmt": "-30.93%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 12.4,
+            "fmt": "12.40"
+        },
+        "regularMarketVolume": {
+            "raw": 3580178,
+            "fmt": "3.58M",
+            "longFmt": "3,580,178"
+        },
+        "market": "us_market",
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "exchange": "NYQ",
+        "regularMarketDayLow": {
+            "raw": 17.4,
+            "fmt": "17.40"
+        },
+        "shortName": "Frontline Plc",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 18.29,
+            "fmt": "18.29"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -2.75786,
+            "fmt": "-2.76%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 5.2299995,
+            "fmt": "5.23"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.3409346,
+            "fmt": "-34.09%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 11.229299,
+            "fmt": "11.23"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -1.1569896067803749,
+            "fmt": "-1.16"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 222623008,
+            "fmt": "222.623M",
+            "longFmt": "222,623,008"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 26.75,
+            "fmt": "26.75"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 18.13,
+            "fmt": "18.13"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -0.5,
+            "fmt": "-0.50"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "regularMarketPrice": {
+            "raw": 17.63,
+            "fmt": "17.63"
+        },
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "epsTrailingTwelveMonths": {
+            "raw": 1.57,
+            "fmt": "1.57"
+        },
+        "triggerable": false,
+        "longName": "Frontline plc"
+    },
+    {
+        "symbol": "IBP",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.09441096,
+            "fmt": "9.44%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "164.69 - 172.4",
+            "fmt": "164.69 - 172.40"
+        },
+        "regularMarketDayHigh": {
+            "raw": 172.4,
+            "fmt": "172.40"
+        },
+        "marketCap": {
+            "raw": 4558474240,
+            "fmt": "4.558B",
+            "longFmt": "4,558,474,240"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -115.97,
+            "fmt": "-115.97"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "150.83 - 281.04",
+            "fmt": "150.83 - 281.04"
+        },
+        "exchangeDataDelayedBy": 0,
+        "averageDailyVolume3Month": {
+            "raw": 409846,
+            "fmt": "409,846",
+            "longFmt": "409,846"
+        },
+        "firstTradeDateMilliseconds": 1392301800000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": -19.232052,
+            "fmt": "-19.23%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 150.83,
+            "fmt": "150.83"
+        },
+        "regularMarketVolume": {
+            "raw": 493781,
+            "fmt": "493,781",
+            "longFmt": "493,781"
+        },
+        "market": "us_market",
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "exchange": "NYQ",
+        "regularMarketDayLow": {
+            "raw": 164.69,
+            "fmt": "164.69"
+        },
+        "shortName": "Installed Building Products, In",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 171.19,
+            "fmt": "171.19"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -2.75699,
+            "fmt": "-2.76%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 14.2400055,
+            "fmt": "14.24"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.41264588,
+            "fmt": "-41.26%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 18.800684,
+            "fmt": "18.80"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -7.485883608432664,
+            "fmt": "-7.49"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 27615400,
+            "fmt": "27.615M",
+            "longFmt": "27,615,400"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 281.04,
+            "fmt": "281.04"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 169.68,
+            "fmt": "169.68"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -4.67999,
+            "fmt": "-4.68"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "regularMarketPrice": {
+            "raw": 165.07,
+            "fmt": "165.07"
+        },
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "lastCloseTevEbitLtm": {
+            "raw": 16.411402,
+            "fmt": "16.41"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 8.78,
+            "fmt": "8.78"
+        },
+        "triggerable": false,
+        "longName": "Installed Building Products, Inc."
+    },
+    {
+        "symbol": "TSEM",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.402933,
+            "fmt": "40.29%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "39.8425 - 41.5",
+            "fmt": "39.84 - 41.50"
+        },
+        "regularMarketDayHigh": {
+            "raw": 41.5,
+            "fmt": "41.50"
+        },
+        "marketCap": {
+            "raw": 4566738432,
+            "fmt": "4.567B",
+            "longFmt": "4,566,738,432"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -15.130001,
+            "fmt": "-15.13"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "28.64 - 55.31",
+            "fmt": "28.64 - 55.31"
+        },
+        "exchangeDataDelayedBy": 0,
+        "averageDailyVolume3Month": {
+            "raw": 587771,
+            "fmt": "587,771",
+            "longFmt": "587,771"
+        },
+        "firstTradeDateMilliseconds": 783178200000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": 10.589814,
+            "fmt": "10.59%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 28.64,
+            "fmt": "28.64"
+        },
+        "regularMarketVolume": {
+            "raw": 702046,
+            "fmt": "702,046",
+            "longFmt": "702,046"
+        },
+        "market": "us_market",
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "exchange": "NMS",
+        "regularMarketDayLow": {
+            "raw": 39.8425,
+            "fmt": "39.84"
+        },
+        "shortName": "Tower Semiconductor Ltd.",
+        "region": "US",
+        "fullExchangeName": "NasdaqGS",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 41.5,
+            "fmt": "41.50"
+        },
+        "regularMarketTime": {
+            "raw": 1749240000,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -2.5939386,
+            "fmt": "-2.59%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 11.540001,
+            "fmt": "11.54"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.2735491,
+            "fmt": "-27.35%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 22.322224,
+            "fmt": "22.32"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": 4.200214838925959,
+            "fmt": "4.20"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 111757000,
+            "fmt": "111.757M",
+            "longFmt": "111,757,000"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 55.31,
+            "fmt": "55.31"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 41.25,
+            "fmt": "41.25"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -1.0699997,
+            "fmt": "-1.07"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "regularMarketPrice": {
+            "raw": 40.18,
+            "fmt": "40.18"
+        },
+        "marketState": "POST",
+        "customPriceAlertConfidence": "HIGH",
+        "epsTrailingTwelveMonths": {
+            "raw": 1.8,
+            "fmt": "1.80"
+        },
+        "triggerable": true,
+        "longName": "Tower Semiconductor Ltd."
+    },
+    {
+        "fullExchangeName": "NasdaqGS",
+        "symbol": "ASND",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.557836,
+            "fmt": "55.78%"
+        },
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 175.94,
+            "fmt": "175.94"
+        },
+        "language": "en-US",
+        "regularMarketTime": {
+            "raw": 1749240001,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -2.5288682,
+            "fmt": "-2.53%"
+        },
+        "quoteType": "EQUITY",
+        "regularMarketDayRange": {
+            "raw": "171.55 - 178.025",
+            "fmt": "171.55 - 178.02"
+        },
+        "fiftyTwoWeekLowChange": {
+            "raw": 61.97,
+            "fmt": "61.97"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.054316953,
+            "fmt": "-5.43%"
+        },
+        "regularMarketDayHigh": {
+            "raw": 178.025,
+            "fmt": "178.02"
+        },
+        "typeDisp": "Equity",
+        "lastClosePriceToNNWCPerShare": {
+            "raw": -20.00986949163081,
+            "fmt": "-20.01"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 60494200,
+            "fmt": "60.494M",
+            "longFmt": "60,494,200"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 183.0,
+            "fmt": "183.00"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 177.55,
+            "fmt": "177.55"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "marketCap": {
+            "raw": 10469126144,
+            "fmt": "10.469B",
+            "longFmt": "10,469,126,144"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -9.940002,
+            "fmt": "-9.94"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "111.09 - 183.0",
+            "fmt": "111.09 - 183.00"
+        },
+        "regularMarketChange": {
+            "raw": -4.4900055,
+            "fmt": "-4.49"
+        },
+        "cryptoTradeable": false,
+        "exchangeDataDelayedBy": 0,
+        "averageDailyVolume3Month": {
+            "raw": 505371,
+            "fmt": "505,371",
+            "longFmt": "505,371"
+        },
+        "firstTradeDateMilliseconds": 1422455400000,
+        "exchangeTimezoneShortName": "EDT",
+        "fiftyTwoWeekChangePercent": {
+            "raw": 29.437923,
+            "fmt": "29.44%"
+        },
+        "hasPrePostMarketData": true,
+        "regularMarketPrice": {
+            "raw": 173.06,
+            "fmt": "173.06"
+        },
+        "fiftyTwoWeekLow": {
+            "raw": 111.09,
+            "fmt": "111.09"
+        },
+        "marketState": "POST",
+        "customPriceAlertConfidence": "HIGH",
+        "regularMarketVolume": {
+            "raw": 583300,
+            "fmt": "583,300",
+            "longFmt": "583,300"
+        },
+        "market": "us_market",
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "epsTrailingTwelveMonths": {
+            "raw": -6.62,
+            "fmt": "-6.62"
+        },
+        "sourceInterval": 15,
+        "exchange": "NMS",
+        "regularMarketDayLow": {
+            "raw": 171.55,
+            "fmt": "171.55"
+        },
+        "shortName": "Ascendis Pharma A/S",
+        "region": "US",
+        "triggerable": true,
+        "longName": "Ascendis Pharma A/S"
+    },
+    {
+        "symbol": "KBH",
+        "fiftyTwoWeekLowChangePercent": {
+            "raw": 0.055623665,
+            "fmt": "5.56%"
+        },
+        "language": "en-US",
+        "regularMarketDayRange": {
+            "raw": "51.5 - 53.15",
+            "fmt": "51.50 - 53.15"
+        },
+        "regularMarketDayHigh": {
+            "raw": 53.15,
+            "fmt": "53.15"
+        },
+        "marketCap": {
+            "raw": 3702883328,
+            "fmt": "3.703B",
+            "longFmt": "3,702,883,328"
+        },
+        "fiftyTwoWeekHighChange": {
+            "raw": -38.079998,
+            "fmt": "-38.08"
+        },
+        "fiftyTwoWeekRange": {
+            "raw": "48.9 - 89.7",
+            "fmt": "48.90 - 89.70"
+        },
+        "exchangeDataDelayedBy": 0,
+        "averageDailyVolume3Month": {
+            "raw": 1416485,
+            "fmt": "1.416M",
+            "longFmt": "1,416,485"
+        },
+        "firstTradeDateMilliseconds": 523287000000,
+        "fiftyTwoWeekChangePercent": {
+            "raw": -22.303741,
+            "fmt": "-22.30%"
+        },
+        "hasPrePostMarketData": true,
+        "fiftyTwoWeekLow": {
+            "raw": 48.9,
+            "fmt": "48.90"
+        },
+        "regularMarketVolume": {
+            "raw": 1448990,
+            "fmt": "1.449M",
+            "longFmt": "1,448,990"
+        },
+        "market": "us_market",
+        "quoteSourceName": "Delayed Quote",
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "exchange": "NYQ",
+        "regularMarketDayLow": {
+            "raw": 51.5,
+            "fmt": "51.50"
+        },
+        "shortName": "KB Home",
+        "region": "US",
+        "fullExchangeName": "NYSE",
+        "gmtOffSetMilliseconds": -14400000,
+        "regularMarketOpen": {
+            "raw": 52.9,
+            "fmt": "52.90"
+        },
+        "regularMarketTime": {
+            "raw": 1749240002,
+            "fmt": "4:00PM EDT"
+        },
+        "regularMarketChangePercent": {
+            "raw": -2.51181,
+            "fmt": "-2.51%"
+        },
+        "quoteType": "EQUITY",
+        "fiftyTwoWeekLowChange": {
+            "raw": 2.7199974,
+            "fmt": "2.72"
+        },
+        "fiftyTwoWeekHighChangePercent": {
+            "raw": -0.42452618,
+            "fmt": "-42.45%"
+        },
+        "typeDisp": "Equity",
+        "trailingPE": {
+            "raw": 6.310513,
+            "fmt": "6.31"
+        },
+        "lastClosePriceToNNWCPerShare": {
+            "raw": 10.90918420279764,
+            "fmt": "10.91"
+        },
+        "tradeable": false,
+        "currency": "USD",
+        "sharesOutstanding": {
+            "raw": 71733504,
+            "fmt": "71.734M",
+            "longFmt": "71,733,504"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 89.7,
+            "fmt": "89.70"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 52.95,
+            "fmt": "52.95"
+        },
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketChange": {
+            "raw": -1.33,
+            "fmt": "-1.33"
+        },
+        "cryptoTradeable": false,
+        "exchangeTimezoneShortName": "EDT",
+        "regularMarketPrice": {
+            "raw": 51.62,
+            "fmt": "51.62"
+        },
+        "marketState": "POST",
+        "customPriceAlertConfidence": "LOW",
+        "lastCloseTevEbitLtm": {
+            "raw": 9.178249,
+            "fmt": "9.18"
+        },
+        "epsTrailingTwelveMonths": {
+            "raw": 8.18,
+            "fmt": "8.18"
+        },
+        "triggerable": false,
+        "longName": "KB Home"
+    }
+]
