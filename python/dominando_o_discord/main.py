@@ -25,6 +25,7 @@ class MeuClient(discord.Client):
         self.tree = app_commands.CommandTree(self)
     
     async def setup_hook(self):
+        self.add_view(View())
         self.tree.copy_global_to(guild=id)
         await self.tree.sync(guild=id)
 
@@ -158,5 +159,44 @@ async def saldo(interaction:discord.Interaction, membro:discord.Member=None):
     dinheiro = saldos[str(membro.id)]["saldo"]
 
     await interaction.response.send_message(f"O usuário tem {dinheiro} de dinheiro", ephemeral=True)
+
+
+
+class View(discord.ui.View):
+    def __init__(self):
+        super().__init__()
+        self.timeout=None
+
+        botao = discord.ui.Button(label="Texto", url="https://www.youtube.com/tonho")
+        self.add_item(botao)
+        self.add_item(Menu())
+
+    @discord.ui.button(label="Botão Normal", style=discord.ButtonStyle.blurple,emoji="😍", custom_id="persistente_view:botao")
+    async def botao(self, interaction:discord.Interaction, button:discord.ui.Button):
+        await interaction.response.send_message("Botão clicado.", ephemeral=True)
+
+class Menu(discord.ui.Select):
+    def __init__(self):
+        options = [
+            discord.SelectOption(value="value1", label="opção 1", emoji="🧨"),
+            discord.SelectOption(value="value2", label="opção 2", emoji="🦍"),
+            discord.SelectOption(value="value3", label="opção 3", emoji="🎃")
+        ]
+        super().__init__(
+            placeholder="Seleciona uma opção...",
+            min_values=1,
+            max_values=3,
+            options=options,
+            custom_id="persistent_view:menu"
+
+        )
+    async def callback(self, interaction:discord.Interaction):
+        await interaction.response.send_message(self.values, ephemeral=True)
+
+
+@client.tree.command()
+async def teste(interaction:discord.Interaction):
+    await interaction.response.send_message("Mensagem", view=View())
+
 
 client.run(TOKEN)
